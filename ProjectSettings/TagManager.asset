@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Number6
   - Number1
+  - Pickupable
   layers:
   - Default
   - TransparentFX
