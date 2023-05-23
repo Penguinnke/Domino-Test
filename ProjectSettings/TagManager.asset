@@ -44,3 +44,6 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Dominos
+    uniqueID: 2626153329
+    locked: 0
