@@ -38,28 +38,6 @@ public class Drag3 : MonoBehaviour
         var mousePosition = GetMousePos();
         transform.position = mousePosition - _offset;
 
-        //define the detection area
-        Vector2 center = transform.position;
-        Vector2 size = targetObject.GetComponent<SpriteRenderer>().bounds.size;
-
-        //Check if any colliders overlap with the detection area
-        Collider2D[] colliders = Physics2D.OverlapAreaAll(center - size / 30f, center + size / 30f);
-
-        //Loop through the detected colliders 
-        foreach (Collider2D collider in colliders)
-        {
-            if (collider.gameObject != gameObject && collider.gameObject == targetObject.gameObject)
-            {
-                //Collision with the target block detected
-                Debug.Log("Collision detected with the target");
-                //Perform action here
-                // Calculate the position on the side of the target object
-                Vector2 targetPosition = (Vector2)targetObject.position + (Vector2)targetObject.right * stickDistance;
-                transform.position = Vector2.Lerp(transform.position, targetPosition, Time.deltaTime * 5f);               
-            }
-        }
-
-
     }
 
     private void OnMouseDown()
@@ -72,6 +50,14 @@ public class Drag3 : MonoBehaviour
     {
         _dragging = false;
         _offset = GetMousePos() - (Vector2)transform.position;
+
+        if(Vector2.Distance(transform.position, targetObject.transform.position) < 5)
+        {
+            Vector2 targetPosition = (Vector2)targetObject.position + (Vector2)targetObject.right * stickDistance;
+            transform.position = Vector2.Lerp(transform.position, targetPosition, Time.deltaTime * 5f);
+        } else {
+            Debug.Log("No");
+        }
     }
 
     Vector2 GetMousePos()
