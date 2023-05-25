@@ -44,6 +44,10 @@ public class Drag3 : MonoBehaviour
         var mousePosition = GetMousePos();
         transform.position = mousePosition - _offset;
 
+        if (_dragging == true) 
+        {
+            UnfreezeXY();
+        }
     }
 
     private void OnMouseDown()
@@ -56,8 +60,6 @@ public class Drag3 : MonoBehaviour
     {
         _dragging = false;
         _offset = GetMousePos() - (Vector2)transform.position;
-        FreezeXY();
-        
     }
 
     Vector2 GetMousePos()
@@ -84,7 +86,7 @@ public class Drag3 : MonoBehaviour
         }
     } 
 
-    private void FreezeXY()
+    private void UnfreezeXY()
     {
         gameObject.GetComponent<Rigidbody2D>().constraints &= ~RigidbodyConstraints2D.FreezePositionX;
         gameObject.GetComponent<Rigidbody2D>().constraints &= ~RigidbodyConstraints2D.FreezePositionY;

@@ -264,8 +264,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7d932709a03fba488df8ec055b389c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  targetObject: {fileID: 2126753789}
-  stickDistance: 0
+  boxCollider2D: {fileID: 1253440952}
+  XSizeBC_A: 1.5
+  YSizeBC_A: 1.5
+  XSizeBC_B: 1
+  YSizeBC_B: 1
+  stickDistance: 3
   _dominoTag: Number1
 --- !u!212 &1253440954
 SpriteRenderer:
@@ -432,8 +436,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7d932709a03fba488df8ec055b389c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  targetObject: {fileID: 2126753789}
-  stickDistance: 0
+  boxCollider2D: {fileID: 1770441962}
+  XSizeBC_A: 1.5
+  YSizeBC_A: 1.5
+  XSizeBC_B: 1
+  YSizeBC_B: 1
+  stickDistance: 3
   _dominoTag: Number1
 --- !u!212 &1770441964
 SpriteRenderer:
@@ -572,8 +580,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7d932709a03fba488df8ec055b389c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  targetObject: {fileID: 1253440955}
-  stickDistance: 0
+  boxCollider2D: {fileID: 2126753790}
+  XSizeBC_A: 1.5
+  YSizeBC_A: 1.5
+  XSizeBC_B: 1
+  YSizeBC_B: 1
+  stickDistance: 3
   _dominoTag: Number1
 --- !u!212 &2126753792
 SpriteRenderer:
@@ -638,7 +650,7 @@ Rigidbody2D:
   m_Simulated: 1
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
-  m_Mass: 1
+  m_Mass: 0.0001
   m_LinearDrag: 0
   m_AngularDrag: 0.5
   m_GravityScale: 0
