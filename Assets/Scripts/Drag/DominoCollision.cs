@@ -40,9 +40,9 @@ public class DominoCollision : MonoBehaviour
             // CalculatePos();
             // _collision.gameObject.GetComponent<Rigidbody2D>().constraints = RigidbodyConstraints2D.FreezePositionX | RigidbodyConstraints2D.FreezePositionY | RigidbodyConstraints2D.FreezeRotation; 
         } else {
+            Placed._placed = true;
             Debug.Log("Not The Correct Block!");
             Dragging._dragging = false;
-            Placed._placed = false;
         }
     }
 

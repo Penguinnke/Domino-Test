@@ -6,13 +6,12 @@ public class DraggingDomino : MonoBehaviour
 {
     public bool _dragging, _placed;
 
-    private Vector2 _offset, _orginalPosition;
+    private Vector2 _offset;//, _orginalPosition;
 
-    private void Start() {
-        _placed = false;
-    }
+
     private void Awake() {
-        _orginalPosition = transform.position;
+        _placed = false;
+        //_orginalPosition = transform.position;
     }
 
     private void Update() {
