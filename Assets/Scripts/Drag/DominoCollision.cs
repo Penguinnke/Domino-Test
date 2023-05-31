@@ -33,6 +33,8 @@ public class DominoCollision : MonoBehaviour
 
             Debug.Log("Not The Correct Block!");
             Dragging._dragging = false;
+            Placed._placed = false;
+
         }
     }
 }
