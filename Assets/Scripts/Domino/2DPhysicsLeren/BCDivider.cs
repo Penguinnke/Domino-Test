@@ -35,10 +35,9 @@ public class BCDivider : MonoBehaviour
             //Assign tagB to the colliding object if it was not assigned tagA
             if(contact.point.x < _colliderCenter.x)
             {
-            _collision.gameObject.tag = _tagB;
+                _collision.gameObject.tag = _tagB;
+                break;
             }
         }
-
-
     }
 }

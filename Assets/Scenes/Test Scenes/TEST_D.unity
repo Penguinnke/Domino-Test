@@ -186,6 +186,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Domino
       objectReference: {fileID: 0}
+    - target: {fileID: 3243309838942230127, guid: b7d783805ce9fc6449b5a9021dd08295, type: 3}
+      propertyPath: m_TagString
+      value: Domino
+      objectReference: {fileID: 0}
     - target: {fileID: 4744841809040382349, guid: b7d783805ce9fc6449b5a9021dd08295, type: 3}
       propertyPath: _tagA
       value: Number6
@@ -193,6 +197,10 @@ PrefabInstance:
     - target: {fileID: 4744841809040382349, guid: b7d783805ce9fc6449b5a9021dd08295, type: 3}
       propertyPath: _tagB
       value: Number1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4744841809040382349, guid: b7d783805ce9fc6449b5a9021dd08295, type: 3}
+      propertyPath: _dragging
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6847904763845064801, guid: b7d783805ce9fc6449b5a9021dd08295, type: 3}
       propertyPath: _dominoTagTRUE
@@ -307,6 +315,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Domino (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 3243309838942230127, guid: b7d783805ce9fc6449b5a9021dd08295, type: 3}
+      propertyPath: m_TagString
+      value: Domino
+      objectReference: {fileID: 0}
     - target: {fileID: 4744841809040382349, guid: b7d783805ce9fc6449b5a9021dd08295, type: 3}
       propertyPath: _tagA
       value: Number1
@@ -314,6 +326,10 @@ PrefabInstance:
     - target: {fileID: 4744841809040382349, guid: b7d783805ce9fc6449b5a9021dd08295, type: 3}
       propertyPath: _tagB
       value: Number6
+      objectReference: {fileID: 0}
+    - target: {fileID: 4744841809040382349, guid: b7d783805ce9fc6449b5a9021dd08295, type: 3}
+      propertyPath: _dragging
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6847904763845064801, guid: b7d783805ce9fc6449b5a9021dd08295, type: 3}
       propertyPath: _dominoTagTRUE
