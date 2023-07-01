@@ -1,4 +1,3 @@
-using System.Data.SqlTypes;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -7,6 +6,10 @@ public class DominoCollision : MonoBehaviour
 {
     public bool colliding;
     public bool isCollisionDetectedRight;
+
+    public Rigidbody2D rb2d; //Rigidbody from the entire Domino
+    public AudioSource audiosourcecolliding;
+    public AudioSource audiosourcenotcolliding;
 
     private Vector2 _offset, _orginalPosition;
 
@@ -19,7 +22,10 @@ public class DominoCollision : MonoBehaviour
 
     private void Start()
     {
-        isCollisionDetectedRight = false;
+        //isCollisionDetectedRight = false;
+        colliding = false;
+
+        NotCollidingSound();
     }
     
     
@@ -69,7 +75,12 @@ public class DominoCollision : MonoBehaviour
             Debug.Log("Not Collision!");
             colliding = false;
             isCollisionDetectedRight = false;
-        }       
+        } 
+
+
+        CollidingSound();
+        NotCollidingSound();
+        
     }
 
     private void OnCollisionExit2D(Collision2D _collision)
@@ -80,14 +91,23 @@ public class DominoCollision : MonoBehaviour
         }
     }
 
-    private void Update()
+
+    private void NotCollidingSound()
     {
-        if (!isCollisionDetectedRight)
+        if (isCollisionDetectedRight == false)
         {
-            //unfreeze the component
-        } else {
-            //there is collision detected and I need to freeze the component
+            audiosourcenotcolliding.Play();
         }
     }
+
+    private void CollidingSound()
+    {
+        if (isCollisionDetectedRight == true)
+        {
+            audiosourcecolliding.Play();
+            Debug.Log("Played");
+        }
+    }
+
 
 }
