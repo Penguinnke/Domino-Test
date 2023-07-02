@@ -8,8 +8,11 @@ public class DominoCollision : MonoBehaviour
     public bool isCollisionDetectedRight;
 
     public Rigidbody2D rb2d; //Rigidbody from the entire Domino
+
+    //Audio
     public AudioSource audiosourcecolliding;
     public AudioSource audiosourcenotcolliding;
+
 
     private Vector2 _offset, _orginalPosition;
 
@@ -27,7 +30,6 @@ public class DominoCollision : MonoBehaviour
 
         NotCollidingSound();
     }
-    
     
     private void OnCollisionEnter2D(Collision2D _collision)
     {
@@ -77,9 +79,8 @@ public class DominoCollision : MonoBehaviour
             isCollisionDetectedRight = false;
         } 
 
-
-        CollidingSound();
-        NotCollidingSound();
+        CollidingSound(); //hier moet ik dus hebben wanneer de colliding goed is dat die de position vastzet
+        NotCollidingSound(); //hier meot ik dus ervoor zorgen dat de freezing dan uit is
         
     }
 
@@ -108,6 +109,41 @@ public class DominoCollision : MonoBehaviour
             Debug.Log("Played");
         }
     }
+    
+    private void FixedUpdate()
+    {
+        if (isCollisionDetectedRight == true)
+        {
+        //      rb2d.constraints = RigidbodyConstraints2D.FreezePosition | RigidbodyConstraints2D.FreezeRotation;
+        }
+        
+        // if (isCollisionDetectedRight == false)
+        // {
+        //     rb2d.constraints &= ~RigidbodyConstraints2D.FreezePosition;
+        // }
 
+        
+        // Find all GameObjects with the specified tag
+        // GameObject[] targets = GameObject.FindGameObjectsWithTag(_dominoTagTRUE);
+
+        // if (targets.Length < 2)
+        // {
+        //      //Debug.LogError("Not enough objects with the tag " + _dominoTagTRUE + " in the scene.");
+        //      //return;
+        // }
+
+        // Loop through the objects and calculate the distance between them
+        // for (int i = 0; i < targets.Length - 1; i++)
+        // {
+        //     for (int j = i + 1; j < targets.Length; j++)
+        //     {
+        //         // Calculate the distance between the current pair of objects
+        //         float distance = Vector2.Distance(targets[i].transform.position, targets[j].transform.position);
+
+        //         Debug.Log("Distance between " + targets[i].name + " and " + targets[j].name + ": " + distance);
+        //     }
+        // }
+    }
 
 }
+

@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 3243309837484451685}
   - component: {fileID: 8599963263862168257}
   - component: {fileID: 1374471641611361710}
+  - component: {fileID: 6581167439285232172}
   m_Layer: 6
   m_Name: Z
   m_TagString: Untagged
@@ -108,6 +109,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1c91ef26938b5574e8bf5b46df4d1de9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  colliding: 0
+  isCollisionDetectedRight: 0
+  rb2d: {fileID: 0}
+  audiosourcecolliding: {fileID: 0}
+  audiosourcenotcolliding: {fileID: 0}
   _dominoTagTRUE: Domino1
   _dominoTagFALSE1: Domino1
   _dominoTagFALSE2: Domino2
@@ -140,6 +146,22 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
+--- !u!114 &6581167439285232172
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3243309837484451683}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcdfade25ba0d3542970eace7cf1952f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  targetTag: Number6
+  collisionColor: {r: 0, g: 0.23137255, b: 0.09361439, a: 1}
+  exitColor: {r: 0, g: 0, b: 0, a: 1}
+  delay: 0.5
 --- !u!1 &3243309837517648252
 GameObject:
   m_ObjectHideFlags: 0
@@ -153,6 +175,7 @@ GameObject:
   - component: {fileID: 3243309837517648134}
   - component: {fileID: 6847904763845064801}
   - component: {fileID: 1993320808974514318}
+  - component: {fileID: 6262445350180649849}
   m_Layer: 6
   m_Name: W
   m_TagString: Untagged
@@ -248,6 +271,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1c91ef26938b5574e8bf5b46df4d1de9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  colliding: 0
+  isCollisionDetectedRight: 0
+  rb2d: {fileID: 0}
+  audiosourcecolliding: {fileID: 0}
+  audiosourcenotcolliding: {fileID: 0}
   _dominoTagTRUE: Domino1
   _dominoTagFALSE1: Domino1
   _dominoTagFALSE2: Domino2
@@ -280,6 +308,22 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
+--- !u!114 &6262445350180649849
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3243309837517648252}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcdfade25ba0d3542970eace7cf1952f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  targetTag: Number6
+  collisionColor: {r: 0.66415095, g: 1, b: 0.80076754, a: 1}
+  exitColor: {r: 1, g: 1, b: 1, a: 1}
+  delay: 0.5
 --- !u!1 &3243309838942230127
 GameObject:
   m_ObjectHideFlags: 0
