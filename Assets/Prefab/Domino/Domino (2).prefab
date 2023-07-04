@@ -161,6 +161,8 @@ MonoBehaviour:
   _tagA_RIGHT: Number6
   _tagB_LEFT: Number1
   Untagged: Untagged
+  Black: {fileID: 0}
+  White: {fileID: 0}
   _dragging: 0
 --- !u!1 &6041784827991805507
 GameObject:
@@ -173,9 +175,8 @@ GameObject:
   - component: {fileID: 6041784827991805500}
   - component: {fileID: 6041784827991805496}
   - component: {fileID: 6041784827991805497}
-  - component: {fileID: 2437172313737627486}
   - component: {fileID: 7310332724980402097}
-  - component: {fileID: 2896547431655097414}
+  - component: {fileID: 1642216986094510617}
   m_Layer: 6
   m_Name: W_6
   m_TagString: Untagged
@@ -259,29 +260,6 @@ SortingGroup:
   m_SortingLayerID: -1668813967
   m_SortingLayer: 1
   m_SortingOrder: 0
---- !u!114 &2437172313737627486
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6041784827991805507}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1c91ef26938b5574e8bf5b46df4d1de9, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  colliding: 0
-  isCollisionDetectedRight: 0
-  rb2d: {fileID: 6041784826730735950}
-  audiosourcecolliding: {fileID: 0}
-  audiosourcenotcolliding: {fileID: 0}
-  _dominoTagTRUE: Number6
-  _dominoTagFALSE1: Number5
-  _dominoTagFALSE2: Number4
-  _dominoTagFALSE3: Number3
-  _dominoTagFALSE4: Number2
-  _dominoTagFALSE5: Number1
 --- !u!61 &7310332724980402097
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -308,7 +286,7 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
---- !u!114 &2896547431655097414
+--- !u!114 &1642216986094510617
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -317,14 +295,23 @@ MonoBehaviour:
   m_GameObject: {fileID: 6041784827991805507}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: dcdfade25ba0d3542970eace7cf1952f, type: 3}
+  m_Script: {fileID: 11500000, guid: ce30bc94641ddcf4291831d5125c6b96, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  targetTag: Number6
-  collisionColor: {r: 0.66415095, g: 1, b: 0.80076754, a: 1}
-  wrongCollisionColor: {r: 1, g: 0.60754716, b: 0.60754716, a: 1}
-  exitColor: {r: 1, g: 1, b: 1, a: 1}
-  delay: 0.5
+  colliding: 0
+  isCollisionDetectedRight: 0
+  audiosourcecolliding: {fileID: 0}
+  audiosourcenotcolliding: {fileID: 0}
+  _dominoTagTRUE: Number1
+  _dominoTagFALSE1: Number2
+  _dominoTagFALSE2: Number3
+  _dominoTagFALSE3: Number4
+  _dominoTagFALSE4: Number5
+  _dominoTagFALSE5: Number6
+  collisionColor: {r: 0.76792455, g: 1, b: 0.8019623, a: 1}
+  wrongCollisionColor: {r: 1, g: 0.76862746, b: 0.8060341, a: 1}
+  exitColor: {r: 1, g: 1, b: 1, a: 0}
+  delay: 2
 --- !u!1 &6041784828226263132
 GameObject:
   m_ObjectHideFlags: 0
@@ -336,9 +323,8 @@ GameObject:
   - component: {fileID: 6041784828226263133}
   - component: {fileID: 6041784828226263129}
   - component: {fileID: 6041784828226263130}
-  - component: {fileID: 685395215923996158}
   - component: {fileID: 7910903674184458897}
-  - component: {fileID: 2706442089569819923}
+  - component: {fileID: 2140906498046353813}
   m_Layer: 6
   m_Name: Z_1
   m_TagString: Untagged
@@ -422,29 +408,6 @@ SortingGroup:
   m_SortingLayerID: -1668813967
   m_SortingLayer: 1
   m_SortingOrder: 0
---- !u!114 &685395215923996158
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6041784828226263132}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1c91ef26938b5574e8bf5b46df4d1de9, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  colliding: 0
-  isCollisionDetectedRight: 0
-  rb2d: {fileID: 6041784826730735950}
-  audiosourcecolliding: {fileID: 0}
-  audiosourcenotcolliding: {fileID: 0}
-  _dominoTagTRUE: Number1
-  _dominoTagFALSE1: Number2
-  _dominoTagFALSE2: Number3
-  _dominoTagFALSE3: Number4
-  _dominoTagFALSE4: Number5
-  _dominoTagFALSE5: Number6
 --- !u!61 &7910903674184458897
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -471,7 +434,7 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
---- !u!114 &2706442089569819923
+--- !u!114 &2140906498046353813
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -480,11 +443,20 @@ MonoBehaviour:
   m_GameObject: {fileID: 6041784828226263132}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: dcdfade25ba0d3542970eace7cf1952f, type: 3}
+  m_Script: {fileID: 11500000, guid: ce30bc94641ddcf4291831d5125c6b96, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  targetTag: Number1
-  collisionColor: {r: 0, g: 0.23137255, b: 0.09361439, a: 1}
-  wrongCollisionColor: {r: 0.49411765, g: 0, b: 0, a: 1}
-  exitColor: {r: 0, g: 0, b: 0, a: 1}
-  delay: 0.5
+  colliding: 0
+  isCollisionDetectedRight: 0
+  audiosourcecolliding: {fileID: 0}
+  audiosourcenotcolliding: {fileID: 0}
+  _dominoTagTRUE: Number6
+  _dominoTagFALSE1: Number5
+  _dominoTagFALSE2: Number4
+  _dominoTagFALSE3: Number3
+  _dominoTagFALSE4: Number2
+  _dominoTagFALSE5: Number1
+  collisionColor: {r: 0, g: 0.29411766, b: 0.04288309, a: 1}
+  wrongCollisionColor: {r: 0.29411766, g: 0, b: 0.013415393, a: 1}
+  exitColor: {r: 0, g: 0, b: 0, a: 0}
+  delay: 2
