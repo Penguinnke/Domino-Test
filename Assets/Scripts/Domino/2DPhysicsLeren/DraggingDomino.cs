@@ -17,6 +17,14 @@ public class DraggingDomino : MonoBehaviour
         if(!_dragging) return;
         var mousePosition = GetMousePos();
         transform.position = mousePosition - _offset;
+
+        if (_dragging == true)
+        {
+            if (Input.GetKeyDown(KeyCode.Return))
+            {
+                transform.Rotate(0f, 0f, 90f);
+            }
+        }
     }
 
     private void OnMouseDown() {

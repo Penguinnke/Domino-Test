@@ -52,51 +52,18 @@ public class DominoColour : MonoBehaviour
                 StopCoroutine(colorChangeCoroutine);
             }
             colorChangeCoroutine = StartCoroutine(ChangeColorWithDelay(exitColor, delay));
-        }
+        } else {
 
-        if(_collision.gameObject.tag == _dominoTagFALSE1)
-
-        {
             Debug.LogError("WRONG COLLISION");
-            colliding = false;
-            isCollisionDetectedRight = false;
-            spriteRenderer.color = wrongCollisionColor;
-        }
-
-        if(_collision.gameObject.tag == _dominoTagFALSE2)
-        {
-            Debug.LogError("WRONG COLLISION");
-            colliding = false;
-            isCollisionDetectedRight = false;
             spriteRenderer.color = wrongCollisionColor;
 
+            if (colorChangeCoroutine != null)
+            {
+                isCollisionDetectedRight = false;
+                StopCoroutine(colorChangeCoroutine);
+            }
+            colorChangeCoroutine = StartCoroutine(ChangeColorWithDelay(exitColor, delay));
         }
-
-        if(_collision.gameObject.tag == _dominoTagFALSE3)
-        {
-            Debug.LogError("WRONG COLLISION");
-            colliding = false;
-            isCollisionDetectedRight = false;
-            spriteRenderer.color = wrongCollisionColor;
-
-        }
-
-        
-        if(_collision.gameObject.tag == _dominoTagFALSE4)
-        {
-            Debug.LogError("WRONG COLLISION");
-            colliding = false;
-            isCollisionDetectedRight = false;
-            spriteRenderer.color = wrongCollisionColor;
-        }
-
-        if(_collision.gameObject.tag == _dominoTagFALSE5)
-        {
-            Debug.LogError("WRONG COLLISION");
-            colliding = false;
-            isCollisionDetectedRight = false;
-            spriteRenderer.color = wrongCollisionColor;
-        } 
 
         CollidingSound(); //hier moet ik dus hebben wanneer de colliding goed is dat die de position vastzet
         NotCollidingSound(); //hier meot ik dus ervoor zorgen dat de freezing dan uit is
