@@ -7,11 +7,6 @@ public class DraggingColliding : MonoBehaviour
     //The tag manager
     private float rotationZ;
     private BoxCollider2D _boxCollider;
-    public string _tagA_RIGHT = "TagA_RIGHT";
-    public string _tagB_LEFT = "TagB_LEFT";
-    public string Untagged = "Untagged";
-    public GameObject Black;
-    public GameObject White;
 
     //For dragging the domino around
     public bool _dragging;
@@ -21,7 +16,6 @@ public class DraggingColliding : MonoBehaviour
     {
         _dragging = false;
         _boxCollider = GetComponent<BoxCollider2D>(); //Get the boxcollider for the tag manager
-        //this.gameObject.GetComponent<TagSystem2>().enabled = false;
     }
 
     private void Update() 
@@ -29,25 +23,13 @@ public class DraggingColliding : MonoBehaviour
         rotationZ = transform.rotation.eulerAngles.z;//Get rotation Z
         Dragging();
 
-        if (_dragging == false)
-        {
-            //gameObject.tag = "Domino";
-            // Black.tag = _tagB_LEFT;
-            // White.tag = _tagA_RIGHT;
-            //this.gameObject.GetComponent<TagSystem2>().enabled = false;
-        }
-
         if (_dragging == true) //So it doesn't go against the tagmanager
         {
-            // Black.tag = Untagged;
-            // White.tag = Untagged;
 
             if (Input.GetKeyDown(KeyCode.Return))
             {
                 transform.Rotate(0f, 0f, 90f);
             }
-
-            //this.gameObject.GetComponent<TagSystem2>().enabled = true;
         }
     }
 
