@@ -12,6 +12,7 @@ TagManager:
   - Number3
   - Number2
   - Domino
+  - Number0
   layers:
   - Default
   - TransparentFX
