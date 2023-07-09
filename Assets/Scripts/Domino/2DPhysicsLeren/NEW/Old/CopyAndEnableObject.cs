@@ -6,6 +6,11 @@ public class CopyAndEnableObject : MonoBehaviour
 {
     public GameObject[] objectsToCopy; // Array of objects to choose from
 
+    public float minX = -10f; // Minimum X-axis value
+    public float maxX = 10f; // Maximum X-axis value
+    public float minY = -5f; // Minimum Y-axis value
+    public float maxY = 5f; // Maximum Y-axis value
+
     void Update()
     {
         if (Input.GetKeyDown(KeyCode.Tab))
@@ -21,6 +26,11 @@ public class CopyAndEnableObject : MonoBehaviour
 
         GameObject copiedObject = Instantiate(randomObject);
         copiedObject.SetActive(true);
-        // Additional customization or modifications to the copied object
+
+        float randomX = Random.Range(minX, maxX);
+        float randomY = Random.Range(minY, maxY);
+
+        float zPos = randomObject.transform.position.z;
+        copiedObject.transform.position = new Vector3(randomX, randomY, zPos);
     }
 }
