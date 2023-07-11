@@ -28,7 +28,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6385738686506592842}
   m_LocalRotation: {x: 0, y: -0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.24162315, y: -0.00021845294, z: 0}
+  m_LocalPosition: {x: -0.0565, y: -0.00021845294, z: 0}
   m_LocalScale: {x: 0.51633686, y: 1, z: 0}
   m_Children: []
   m_Father: {fileID: 6385738687431695175}
@@ -74,8 +74,8 @@ SpriteRenderer:
   m_SortingLayerID: -1668813967
   m_SortingLayer: 1
   m_SortingOrder: 1
-  m_Sprite: {fileID: 7482667652216324306, guid: 48e93eef0688c4a259cb0eddcd8661f7, type: 3}
-  m_Color: {r: 0, g: 0, b: 0, a: 1}
+  m_Sprite: {fileID: 21300000, guid: cafdb066e5ff28742875e18504265315, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -109,18 +109,18 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: 0.0015046895, y: 0.00039859116}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1, y: 1}
+    oldSize: {x: 0.62, y: 0.56}
     newSize: {x: 1, y: 1}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 1, y: 1}
+  m_Size: {x: 0.6238386, y: 0.56046045}
   m_EdgeRadius: 0
 --- !u!114 &6385738686506592841
 MonoBehaviour:
@@ -140,9 +140,9 @@ MonoBehaviour:
   audiosourcenotcolliding: {fileID: 0}
   _dominoTagTRUE: Number1
   _dominoTagTrueZero: Number0
-  collisionColor: {r: 0, g: 0.29411766, b: 0.043137256, a: 1}
-  wrongCollisionColor: {r: 0.29411766, g: 0, b: 0.011764706, a: 1}
-  exitColor: {r: 0, g: 0, b: 0, a: 1}
+  collisionColor: {r: 0, g: 1, b: 0.15294118, a: 1}
+  wrongCollisionColor: {r: 1, g: 0, b: 0.03999996, a: 1}
+  exitColor: {r: 1, g: 1, b: 1, a: 1}
   delay: 2
 --- !u!1 &6385738686608145493
 GameObject:
@@ -218,9 +218,9 @@ SpriteRenderer:
   m_SortingLayerID: -1668813967
   m_SortingLayer: 1
   m_SortingOrder: 1
-  m_Sprite: {fileID: 7482667652216324306, guid: 48e93eef0688c4a259cb0eddcd8661f7, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 9dd729c3f863da147b170584772a0084, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_FlipX: 0
+  m_FlipX: 1
   m_FlipY: 0
   m_DrawMode: 0
   m_Size: {x: 1, y: 1}
@@ -253,18 +253,18 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: 0.00043547153, y: -0.002553895}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1, y: 1}
+    oldSize: {x: 0.62, y: 0.56}
     newSize: {x: 1, y: 1}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 1, y: 1}
+  m_Size: {x: 0.62121534, y: 0.56436265}
   m_EdgeRadius: 0
 --- !u!114 &6385738686608145490
 MonoBehaviour:
@@ -282,7 +282,7 @@ MonoBehaviour:
   isCollisionDetectedRight: 0
   audiosourcecolliding: {fileID: 0}
   audiosourcenotcolliding: {fileID: 0}
-  collisionColor: {r: 0.76862746, g: 1, b: 0.8039216, a: 1}
+  collisionColor: {r: 0, g: 1, b: 0.15294118, a: 1}
   exitColor: {r: 1, g: 1, b: 1, a: 1}
   delay: 2
 --- !u!1 &6385738687431695174
@@ -316,7 +316,7 @@ Transform:
   m_GameObject: {fileID: 6385738687431695174}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 3.27, y: -0.07, z: 10}
-  m_LocalScale: {x: 3.9186304, y: 1.4, z: 1}
+  m_LocalScale: {x: 6, y: 2.6, z: 1}
   m_Children:
   - {fileID: 6385738686506592843}
   - {fileID: 6385738686608145450}
@@ -408,7 +408,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: 0.09919992, y: -0.000000014901161}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -419,7 +419,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 1, y: 1}
+  m_Size: {x: 0.63143015, y: 0.5669906}
   m_EdgeRadius: 0
 --- !u!210 &6385738687431695195
 SortingGroup:
@@ -444,11 +444,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f056b985acb89e04ea244d7f3e5a7251, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _tagA_RIGHT: Number0
-  _tagB_LEFT: Number0
-  Untagged: Untagged
-  Black: {fileID: 6385738686506592842}
-  White: {fileID: 6385738686608145493}
   _dragging: 0
 --- !u!114 &9051255496465906259
 MonoBehaviour:

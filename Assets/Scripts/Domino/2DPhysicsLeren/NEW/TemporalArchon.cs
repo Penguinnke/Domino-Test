@@ -6,9 +6,8 @@ public class TemporalArchon : MonoBehaviour
 {
     public Transform cameraTransform;
 
-    public void MoveCameraToPosition()
+    public void MoveCameraToPosition(Transform targetObject)
     {
-        Vector3 targetPosition = new Vector3(-0.13f, 0f, cameraTransform.position.z);
-        cameraTransform.position = targetPosition;
+        cameraTransform.position = targetObject.TransformPoint(new Vector3(-0.13f, 0f, 0f));
     }
 }

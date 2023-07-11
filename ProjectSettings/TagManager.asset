@@ -22,7 +22,7 @@ TagManager:
   - UI
   - Dominos
   - Table
-  - 
+  - FrozenObjectLayer
   - 
   - 
   - 
@@ -52,4 +52,7 @@ TagManager:
     locked: 0
   - name: Dominos
     uniqueID: 2626153329
+    locked: 0
+  - name: Replace
+    uniqueID: 3194528969
     locked: 0
