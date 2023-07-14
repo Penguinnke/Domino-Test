@@ -31,15 +31,15 @@ public class TutorialSpawn : MonoBehaviour
 
             if (tabCount == 0)
             {
-                dominoObject = Instantiate(dominoPrefab1);
+                dominoObject = dominoPrefab1;
             }
             else if (tabCount == 1)
             {
-                dominoObject = Instantiate(dominoPrefab2);
+                dominoObject = dominoPrefab2;
             }
             else
             {
-                dominoObject = Instantiate(dominoPrefab3);
+                dominoObject = dominoPrefab3;
             }
 
             dominoObject.SetActive(true);
