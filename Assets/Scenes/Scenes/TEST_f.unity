@@ -5051,7 +5051,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -280}
+  m_AnchoredPosition: {x: 0, y: -403}
   m_SizeDelta: {x: 411.5126, y: 69.9781}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1512920377
@@ -5377,8 +5377,9 @@ MonoBehaviour:
   m_text: "  \u2022\tTab : Spawn new domino\n  \u2022\tEnter + Left mouse button
     on domino of choice : Turn domino 90 degrees\n  \u2022\tHold left mouse button
     : Drag domino\n  \u2022\tDrag domino against Temporal Archon (star) : Temportal
-    Archon effect\n  \u2022\tA/W/S/D or arrow keys : Move camera\n  \u2022\tEsc key
-    : Open and close control screen\n\n\n"
+    Archon effect\n  \u2022\tA/W/S/D or arrow keys : Move camera\n  \u2022\tScroll
+    wheel: Zoom in and out with the camera\n  \u2022\tEsc key : Open and close control
+    screen\n\n\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: d6fe77854758a5240ac8dca2f40769f4, type: 2}
   m_sharedMaterial: {fileID: -605973935468690952, guid: d6fe77854758a5240ac8dca2f40769f4, type: 2}

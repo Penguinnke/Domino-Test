@@ -888,7 +888,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -365}
+  m_AnchoredPosition: {x: 0, y: -408}
   m_SizeDelta: {x: 411.5126, y: 69.9781}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &358722691
@@ -1178,8 +1178,12 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: No more place for domino's? Don't worry! You can move the camera around
+  m_text: 'No more place for domino''s? Don''t worry! You can move the camera around
     for more space!
+
+
+    You can also zoom in and out by using the scroll wheel
+    on your mouse.'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: d6fe77854758a5240ac8dca2f40769f4, type: 2}
   m_sharedMaterial: {fileID: -605973935468690952, guid: d6fe77854758a5240ac8dca2f40769f4, type: 2}
@@ -1242,7 +1246,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: -79.05353, z: 0, w: -33.55548}
+  m_margin: {x: 0, y: -223.12201, z: 0, w: -183.62665}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -2072,8 +2076,9 @@ MonoBehaviour:
   m_text: "  \u2022\tTab : Spawn new domino\n  \u2022\tEnter + Left mouse button
     on domino of choice : Turn domino 90 degrees\n  \u2022\tHold left mouse button
     : Drag domino\n  \u2022\tDrag domino against Temporal Archon (star) : Temportal
-    Archon effect\n  \u2022\tA/W/S/D or arrow keys : Move camera\n  \u2022\tEsc key
-    : Open and close control screen\n\n\n"
+    Archon effect\n  \u2022\tA/W/S/D or arrow keys : Move camera\n  \u2022\tScroll
+    wheel: Zoom in and out with the camera\n  \u2022\tEsc key : Open and close control
+    screen\n\n\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: d6fe77854758a5240ac8dca2f40769f4, type: 2}
   m_sharedMaterial: {fileID: -605973935468690952, guid: d6fe77854758a5240ac8dca2f40769f4, type: 2}
@@ -2542,8 +2547,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 452.72}
-  m_SizeDelta: {x: 533.5231, y: 174.5474}
+  m_AnchoredPosition: {x: 0, y: 314.46368}
+  m_SizeDelta: {x: 533.5231, y: 451.0626}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1258346760
 MonoBehaviour:
