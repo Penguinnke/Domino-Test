@@ -13,6 +13,9 @@ GameObject:
   - component: {fileID: 585031061877722983}
   - component: {fileID: 3895584088405783980}
   - component: {fileID: 585031061877722979}
+  - component: {fileID: 4471397065075761256}
+  - component: {fileID: 837018976823767588}
+  - component: {fileID: 5600178007115349511}
   m_Layer: 6
   m_Name: Z_4
   m_TagString: Untagged
@@ -144,6 +147,66 @@ MonoBehaviour:
   wrongCollisionColor: {r: 1, g: 0, b: 0.039215688, a: 1}
   exitColor: {r: 1, g: 1, b: 1, a: 1}
   delay: 2
+--- !u!114 &4471397065075761256
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 585031061877722977}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3cb2caff77f12a4479ecbf025df4ce8f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  colliding: 0
+  isCollisionDetectedRight: 0
+  Scenes:
+  - ChangerPlaceholder
+  areaCenter: {x: 0, y: 0, z: 0}
+  areaSize: {x: 45.28, y: 150.26, z: 0}
+  _dominoTagTRUE: Number4
+  _dominoTagTrueZero: Number0
+--- !u!114 &837018976823767588
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 585031061877722977}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbc663a2aef8be44783bc86240c67dd1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  colliding: 0
+  isCollisionDetectedRight: 0
+  Scenes:
+  - ChangerPlaceholder
+  areaCenter: {x: 45.28, y: 0, z: 0}
+  areaSize: {x: 45.28, y: 150.26, z: 0}
+  _dominoTagTRUE: Number4
+  _dominoTagTrueZero: Number0
+--- !u!114 &5600178007115349511
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 585031061877722977}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d4089137aabc5f459492dc1d00b2660, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  colliding: 0
+  isCollisionDetectedRight: 0
+  Scenes:
+  - ChangerPlaceholder
+  areaCenter: {x: 90.56, y: 0, z: 0}
+  areaSize: {x: 45.28, y: 150.26, z: 0}
+  _dominoTagTRUE: Number4
+  _dominoTagTrueZero: Number0
 --- !u!1 &585031062112180606
 GameObject:
   m_ObjectHideFlags: 0
@@ -157,8 +220,11 @@ GameObject:
   - component: {fileID: 585031062112180484}
   - component: {fileID: 4518602520445128844}
   - component: {fileID: 585031062112180601}
+  - component: {fileID: 2299534418358534613}
+  - component: {fileID: 5219281167788991261}
+  - component: {fileID: 7492521635570317496}
   m_Layer: 6
-  m_Name: W_5
+  m_Name: W_6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -218,7 +284,7 @@ SpriteRenderer:
   m_SortingLayerID: -1668813967
   m_SortingLayer: 1
   m_SortingOrder: 1
-  m_Sprite: {fileID: 21300000, guid: 2bdc308d347d79a458b347583687101d, type: 3}
+  m_Sprite: {fileID: 21300000, guid: c3a367b12fee0d9428fb902396afa5a8, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 1
   m_FlipY: 0
@@ -288,6 +354,63 @@ MonoBehaviour:
   wrongCollisionColor: {r: 1, g: 0, b: 0.039215688, a: 1}
   exitColor: {r: 1, g: 1, b: 1, a: 1}
   delay: 2
+--- !u!114 &2299534418358534613
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 585031062112180606}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3cb2caff77f12a4479ecbf025df4ce8f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  colliding: 0
+  isCollisionDetectedRight: 0
+  Scenes: []
+  areaCenter: {x: 0, y: 0, z: 0}
+  areaSize: {x: 0, y: 0, z: 0}
+  _dominoTagTRUE: Domino1
+  _dominoTagTrueZero: Domino0
+--- !u!114 &5219281167788991261
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 585031062112180606}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbc663a2aef8be44783bc86240c67dd1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  colliding: 0
+  isCollisionDetectedRight: 0
+  Scenes: []
+  areaCenter: {x: 0, y: 0, z: 0}
+  areaSize: {x: 0, y: 0, z: 0}
+  _dominoTagTRUE: Domino1
+  _dominoTagTrueZero: Domino0
+--- !u!114 &7492521635570317496
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 585031062112180606}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d4089137aabc5f459492dc1d00b2660, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  colliding: 0
+  isCollisionDetectedRight: 0
+  Scenes: []
+  areaCenter: {x: 0, y: 0, z: 0}
+  areaSize: {x: 0, y: 0, z: 0}
+  _dominoTagTRUE: Domino1
+  _dominoTagTrueZero: Domino0
 --- !u!1 &585031062798646893
 GameObject:
   m_ObjectHideFlags: 0
@@ -317,7 +440,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 585031062798646893}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 3.27, y: -0.07, z: 10}
   m_LocalScale: {x: 6, y: 2.6, z: 1}
   m_Children:

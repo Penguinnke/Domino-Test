@@ -17,4 +17,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Scenes/TEST_f.unity
     guid: 7074d1ada5b6395459e489a846b9c133
+  - enabled: 1
+    path: Assets/Scenes/Test Scenes/ChangerPlaceholder.unity
+    guid: 67446049697621d4f869e1d87fbeb49d
   m_configObjects: {}
