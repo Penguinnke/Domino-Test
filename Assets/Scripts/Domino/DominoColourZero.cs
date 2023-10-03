@@ -27,6 +27,8 @@ public class DominoColourZero : MonoBehaviour
         NotCollidingSound();
 
         spriteRenderer = GetComponent<SpriteRenderer>();
+        audiosourcecolliding = GetComponent<AudioSource>();
+        audiosourcenotcolliding = GetComponent<AudioSource>();
     }
     
     private void OnCollisionEnter2D(Collision2D _collision)
@@ -58,15 +60,18 @@ public class DominoColourZero : MonoBehaviour
     }
 
 
-    private void CollidingSound()
+   private void CollidingSound()
     {
         if (isCollisionDetectedRight == true)
         {
-            audiosourcecolliding.Play();
-            Debug.Log("Played");
+            AudioSource audioSource = audiosourcecolliding.GetComponent<AudioSource>();
+            if (audioSource != null)
+            {
+                audioSource.Play();
+                Debug.Log("Played");
+            }
         }
     }
-
     private IEnumerator ChangeColorWithDelay(Color targetColor, float delay)
     {
         yield return new WaitForSeconds(delay);
@@ -75,10 +80,14 @@ public class DominoColourZero : MonoBehaviour
     }
 
     private void NotCollidingSound()
-    {
+   {
         if (isCollisionDetectedRight == false)
         {
-            audiosourcenotcolliding.Play();
+            AudioSource audioSource = audiosourcenotcolliding.GetComponent<AudioSource>();
+            if (audioSource != null)
+            {
+                audioSource.Play();
+            }
         }
     }
 }
