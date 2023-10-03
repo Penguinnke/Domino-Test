@@ -208,6 +208,7 @@ MonoBehaviour:
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number2
   _dominoTagTrueZero: Number0
+  delayInSeconds: 2
 --- !u!1 &48454106 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 65196944518725431, guid: d3eaf9ede90aae841a50420b8414652e, type: 3}
@@ -283,6 +284,7 @@ MonoBehaviour:
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number3
   _dominoTagTrueZero: Number0
+  delayInSeconds: 2
 --- !u!1 &49717766 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8928844920640417193, guid: e8f2a61ca6a69a848bf5aadd180b9d0d, type: 3}
@@ -376,7 +378,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7893529457447574284, guid: 76916da0db2eb7542b57298ea4266f8e, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7893529457447574285, guid: 76916da0db2eb7542b57298ea4266f8e, type: 3}
       propertyPath: m_RootOrder
@@ -621,7 +623,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8062637646979828590, guid: cbd6e9a59281061408a1f5772152fbee, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8062637646979828591, guid: cbd6e9a59281061408a1f5772152fbee, type: 3}
       propertyPath: m_RootOrder
@@ -734,6 +736,7 @@ MonoBehaviour:
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number2
   _dominoTagTrueZero: Number0
+  delayInSeconds: 2
 --- !u!1001 &146745370
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -831,7 +834,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2759881791335339489, guid: 5d6b0476f561c5042bae758cdae0101e, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2759881791335339519, guid: 5d6b0476f561c5042bae758cdae0101e, type: 3}
       propertyPath: m_Mass
@@ -864,7 +867,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3402386808760681370, guid: 4c7fc33efe902cd489938bb375a60897, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3402386808760681371, guid: 4c7fc33efe902cd489938bb375a60897, type: 3}
       propertyPath: m_RootOrder
@@ -1037,6 +1040,7 @@ MonoBehaviour:
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number4
   _dominoTagTrueZero: Number0
+  delayInSeconds: 2
 --- !u!1 &187625563 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8719319417848125008, guid: 5c175dda0ee00b242a809bfbff69bc7a, type: 3}
@@ -1239,6 +1243,7 @@ MonoBehaviour:
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number1
   _dominoTagTrueZero: Number0
+  delayInSeconds: 2
 --- !u!1001 &213690565
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1296,7 +1301,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 38565420008191539, guid: b96eaea7ee7c2464e92b8cc6af2763ba, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 38565420933386528, guid: b96eaea7ee7c2464e92b8cc6af2763ba, type: 3}
       propertyPath: m_IsActive
@@ -1385,6 +1390,7 @@ MonoBehaviour:
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number6
   _dominoTagTrueZero: Number0
+  delayInSeconds: 2
 --- !u!1 &234226618 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6632090951768300774, guid: be5128048e7090147bef7372e032ec87, type: 3}
@@ -1450,6 +1456,7 @@ MonoBehaviour:
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number1
   _dominoTagTrueZero: Number0
+  delayInSeconds: 2
 --- !u!1 &238910269 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6280326325597003434, guid: 262509e0425915c4198b20dadf884ce5, type: 3}
@@ -1515,6 +1522,7 @@ MonoBehaviour:
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number4
   _dominoTagTrueZero: Number0
+  delayInSeconds: 2
 --- !u!1 &242948393 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 2759881790586237682, guid: 5d6b0476f561c5042bae758cdae0101e, type: 3}
@@ -1574,6 +1582,7 @@ MonoBehaviour:
   - Puzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
+  delayInSeconds: 2
 --- !u!1001 &257699324
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1603,7 +1612,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2105735158725784246, guid: bca898b8328323c4db0016f863c19308, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2105735158725784247, guid: bca898b8328323c4db0016f863c19308, type: 3}
       propertyPath: m_RootOrder
@@ -1664,7 +1673,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1623789917606176228, guid: ed9e022a1651cba43a8b7c56d984a758, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1623789917606176229, guid: ed9e022a1651cba43a8b7c56d984a758, type: 3}
       propertyPath: m_RootOrder
@@ -1787,6 +1796,7 @@ MonoBehaviour:
   - Puzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
+  delayInSeconds: 2
 --- !u!1 &278418708 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8062637646979828590, guid: cbd6e9a59281061408a1f5772152fbee, type: 3}
@@ -1870,7 +1880,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8514183005277923199, guid: de7afbfccc83c33439466187130b387e, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: de7afbfccc83c33439466187130b387e, type: 3}
@@ -1887,7 +1897,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6715549259250247076, guid: 2bbe2325db3f0e141a2a90bc51e9cbb5, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6715549259250247077, guid: 2bbe2325db3f0e141a2a90bc51e9cbb5, type: 3}
       propertyPath: m_RootOrder
@@ -2040,7 +2050,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2511969314887736841, guid: 3305225106d06374db5d493ab2d065b9, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2511969314887736855, guid: 3305225106d06374db5d493ab2d065b9, type: 3}
       propertyPath: m_Mass
@@ -2129,6 +2139,7 @@ MonoBehaviour:
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number3
   _dominoTagTrueZero: Number0
+  delayInSeconds: 2
 --- !u!1001 &316633072
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2162,7 +2173,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4710451051727588336, guid: 47a9f039a05bf8144b3cc7420923194d, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4710451051727588337, guid: 47a9f039a05bf8144b3cc7420923194d, type: 3}
       propertyPath: m_RootOrder
@@ -2275,6 +2286,7 @@ MonoBehaviour:
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number6
   _dominoTagTrueZero: Number0
+  delayInSeconds: 2
 --- !u!1001 &325972399
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2304,7 +2316,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6280326326286708646, guid: 262509e0425915c4198b20dadf884ce5, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6280326326286708647, guid: 262509e0425915c4198b20dadf884ce5, type: 3}
       propertyPath: m_RootOrder
@@ -2425,7 +2437,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 206805240594220699, guid: 896e6cc137b9e3a479681c57e05914cf, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 896e6cc137b9e3a479681c57e05914cf, type: 3}
@@ -2586,6 +2598,7 @@ MonoBehaviour:
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number1
   _dominoTagTrueZero: Number0
+  delayInSeconds: 2
 --- !u!1001 &443524387
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2643,7 +2656,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4025892724081999289, guid: 7bcc800b5282d8a43b298b166abbe371, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4025892724771687607, guid: 7bcc800b5282d8a43b298b166abbe371, type: 3}
       propertyPath: audiosourcecolliding
@@ -2738,6 +2751,7 @@ MonoBehaviour:
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number2
   _dominoTagTrueZero: Number0
+  delayInSeconds: 2
 --- !u!1 &494391146 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8928844919413841061, guid: e8f2a61ca6a69a848bf5aadd180b9d0d, type: 3}
@@ -2803,6 +2817,7 @@ MonoBehaviour:
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number2
   _dominoTagTrueZero: Number0
+  delayInSeconds: 2
 --- !u!1 &535509604 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4000552429792787158, guid: 12f1cfb18ec062d4cb43a7d21d39ad7b, type: 3}
@@ -2868,6 +2883,7 @@ MonoBehaviour:
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number1
   _dominoTagTrueZero: Number0
+  delayInSeconds: 2
 --- !u!1001 &538214895
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2901,7 +2917,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1941086539432182856, guid: b5c20e465c325134892290142605f416, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1941086539432182857, guid: b5c20e465c325134892290142605f416, type: 3}
       propertyPath: m_RootOrder
@@ -3014,6 +3030,7 @@ MonoBehaviour:
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number6
   _dominoTagTrueZero: Number0
+  delayInSeconds: 2
 --- !u!1 &580654902 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 2575489123938915206, guid: c3c1d7cc5946d1945ba701fb970c5ca6, type: 3}
@@ -3079,6 +3096,7 @@ MonoBehaviour:
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number1
   _dominoTagTrueZero: Number0
+  delayInSeconds: 2
 --- !u!1 &586308753
 GameObject:
   m_ObjectHideFlags: 0
@@ -3172,7 +3190,7 @@ RectTransform:
   m_Children:
   - {fileID: 1326536215}
   m_Father: {fileID: 0}
-  m_RootOrder: 14
+  m_RootOrder: 13
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -3236,7 +3254,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4320159684817877251, guid: e46702637089262458f69baf5274fa8d, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4320159685512284173, guid: e46702637089262458f69baf5274fa8d, type: 3}
       propertyPath: audiosourcecolliding
@@ -3256,103 +3274,6 @@ PrefabInstance:
       objectReference: {fileID: 200742993}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e46702637089262458f69baf5274fa8d, type: 3}
---- !u!1 &624389703
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 624389705}
-  - component: {fileID: 624389704}
-  m_Layer: 0
-  m_Name: Spawner
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 0
---- !u!114 &624389704
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 624389703}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ef0ebcce6d1d9e6458da638f8acc72bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  objectsToCopy:
-  - {fileID: 827275297}
-  - {fileID: 1334057826}
-  - {fileID: 49717766}
-  - {fileID: 1835442441}
-  - {fileID: 1649016261}
-  - {fileID: 8414020}
-  - {fileID: 1694188529}
-  - {fileID: 1227200935}
-  - {fileID: 1937304259}
-  - {fileID: 1640118806}
-  - {fileID: 717614251}
-  - {fileID: 448719676}
-  - {fileID: 1589878644}
-  - {fileID: 653438917}
-  - {fileID: 1177892902}
-  - {fileID: 278418708}
-  - {fileID: 187625563}
-  - {fileID: 1168609713}
-  - {fileID: 16394606}
-  - {fileID: 2044066123}
-  - {fileID: 1955458967}
-  - {fileID: 1195121398}
-  - {fileID: 65956861}
-  - {fileID: 1021649529}
-  - {fileID: 778722791}
-  - {fileID: 938906018}
-  - {fileID: 1692629129}
-  - {fileID: 899619124}
-  - {fileID: 2016657214}
-  - {fileID: 827115366}
-  - {fileID: 56913739}
-  - {fileID: 398392165}
-  - {fileID: 924065031}
-  - {fileID: 1387276275}
-  - {fileID: 696083647}
-  - {fileID: 1888689231}
-  - {fileID: 972393415}
-  - {fileID: 63173224}
-  - {fileID: 779670208}
-  - {fileID: 2028826792}
-  - {fileID: 625456482}
-  - {fileID: 844061548}
-  - {fileID: 1000126588}
-  - {fileID: 1468060687}
-  - {fileID: 2059726879}
-  - {fileID: 1035797603}
-  - {fileID: 950589075}
-  - {fileID: 1494343468}
-  - {fileID: 48454106}
-  minX: -13
-  maxX: -17
-  minY: -2
-  maxY: -2
---- !u!4 &624389705
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 624389703}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 4.002335, y: -0.14583105, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 11
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &625456482 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 2105735158725784246, guid: bca898b8328323c4db0016f863c19308, type: 3}
@@ -3450,7 +3371,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 585031062798646893, guid: b9809075b7d626a48bbaa139708cdcc0, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2299534418358534613, guid: b9809075b7d626a48bbaa139708cdcc0, type: 3}
       propertyPath: areaSize.x
@@ -3612,6 +3533,7 @@ MonoBehaviour:
   areaSize: {x: 0, y: 0, z: 0}
   _dominoTagTRUE: Domino1
   _dominoTagTrueZero: Domino0
+  delayInSeconds: 2
 --- !u!1 &661143544
 GameObject:
   m_ObjectHideFlags: 0
@@ -3787,7 +3709,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 954370069427654135, guid: 5f66db3201d8b0f4a9efffa9290bc90b, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 954370070658956537, guid: 5f66db3201d8b0f4a9efffa9290bc90b, type: 3}
       propertyPath: audiosourcecolliding
@@ -3876,6 +3798,7 @@ MonoBehaviour:
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number6
   _dominoTagTrueZero: Number0
+  delayInSeconds: 2
 --- !u!1 &663733515
 GameObject:
   m_ObjectHideFlags: 0
@@ -4027,7 +3950,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2287847069595668053, guid: c814eb7fd832c7e4aaae58d7c723224a, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c814eb7fd832c7e4aaae58d7c723224a, type: 3}
@@ -4096,6 +4019,7 @@ MonoBehaviour:
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number2
   _dominoTagTrueZero: Number0
+  delayInSeconds: 2
 --- !u!1001 &675094888
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4169,7 +4093,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6780950779152600741, guid: 9e8723d0d35bbd7498b65c613126dea4, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9e8723d0d35bbd7498b65c613126dea4, type: 3}
@@ -4230,7 +4154,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2446951772308952591, guid: 60b1cb59c61c0434a896ae6d8621b24a, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2446951773795575555, guid: 60b1cb59c61c0434a896ae6d8621b24a, type: 3}
       propertyPath: m_IsActive
@@ -4319,6 +4243,7 @@ MonoBehaviour:
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number6
   _dominoTagTrueZero: Number0
+  delayInSeconds: 2
 --- !u!1 &696083647 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 585031062798646893, guid: b9809075b7d626a48bbaa139708cdcc0, type: 3}
@@ -4394,6 +4319,7 @@ MonoBehaviour:
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number3
   _dominoTagTrueZero: Number0
+  delayInSeconds: 2
 --- !u!1 &703824891 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8514183004353336947, guid: de7afbfccc83c33439466187130b387e, type: 3}
@@ -4459,6 +4385,7 @@ MonoBehaviour:
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number3
   _dominoTagTrueZero: Number0
+  delayInSeconds: 2
 --- !u!1 &710944746 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7893529456526244895, guid: 76916da0db2eb7542b57298ea4266f8e, type: 3}
@@ -4518,6 +4445,7 @@ MonoBehaviour:
   - Puzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
+  delayInSeconds: 2
 --- !u!1 &717614251 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 2287847069595668053, guid: c814eb7fd832c7e4aaae58d7c723224a, type: 3}
@@ -4593,6 +4521,7 @@ MonoBehaviour:
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number5
   _dominoTagTrueZero: Domino0
+  delayInSeconds: 2
 --- !u!1 &750657531
 GameObject:
   m_ObjectHideFlags: 0
@@ -4685,7 +4614,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3689728851950785752, guid: a191184ca7a20544dabefc1210808526, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3689728851950785753, guid: a191184ca7a20544dabefc1210808526, type: 3}
       propertyPath: m_RootOrder
@@ -4818,6 +4747,7 @@ MonoBehaviour:
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number6
   _dominoTagTrueZero: Number0
+  delayInSeconds: 2
 --- !u!1 &778722791 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8514183005277923199, guid: de7afbfccc83c33439466187130b387e, type: 3}
@@ -4903,6 +4833,7 @@ MonoBehaviour:
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number4
   _dominoTagTrueZero: Number0
+  delayInSeconds: 2
 --- !u!1 &827115366 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 2904236933352398613, guid: ed9193480f05719489c524657e12570a, type: 3}
@@ -4990,7 +4921,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1280520533839617385, guid: 48e6446706c31c341b1a93b6966cd708, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1280520533839617399, guid: 48e6446706c31c341b1a93b6966cd708, type: 3}
       propertyPath: m_Mass
@@ -5083,6 +5014,7 @@ MonoBehaviour:
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number4
   _dominoTagTrueZero: Number0
+  delayInSeconds: 2
 --- !u!1 &849875299 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 3402386810088547465, guid: 4c7fc33efe902cd489938bb375a60897, type: 3}
@@ -5142,6 +5074,7 @@ MonoBehaviour:
   - Puzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
+  delayInSeconds: 2
 --- !u!1 &881073904
 GameObject:
   m_ObjectHideFlags: 0
@@ -5341,6 +5274,7 @@ MonoBehaviour:
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number3
   _dominoTagTrueZero: Number0
+  delayInSeconds: 2
 --- !u!1 &899619124 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 38565420008191539, guid: b96eaea7ee7c2464e92b8cc6af2763ba, type: 3}
@@ -5408,7 +5342,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6375883802324349835, guid: 14896a3ad11a0e54b80eb30e1b000546, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6375883803550909061, guid: 14896a3ad11a0e54b80eb30e1b000546, type: 3}
       propertyPath: audiosourcecolliding
@@ -5497,6 +5431,7 @@ MonoBehaviour:
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number6
   _dominoTagTrueZero: Number0
+  delayInSeconds: 2
 --- !u!1001 &914859228
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5554,7 +5489,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3216865018225831813, guid: a78f96f8aef29d74b833a6fcec25af8f, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3216865018882498187, guid: a78f96f8aef29d74b833a6fcec25af8f, type: 3}
       propertyPath: audiosourcecolliding
@@ -5633,6 +5568,7 @@ MonoBehaviour:
   - Puzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
+  delayInSeconds: 2
 --- !u!1 &922409203 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1280520534667311738, guid: 48e6446706c31c341b1a93b6966cd708, type: 3}
@@ -5698,6 +5634,7 @@ MonoBehaviour:
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number5
   _dominoTagTrueZero: Domino0
+  delayInSeconds: 2
 --- !u!1 &924065031 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6240572119542861815, guid: a587c905fbe488f4881cdd8588c7ec8b, type: 3}
@@ -5773,6 +5710,7 @@ MonoBehaviour:
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number2
   _dominoTagTrueZero: Number0
+  delayInSeconds: 2
 --- !u!1 &938906018 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4543085582950368697, guid: 27c2c32850c2c1641ba57f8e5e822839, type: 3}
@@ -5812,7 +5750,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 15
+  m_RootOrder: 14
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &945165166
 MonoBehaviour:
@@ -5965,6 +5903,7 @@ MonoBehaviour:
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number4
   _dominoTagTrueZero: Number0
+  delayInSeconds: 2
 --- !u!1 &1000126588 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 2619630010386541079, guid: b95938687392e4f4d9c6ca2227bd7823, type: 3}
@@ -6040,6 +5979,7 @@ MonoBehaviour:
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number1
   _dominoTagTrueZero: Number0
+  delayInSeconds: 2
 --- !u!1001 &1013389722
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6053,7 +5993,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3351370250628221488, guid: 252b389c6634a6041b47cc0dee4b0796, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3351370250628221489, guid: 252b389c6634a6041b47cc0dee4b0796, type: 3}
       propertyPath: m_RootOrder
@@ -6186,6 +6126,7 @@ MonoBehaviour:
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number6
   _dominoTagTrueZero: Number0
+  delayInSeconds: 2
 --- !u!1001 &1017775411
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6259,7 +6200,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3542307951707234225, guid: 9cc3bbb650ec13d42874a4e0c84a277d, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9cc3bbb650ec13d42874a4e0c84a277d, type: 3}
@@ -6328,6 +6269,7 @@ MonoBehaviour:
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number3
   _dominoTagTrueZero: Number0
+  delayInSeconds: 2
 --- !u!1 &1020117198 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 465647404578869226, guid: 70e96d40f70bda2439e71d8fa68a0b99, type: 3}
@@ -6393,6 +6335,7 @@ MonoBehaviour:
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number1
   _dominoTagTrueZero: Number0
+  delayInSeconds: 2
 --- !u!1 &1021649529 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 150986148065035105, guid: 20502322619363c4794439583cda8548, type: 3}
@@ -6460,7 +6403,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2575489122611786901, guid: c3c1d7cc5946d1945ba701fb970c5ca6, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2575489123938915201, guid: c3c1d7cc5946d1945ba701fb970c5ca6, type: 3}
       propertyPath: audiosourcecolliding
@@ -6503,7 +6446,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 465647403662687974, guid: 70e96d40f70bda2439e71d8fa68a0b99, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 465647403662687975, guid: 70e96d40f70bda2439e71d8fa68a0b99, type: 3}
       propertyPath: m_RootOrder
@@ -6632,6 +6575,7 @@ MonoBehaviour:
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number3
   _dominoTagTrueZero: Number0
+  delayInSeconds: 2
 --- !u!1 &1043039379 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4543085581719090357, guid: 27c2c32850c2c1641ba57f8e5e822839, type: 3}
@@ -6697,6 +6641,7 @@ MonoBehaviour:
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number3
   _dominoTagTrueZero: Number0
+  delayInSeconds: 2
 --- !u!1 &1045206040
 GameObject:
   m_ObjectHideFlags: 0
@@ -6828,6 +6773,7 @@ MonoBehaviour:
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number2
   _dominoTagTrueZero: Number0
+  delayInSeconds: 2
 --- !u!1 &1097163521 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 2446951773694751004, guid: 60b1cb59c61c0434a896ae6d8621b24a, type: 3}
@@ -6893,6 +6839,7 @@ MonoBehaviour:
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number1
   _dominoTagTrueZero: Number0
+  delayInSeconds: 2
 --- !u!1 &1144144971 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 2105735157259600826, guid: bca898b8328323c4db0016f863c19308, type: 3}
@@ -6958,6 +6905,7 @@ MonoBehaviour:
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number5
   _dominoTagTrueZero: Domino0
+  delayInSeconds: 2
 --- !u!1 &1164779109
 GameObject:
   m_ObjectHideFlags: 0
@@ -7137,7 +7085,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1915639742986398007, guid: 3dab21c9f132f9c4a94f254e1380653d, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3dab21c9f132f9c4a94f254e1380653d, type: 3}
@@ -7206,6 +7154,7 @@ MonoBehaviour:
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number2
   _dominoTagTrueZero: Number0
+  delayInSeconds: 2
 --- !u!1001 &1185100037
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7271,7 +7220,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 675101087411483687, guid: 09d035287b2bbd946bc5f2f37a58f092, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 675101087411483705, guid: 09d035287b2bbd946bc5f2f37a58f092, type: 3}
       propertyPath: m_Mass
@@ -7440,7 +7389,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 9020465429980332708, guid: f592030a2f87583409cd97c8ceb5be94, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 9020465429980332709, guid: f592030a2f87583409cd97c8ceb5be94, type: 3}
       propertyPath: m_RootOrder
@@ -7521,7 +7470,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4000552430721551322, guid: 12f1cfb18ec062d4cb43a7d21d39ad7b, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4000552430721551323, guid: 12f1cfb18ec062d4cb43a7d21d39ad7b, type: 3}
       propertyPath: m_RootOrder
@@ -7650,6 +7599,7 @@ MonoBehaviour:
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number6
   _dominoTagTrueZero: Number0
+  delayInSeconds: 2
 --- !u!1 &1283314858 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1941086538042401627, guid: b5c20e465c325134892290142605f416, type: 3}
@@ -7715,6 +7665,7 @@ MonoBehaviour:
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number4
   _dominoTagTrueZero: Number0
+  delayInSeconds: 2
 --- !u!1001 &1306053552
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7744,7 +7695,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8719319417848125008, guid: 5c175dda0ee00b242a809bfbff69bc7a, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8719319417848125009, guid: 5c175dda0ee00b242a809bfbff69bc7a, type: 3}
       propertyPath: m_RootOrder
@@ -7857,6 +7808,7 @@ MonoBehaviour:
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number5
   _dominoTagTrueZero: Domino0
+  delayInSeconds: 2
 --- !u!1001 &1319911877
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7902,7 +7854,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6385738687431695174, guid: 9417d0b223d1a784db2a8dc6c7683674, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6385738687431695175, guid: 9417d0b223d1a784db2a8dc6c7683674, type: 3}
       propertyPath: m_RootOrder
@@ -8013,6 +7965,7 @@ MonoBehaviour:
   - Puzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
+  delayInSeconds: 2
 --- !u!1 &1326536214
 GameObject:
   m_ObjectHideFlags: 0
@@ -8172,6 +8125,50 @@ MonoBehaviour:
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number5
   _dominoTagTrueZero: Domino0
+  delayInSeconds: 2
+--- !u!1 &1329088508
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1329088510}
+  - component: {fileID: 1329088509}
+  m_Layer: 0
+  m_Name: DominoManagerScenes
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1329088509
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1329088508}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c2c50e7bfff162446a1a5ee35b3f9399, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!4 &1329088510
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1329088508}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.5228234, y: -5.252049, z: -13.77818}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 15
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1331379260 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 5096551457523215573, guid: 039336d4d45701f449af5f282efcc282, type: 3}
@@ -8237,6 +8234,7 @@ MonoBehaviour:
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number5
   _dominoTagTrueZero: Domino0
+  delayInSeconds: 2
 --- !u!1 &1334057826 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6385738687431695174, guid: 9417d0b223d1a784db2a8dc6c7683674, type: 3}
@@ -8320,7 +8318,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8928844920640417193, guid: e8f2a61ca6a69a848bf5aadd180b9d0d, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e8f2a61ca6a69a848bf5aadd180b9d0d, type: 3}
@@ -8389,6 +8387,7 @@ MonoBehaviour:
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number2
   _dominoTagTrueZero: Number0
+  delayInSeconds: 2
 --- !u!1 &1387276275 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1280520533839617385, guid: 48e6446706c31c341b1a93b6966cd708, type: 3}
@@ -8476,7 +8475,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2619630010386541079, guid: b95938687392e4f4d9c6ca2227bd7823, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b95938687392e4f4d9c6ca2227bd7823, type: 3}
@@ -8545,6 +8544,7 @@ MonoBehaviour:
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number6
   _dominoTagTrueZero: Number0
+  delayInSeconds: 2
 --- !u!1001 &1408981601
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -8618,7 +8618,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3618905506075858735, guid: fafb9506d3e3bbf429211ebd0b09a81f, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3618905506075858737, guid: fafb9506d3e3bbf429211ebd0b09a81f, type: 3}
       propertyPath: m_Mass
@@ -8691,6 +8691,7 @@ MonoBehaviour:
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number4
   _dominoTagTrueZero: Number0
+  delayInSeconds: 2
 --- !u!1001 &1427502664
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -8764,7 +8765,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6632090952625421301, guid: be5128048e7090147bef7372e032ec87, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: be5128048e7090147bef7372e032ec87, type: 3}
@@ -8833,6 +8834,7 @@ MonoBehaviour:
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number3
   _dominoTagTrueZero: Number0
+  delayInSeconds: 2
 --- !u!1 &1445431389
 GameObject:
   m_ObjectHideFlags: 0
@@ -9025,6 +9027,7 @@ MonoBehaviour:
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number5
   _dominoTagTrueZero: Domino0
+  delayInSeconds: 2
 --- !u!1 &1464191526 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 3542307950790520509, guid: 9cc3bbb650ec13d42874a4e0c84a277d, type: 3}
@@ -9090,6 +9093,7 @@ MonoBehaviour:
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number5
   _dominoTagTrueZero: Domino0
+  delayInSeconds: 2
 --- !u!1 &1468060687 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 2446951772308952591, guid: 60b1cb59c61c0434a896ae6d8621b24a, type: 3}
@@ -9159,6 +9163,7 @@ MonoBehaviour:
   - Puzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
+  delayInSeconds: 2
 --- !u!1 &1479347762 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4744293511544152837, guid: 339de54742eb4aa478faeb69096b71c4, type: 3}
@@ -9224,6 +9229,7 @@ MonoBehaviour:
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number4
   _dominoTagTrueZero: Number0
+  delayInSeconds: 2
 --- !u!1 &1481487025 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6375883803550909063, guid: 14896a3ad11a0e54b80eb30e1b000546, type: 3}
@@ -9289,6 +9295,7 @@ MonoBehaviour:
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number2
   _dominoTagTrueZero: Number0
+  delayInSeconds: 2
 --- !u!1 &1482348775
 GameObject:
   m_ObjectHideFlags: 0
@@ -9436,6 +9443,7 @@ MonoBehaviour:
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number4
   _dominoTagTrueZero: Number0
+  delayInSeconds: 2
 --- !u!1 &1487291235 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 2287847068641738585, guid: c814eb7fd832c7e4aaae58d7c723224a, type: 3}
@@ -9501,6 +9509,7 @@ MonoBehaviour:
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number1
   _dominoTagTrueZero: Number0
+  delayInSeconds: 2
 --- !u!1 &1493229394 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 3605490554495004766, guid: 64b4a3bcd838d714897a5776ddc9b99a, type: 3}
@@ -9566,6 +9575,7 @@ MonoBehaviour:
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number5
   _dominoTagTrueZero: Domino0
+  delayInSeconds: 2
 --- !u!1 &1494343468 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 954370069427654135, guid: 5f66db3201d8b0f4a9efffa9290bc90b, type: 3}
@@ -9780,7 +9790,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2904236933352398613, guid: ed9193480f05719489c524657e12570a, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2904236934683473921, guid: ed9193480f05719489c524657e12570a, type: 3}
       propertyPath: audiosourcecolliding
@@ -9865,6 +9875,7 @@ MonoBehaviour:
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number5
   _dominoTagTrueZero: Domino0
+  delayInSeconds: 2
 --- !u!1 &1522770297 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6780950777690636201, guid: 9e8723d0d35bbd7498b65c613126dea4, type: 3}
@@ -9930,6 +9941,7 @@ MonoBehaviour:
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number5
   _dominoTagTrueZero: Domino0
+  delayInSeconds: 2
 --- !u!1 &1532012131 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8514183004387049580, guid: de7afbfccc83c33439466187130b387e, type: 3}
@@ -9995,6 +10007,7 @@ MonoBehaviour:
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number3
   _dominoTagTrueZero: Number0
+  delayInSeconds: 2
 --- !u!1 &1535826827 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 3402386810255700630, guid: 4c7fc33efe902cd489938bb375a60897, type: 3}
@@ -10060,6 +10073,7 @@ MonoBehaviour:
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number4
   _dominoTagTrueZero: Number0
+  delayInSeconds: 2
 --- !u!1 &1547255278 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4320159685512284175, guid: e46702637089262458f69baf5274fa8d, type: 3}
@@ -10119,6 +10133,7 @@ MonoBehaviour:
   - Puzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
+  delayInSeconds: 2
 --- !u!1 &1562648392 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6240572118089285371, guid: a587c905fbe488f4881cdd8588c7ec8b, type: 3}
@@ -10184,6 +10199,7 @@ MonoBehaviour:
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number4
   _dominoTagTrueZero: Number0
+  delayInSeconds: 2
 --- !u!1 &1564312554
 GameObject:
   m_ObjectHideFlags: 0
@@ -10199,7 +10215,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1564312555
 Transform:
   m_ObjectHideFlags: 0
@@ -10328,6 +10344,7 @@ MonoBehaviour:
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number4
   _dominoTagTrueZero: Number0
+  delayInSeconds: 2
 --- !u!1 &1582762369
 GameObject:
   m_ObjectHideFlags: 0
@@ -10532,6 +10549,7 @@ MonoBehaviour:
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number3
   _dominoTagTrueZero: Number0
+  delayInSeconds: 2
 --- !u!1 &1589878644 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 3216865018225831813, guid: a78f96f8aef29d74b833a6fcec25af8f, type: 3}
@@ -10601,6 +10619,7 @@ MonoBehaviour:
   - Puzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
+  delayInSeconds: 2
 --- !u!1 &1640118806 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1623789917606176228, guid: ed9e022a1651cba43a8b7c56d984a758, type: 3}
@@ -10670,6 +10689,7 @@ MonoBehaviour:
   - Puzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
+  delayInSeconds: 2
 --- !u!1 &1649016261 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 3402386808760681370, guid: 4c7fc33efe902cd489938bb375a60897, type: 3}
@@ -10745,6 +10765,7 @@ MonoBehaviour:
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number1
   _dominoTagTrueZero: Number0
+  delayInSeconds: 2
 --- !u!1 &1665439527 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 2511969314072574234, guid: 3305225106d06374db5d493ab2d065b9, type: 3}
@@ -10810,6 +10831,7 @@ MonoBehaviour:
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number1
   _dominoTagTrueZero: Number0
+  delayInSeconds: 2
 --- !u!1001 &1666791362
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -10883,7 +10905,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4543085582950368697, guid: 27c2c32850c2c1641ba57f8e5e822839, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 27c2c32850c2c1641ba57f8e5e822839, type: 3}
@@ -11026,7 +11048,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 150986148065035105, guid: 20502322619363c4794439583cda8548, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 150986149250200175, guid: 20502322619363c4794439583cda8548, type: 3}
       propertyPath: audiosourcecolliding
@@ -11079,7 +11101,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 187184991675740512, guid: e776ec0f01c65d043a5f9127b74d40dc, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 187184991675740513, guid: e776ec0f01c65d043a5f9127b74d40dc, type: 3}
       propertyPath: m_RootOrder
@@ -11236,7 +11258,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2281407449489852093, guid: b5c0c95751d5e1246b66986057f0553d, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2954942272669116508, guid: b5c0c95751d5e1246b66986057f0553d, type: 3}
       propertyPath: m_SpriteTilingProperty.oldSize.x
@@ -11313,6 +11335,7 @@ MonoBehaviour:
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number6
   _dominoTagTrueZero: Number0
+  delayInSeconds: 2
 --- !u!1001 &1714424945
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -11370,7 +11393,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3605490553105012557, guid: 64b4a3bcd838d714897a5776ddc9b99a, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3605490554327918147, guid: 64b4a3bcd838d714897a5776ddc9b99a, type: 3}
       propertyPath: audiosourcecolliding
@@ -11447,7 +11470,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5096551456837705177, guid: 039336d4d45701f449af5f282efcc282, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5096551457523215575, guid: 039336d4d45701f449af5f282efcc282, type: 3}
       propertyPath: audiosourcecolliding
@@ -11532,6 +11555,7 @@ MonoBehaviour:
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number2
   _dominoTagTrueZero: Number0
+  delayInSeconds: 2
 --- !u!1 &1835442441 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7893529457447574284, guid: 76916da0db2eb7542b57298ea4266f8e, type: 3}
@@ -11607,6 +11631,7 @@ MonoBehaviour:
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number2
   _dominoTagTrueZero: Number0
+  delayInSeconds: 2
 --- !u!1 &1846732635 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 3618905505217507388, guid: fafb9506d3e3bbf429211ebd0b09a81f, type: 3}
@@ -11672,6 +11697,7 @@ MonoBehaviour:
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number1
   _dominoTagTrueZero: Number0
+  delayInSeconds: 2
 --- !u!1 &1868555062 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6280326325361232053, guid: 262509e0425915c4198b20dadf884ce5, type: 3}
@@ -11737,6 +11763,7 @@ MonoBehaviour:
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number2
   _dominoTagTrueZero: Number0
+  delayInSeconds: 2
 --- !u!1 &1885620399 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4025892724939299498, guid: 7bcc800b5282d8a43b298b166abbe371, type: 3}
@@ -11802,6 +11829,7 @@ MonoBehaviour:
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number3
   _dominoTagTrueZero: Number0
+  delayInSeconds: 2
 --- !u!1 &1888689231 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1915639742986398007, guid: 3dab21c9f132f9c4a94f254e1380653d, type: 3}
@@ -11877,6 +11905,7 @@ MonoBehaviour:
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number3
   _dominoTagTrueZero: Number0
+  delayInSeconds: 2
 --- !u!1 &1934838662 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 3216865018882498185, guid: a78f96f8aef29d74b833a6fcec25af8f, type: 3}
@@ -11942,6 +11971,7 @@ MonoBehaviour:
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number1
   _dominoTagTrueZero: Number0
+  delayInSeconds: 2
 --- !u!1 &1937304259 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 3618905506075858735, guid: fafb9506d3e3bbf429211ebd0b09a81f, type: 3}
@@ -11975,7 +12005,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4744293510284117014, guid: 339de54742eb4aa478faeb69096b71c4, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4744293510284117015, guid: 339de54742eb4aa478faeb69096b71c4, type: 3}
       propertyPath: m_RootOrder
@@ -12104,6 +12134,7 @@ MonoBehaviour:
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number3
   _dominoTagTrueZero: Number0
+  delayInSeconds: 2
 --- !u!1 &2016358742 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 2904236934852128281, guid: ed9193480f05719489c524657e12570a, type: 3}
@@ -12169,6 +12200,7 @@ MonoBehaviour:
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number4
   _dominoTagTrueZero: Number0
+  delayInSeconds: 2
 --- !u!1 &2016657214 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 187184991675740512, guid: e776ec0f01c65d043a5f9127b74d40dc, type: 3}
@@ -12222,7 +12254,7 @@ RectTransform:
   m_Children:
   - {fileID: 663733516}
   m_Father: {fileID: 0}
-  m_RootOrder: 13
+  m_RootOrder: 12
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -12305,7 +12337,7 @@ MonoBehaviour:
   PauseScreen_: {fileID: 663733515}
   cameraController: {fileID: 661143548}
   changeImage: {fileID: 1326536216}
-  copyandenableObject: {fileID: 624389704}
+  copyandenableObject: {fileID: 945165166}
   dominoReplacement: {fileID: 2050337350}
 --- !u!1 &2044066123 stripped
 GameObject:
@@ -12449,7 +12481,7 @@ Transform:
   - {fileID: 89720049}
   - {fileID: 1228264151}
   m_Father: {fileID: 0}
-  m_RootOrder: 12
+  m_RootOrder: 11
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &2050337350
 MonoBehaviour:
@@ -12530,6 +12562,7 @@ MonoBehaviour:
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number5
   _dominoTagTrueZero: Domino0
+  delayInSeconds: 2
 --- !u!1001 &2056620502
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -12587,7 +12620,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 65196944518725431, guid: d3eaf9ede90aae841a50420b8414652e, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 65196945737420345, guid: d3eaf9ede90aae841a50420b8414652e, type: 3}
       propertyPath: audiosourcecolliding
@@ -12685,6 +12718,7 @@ MonoBehaviour:
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number6
   _dominoTagTrueZero: Number0
+  delayInSeconds: 2
 --- !u!114 &2056620508
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -12745,6 +12779,7 @@ MonoBehaviour:
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number6
   _dominoTagTrueZero: Number0
+  delayInSeconds: 2
 --- !u!1 &2059726879 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4710451051727588336, guid: 47a9f039a05bf8144b3cc7420923194d, type: 3}
@@ -12828,7 +12863,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6240572119542861815, guid: a587c905fbe488f4881cdd8588c7ec8b, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a587c905fbe488f4881cdd8588c7ec8b, type: 3}
@@ -12897,6 +12932,7 @@ MonoBehaviour:
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number2
   _dominoTagTrueZero: Number0
+  delayInSeconds: 2
 --- !u!1 &2118801395 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 206805239668695432, guid: 896e6cc137b9e3a479681c57e05914cf, type: 3}
@@ -12962,6 +12998,7 @@ MonoBehaviour:
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number5
   _dominoTagTrueZero: Domino0
+  delayInSeconds: 2
 --- !u!1 &2125533417 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 3689728853450515924, guid: a191184ca7a20544dabefc1210808526, type: 3}
@@ -13027,6 +13064,7 @@ MonoBehaviour:
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number5
   _dominoTagTrueZero: Domino0
+  delayInSeconds: 2
 --- !u!1 &2127417230 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 2281407448599191982, guid: b5c0c95751d5e1246b66986057f0553d, type: 3}
@@ -13086,3 +13124,4 @@ MonoBehaviour:
   - Puzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
+  delayInSeconds: 2

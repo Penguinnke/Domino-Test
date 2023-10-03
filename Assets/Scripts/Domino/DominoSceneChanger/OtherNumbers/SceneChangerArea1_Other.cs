@@ -13,69 +13,71 @@ public class SceneChangerArea1_Other : MonoBehaviour
     public Vector3 areaCenter;  // The center of the area
     public Vector3 areaSize;    // The size of the area
 
-        public string _dominoTagTRUE = "Domino1"; //the domino tag it needs to collide with
-        public string _dominoTagTrueZero = "Domino0"; //Number 0 is always good
-    
+    public string _dominoTagTRUE = "Domino1"; //the domino tag it needs to collide with
+    public string _dominoTagTrueZero = "Domino0"; //Number 0 is always good
+
+    public float delayInSeconds = 2f; // Public delay time in seconds
+
     private void Start()
     {
         //isCollisionDetectedRight = false;
         colliding = false;
     }
-    
+
     private void OnCollisionEnter2D(Collision2D _collision)
     {
-        if(_collision.gameObject.tag == _dominoTagTRUE || _collision.gameObject.tag == _dominoTagTrueZero)
+        if (_collision.gameObject.tag == _dominoTagTRUE || _collision.gameObject.tag == _dominoTagTrueZero)
         {
             Debug.Log("Collision!");
             colliding = true;
             isCollisionDetectedRight = true;
 
-                // Get the position of the object
-                Vector3 objectPosition = transform.position;
+            // Get the position of the object
+            Vector3 objectPosition = transform.position;
 
-                // Calculate the half extents of the area (half of its size)
-                Vector3 areaHalfExtents = areaSize * 0.5f;
+            // Calculate the half extents of the area (half of its size)
+            Vector3 areaHalfExtents = areaSize * 0.5f;
 
-                // Calculate the minimum and maximum bounds of the area
-                Vector3 areaMinBounds = areaCenter - areaHalfExtents;
-                Vector3 areaMaxBounds = areaCenter + areaHalfExtents;
+            // Calculate the minimum and maximum bounds of the area
+            Vector3 areaMinBounds = areaCenter - areaHalfExtents;
+            Vector3 areaMaxBounds = areaCenter + areaHalfExtents;
 
-                // Check if the object is within the area
-                bool isInsideArea = 
+            // Check if the object is within the area
+            bool isInsideArea =
                 objectPosition.x >= areaMinBounds.x &&
                 objectPosition.x <= areaMaxBounds.x &&
                 objectPosition.y >= areaMinBounds.y &&
                 objectPosition.y <= areaMaxBounds.y;
 
-                if (Random.value <= 0.25f && isInsideArea && isCollisionDetectedRight)
-                {
-                    Debug.Log("25% chance Area1");
-                    string randomSceneName = Scenes[Random.Range(0, Scenes.Length)];
-                    // Load the randomly selected scene
-                    SceneManager.LoadScene(randomSceneName);
-                } else 
-                {
-                    Debug.Log("Scene not changed Area1");
-                }
+            if (Random.value <= 0.25f && isInsideArea && isCollisionDetectedRight)
+            {
+                Debug.Log("25% chance Area1");
 
-                if (!isInsideArea)
-                {
-                    Debug.Log("Outside Area Area1");
-                }
+                // Add a delay before changing the scene
+                Invoke("ChangeSceneAfterDelay", delayInSeconds);
+            }
+            else
+            {
+                Debug.Log("Scene not changed Area1");
+            }
 
-        } else {
-
+            if (!isInsideArea)
+            {
+                Debug.Log("Outside Area Area1");
+            }
+        }
+        else
+        {
             Debug.LogError("WRONG COLLISION");
         }
-        
     }
 
-    private void OnCollisionExit2D(Collision2D _collision)
+    // Method to change the scene after the delay
+    private void ChangeSceneAfterDelay()
     {
-        if(_collision.gameObject.tag == _dominoTagTRUE || _collision.gameObject.tag == _dominoTagTrueZero)
-        {
-            isCollisionDetectedRight = false;
-        }
+        string randomSceneName = Scenes[Random.Range(0, Scenes.Length)];
+        // Load the randomly selected scene
+        SceneManager.LoadScene(randomSceneName);
     }
 
     private void OnDrawGizmosSelected()

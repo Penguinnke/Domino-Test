@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using System.IO;
+using UnityEngine.SceneManagement;
 
 public class CopyAndEnableObject : MonoBehaviour
 {
@@ -18,11 +19,27 @@ public class CopyAndEnableObject : MonoBehaviour
 
     private Transform objectContainer; // Reference to the ObjectContainer
 
-    void Start()
+    private static CopyAndEnableObject instance; // Singleton instance
+
+    void Awake()
     {
+        if (instance == null)
+        {
+            instance = this;
+            DontDestroyOnLoad(gameObject); // Make the GameObject persistent
+        }
+        else
+        {
+            Destroy(gameObject); // If an instance already exists, destroy this one
+            return;
+        }
+
         objectContainer = GameObject.Find("ObjectContainer").transform;
-        //objectContainer = new GameObject("ObjectContainer").transform;
-        DontDestroyOnLoad(objectContainer.gameObject); // Make the ObjectContainer persistent
+        if (objectContainer == null)
+        {
+            objectContainer = new GameObject("ObjectContainer").transform;
+            DontDestroyOnLoad(objectContainer.gameObject);
+        }
 
         LoadSavedPositions();
     }
@@ -34,24 +51,19 @@ public class CopyAndEnableObject : MonoBehaviour
             ObjectCopier();
         }
     }
+public void ObjectCopier()
+{
+    int randomIndex = Random.Range(0, objectsToCopy.Length); // Randomly select an index
+    GameObject randomObject = objectsToCopy[randomIndex]; // Get the randomly selected object
 
-    public void ObjectCopier()
-    {
-        int randomIndex = Random.Range(0, objectsToCopy.Length); // Randomly select an index
-        GameObject randomObject = objectsToCopy[randomIndex]; // Get the randomly selected object
+    GameObject copiedObject = Instantiate(randomObject, objectContainer);
+    
+    float randomX = Random.Range(minX, maxX);
+    float randomY = Random.Range(minY, maxY);
 
-        GameObject copiedObject = Instantiate(randomObject, objectContainer);
-        copiedObject.SetActive(true);
-
-        float randomX = Random.Range(minX, maxX);
-        float randomY = Random.Range(minY, maxY);
-
-        float zPos = randomObject.transform.position.z;
-        copiedObject.transform.position = new Vector3(randomX, randomY, zPos);
-
-        // Save the position of the copied object
-        SaveObjectPosition(copiedObject.transform.position);
-    }
+    float zPos = randomObject.transform.position.z;
+    copiedObject.transform.position = new Vector3(randomX, randomY, zPos);
+}
 
     private void SaveObjectPosition(Vector3 position)
     {
@@ -66,7 +78,6 @@ public class CopyAndEnableObject : MonoBehaviour
 
     private void LoadSavedPositions()
     {
-        Debug.Log("LoadSavedPositions method called."); // Add this line for debugging
 
         if (File.Exists(savePath))
         {
