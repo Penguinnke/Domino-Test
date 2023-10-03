@@ -753,7 +753,7 @@ TextureImporter:
       213: 6642907405049659723
     second: LPC_Ancient_Rome_Architecture_therme_249
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -770,10 +770,12 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
+    flipGreenChannel: 0
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMipmapLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -812,6 +814,8 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -823,6 +827,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -835,6 +840,20 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
@@ -6100,9 +6119,259 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-  spritePackingTag: 
+    nameFileIdTable:
+      LPC_Ancient_Rome_Architecture_therme_0: -8583644674160091748
+      LPC_Ancient_Rome_Architecture_therme_1: -1725961466176081439
+      LPC_Ancient_Rome_Architecture_therme_10: -6010633364218707684
+      LPC_Ancient_Rome_Architecture_therme_100: 2742252152550746669
+      LPC_Ancient_Rome_Architecture_therme_101: -7837981920736849492
+      LPC_Ancient_Rome_Architecture_therme_102: 2536747772181539212
+      LPC_Ancient_Rome_Architecture_therme_103: 7718174117491235567
+      LPC_Ancient_Rome_Architecture_therme_104: -2066922191247025350
+      LPC_Ancient_Rome_Architecture_therme_105: -1098182182160141165
+      LPC_Ancient_Rome_Architecture_therme_106: -2022591911407680437
+      LPC_Ancient_Rome_Architecture_therme_107: -7144868196114729359
+      LPC_Ancient_Rome_Architecture_therme_108: 7620485961962685344
+      LPC_Ancient_Rome_Architecture_therme_109: -3263453580112228690
+      LPC_Ancient_Rome_Architecture_therme_11: 544458082573349321
+      LPC_Ancient_Rome_Architecture_therme_110: -3658839368045256768
+      LPC_Ancient_Rome_Architecture_therme_111: 9163682563374964507
+      LPC_Ancient_Rome_Architecture_therme_112: -5671029208779759229
+      LPC_Ancient_Rome_Architecture_therme_113: 3849667038464296893
+      LPC_Ancient_Rome_Architecture_therme_114: 6155273004676488757
+      LPC_Ancient_Rome_Architecture_therme_115: 5859953714784983428
+      LPC_Ancient_Rome_Architecture_therme_116: -2844466074641991059
+      LPC_Ancient_Rome_Architecture_therme_117: -6657608355161496693
+      LPC_Ancient_Rome_Architecture_therme_118: 187512056662477194
+      LPC_Ancient_Rome_Architecture_therme_119: 1439446457016568245
+      LPC_Ancient_Rome_Architecture_therme_12: -7798975036445480869
+      LPC_Ancient_Rome_Architecture_therme_120: -7228414813100937156
+      LPC_Ancient_Rome_Architecture_therme_121: 7497223978432881794
+      LPC_Ancient_Rome_Architecture_therme_122: -7222292993598966728
+      LPC_Ancient_Rome_Architecture_therme_123: -1949016955043151266
+      LPC_Ancient_Rome_Architecture_therme_124: -2109866182543440264
+      LPC_Ancient_Rome_Architecture_therme_125: -6857559921669543147
+      LPC_Ancient_Rome_Architecture_therme_126: -2864963565683370300
+      LPC_Ancient_Rome_Architecture_therme_127: 2775701213802988822
+      LPC_Ancient_Rome_Architecture_therme_128: -6508554676166887976
+      LPC_Ancient_Rome_Architecture_therme_129: -622242768676382856
+      LPC_Ancient_Rome_Architecture_therme_13: 6924774449172493202
+      LPC_Ancient_Rome_Architecture_therme_130: -6101283095588891564
+      LPC_Ancient_Rome_Architecture_therme_131: -2751535153335463884
+      LPC_Ancient_Rome_Architecture_therme_132: -5398611280089958651
+      LPC_Ancient_Rome_Architecture_therme_133: 3576123914075264804
+      LPC_Ancient_Rome_Architecture_therme_134: -8337813475740269529
+      LPC_Ancient_Rome_Architecture_therme_135: -6670245270320515738
+      LPC_Ancient_Rome_Architecture_therme_136: -7081833303403219762
+      LPC_Ancient_Rome_Architecture_therme_137: 522730579139389643
+      LPC_Ancient_Rome_Architecture_therme_138: -4926834626606046309
+      LPC_Ancient_Rome_Architecture_therme_139: 101994888412604770
+      LPC_Ancient_Rome_Architecture_therme_14: 6706271490215627414
+      LPC_Ancient_Rome_Architecture_therme_140: 3714823610789716536
+      LPC_Ancient_Rome_Architecture_therme_141: 4957564854856539316
+      LPC_Ancient_Rome_Architecture_therme_142: 7288890314893979253
+      LPC_Ancient_Rome_Architecture_therme_143: -9222928165261715804
+      LPC_Ancient_Rome_Architecture_therme_144: 4290313798916956736
+      LPC_Ancient_Rome_Architecture_therme_145: -2483494566504320376
+      LPC_Ancient_Rome_Architecture_therme_146: 6077077666695694567
+      LPC_Ancient_Rome_Architecture_therme_147: -4981276418593265913
+      LPC_Ancient_Rome_Architecture_therme_148: -5512164574528481953
+      LPC_Ancient_Rome_Architecture_therme_149: -1291263395366367450
+      LPC_Ancient_Rome_Architecture_therme_15: -2417213415158058602
+      LPC_Ancient_Rome_Architecture_therme_150: -1391703704438482405
+      LPC_Ancient_Rome_Architecture_therme_151: 1786828276886211014
+      LPC_Ancient_Rome_Architecture_therme_152: 4533656826556148475
+      LPC_Ancient_Rome_Architecture_therme_153: 428385373708654676
+      LPC_Ancient_Rome_Architecture_therme_154: -6834044090236138652
+      LPC_Ancient_Rome_Architecture_therme_155: 9129009523491558778
+      LPC_Ancient_Rome_Architecture_therme_156: -3482531136734715420
+      LPC_Ancient_Rome_Architecture_therme_157: 3765408379777372011
+      LPC_Ancient_Rome_Architecture_therme_158: 6032914060437761260
+      LPC_Ancient_Rome_Architecture_therme_159: -7195599202001417878
+      LPC_Ancient_Rome_Architecture_therme_16: 1790666980056807536
+      LPC_Ancient_Rome_Architecture_therme_160: 6571805025075331147
+      LPC_Ancient_Rome_Architecture_therme_161: 3487665081669125358
+      LPC_Ancient_Rome_Architecture_therme_162: 3773877076181248015
+      LPC_Ancient_Rome_Architecture_therme_163: 6100692572059385579
+      LPC_Ancient_Rome_Architecture_therme_164: -6980514017940504841
+      LPC_Ancient_Rome_Architecture_therme_165: -1427067576997333768
+      LPC_Ancient_Rome_Architecture_therme_166: 3754644653077887215
+      LPC_Ancient_Rome_Architecture_therme_167: -7043951761249730499
+      LPC_Ancient_Rome_Architecture_therme_168: 2156146596426188081
+      LPC_Ancient_Rome_Architecture_therme_169: -3884905867483031706
+      LPC_Ancient_Rome_Architecture_therme_17: 6069027025054533595
+      LPC_Ancient_Rome_Architecture_therme_170: -6962765719455337545
+      LPC_Ancient_Rome_Architecture_therme_171: -3191011924399995146
+      LPC_Ancient_Rome_Architecture_therme_172: -1161013694696695479
+      LPC_Ancient_Rome_Architecture_therme_173: 8383686623406582204
+      LPC_Ancient_Rome_Architecture_therme_174: 4343577119611110459
+      LPC_Ancient_Rome_Architecture_therme_175: -8775098852397274788
+      LPC_Ancient_Rome_Architecture_therme_176: -7278425561380052530
+      LPC_Ancient_Rome_Architecture_therme_177: -3562359475054588269
+      LPC_Ancient_Rome_Architecture_therme_178: 361398289322352432
+      LPC_Ancient_Rome_Architecture_therme_179: 2455680207578425318
+      LPC_Ancient_Rome_Architecture_therme_18: -5140940324145509473
+      LPC_Ancient_Rome_Architecture_therme_180: 8149516033910863794
+      LPC_Ancient_Rome_Architecture_therme_181: 7419411889526784369
+      LPC_Ancient_Rome_Architecture_therme_182: -6259229843549890638
+      LPC_Ancient_Rome_Architecture_therme_183: -85105916186411619
+      LPC_Ancient_Rome_Architecture_therme_184: 9016017705382923242
+      LPC_Ancient_Rome_Architecture_therme_185: -7719745430904574226
+      LPC_Ancient_Rome_Architecture_therme_186: -5234417585937383812
+      LPC_Ancient_Rome_Architecture_therme_187: 4960547469175653786
+      LPC_Ancient_Rome_Architecture_therme_188: -661137374347751813
+      LPC_Ancient_Rome_Architecture_therme_189: -4949788675634520094
+      LPC_Ancient_Rome_Architecture_therme_19: 6931784007996969558
+      LPC_Ancient_Rome_Architecture_therme_190: 8297721269146135171
+      LPC_Ancient_Rome_Architecture_therme_191: -6770429088934617160
+      LPC_Ancient_Rome_Architecture_therme_192: -9162342033779076495
+      LPC_Ancient_Rome_Architecture_therme_193: 4777366260169937888
+      LPC_Ancient_Rome_Architecture_therme_194: -2061331374111411757
+      LPC_Ancient_Rome_Architecture_therme_195: -7706170534490741122
+      LPC_Ancient_Rome_Architecture_therme_196: -5990719148997654790
+      LPC_Ancient_Rome_Architecture_therme_197: -5276012522349627030
+      LPC_Ancient_Rome_Architecture_therme_198: 2968076264574799935
+      LPC_Ancient_Rome_Architecture_therme_199: 5761409544555927696
+      LPC_Ancient_Rome_Architecture_therme_2: 1385696277580092828
+      LPC_Ancient_Rome_Architecture_therme_20: -3266431062188882548
+      LPC_Ancient_Rome_Architecture_therme_200: 8502404803605584549
+      LPC_Ancient_Rome_Architecture_therme_201: 4031395153831663416
+      LPC_Ancient_Rome_Architecture_therme_202: -4420448471065910752
+      LPC_Ancient_Rome_Architecture_therme_203: -3540919300684088691
+      LPC_Ancient_Rome_Architecture_therme_204: 8165666846941856521
+      LPC_Ancient_Rome_Architecture_therme_205: -4570493968951962258
+      LPC_Ancient_Rome_Architecture_therme_206: -3104197551228361976
+      LPC_Ancient_Rome_Architecture_therme_207: -4203845731527621923
+      LPC_Ancient_Rome_Architecture_therme_208: 3136874590490112081
+      LPC_Ancient_Rome_Architecture_therme_209: -7359494084557582542
+      LPC_Ancient_Rome_Architecture_therme_21: 7169452189834801005
+      LPC_Ancient_Rome_Architecture_therme_210: -5617925398308023739
+      LPC_Ancient_Rome_Architecture_therme_211: 1104335021426183154
+      LPC_Ancient_Rome_Architecture_therme_212: -2335535073487681583
+      LPC_Ancient_Rome_Architecture_therme_213: 107776378661818906
+      LPC_Ancient_Rome_Architecture_therme_214: -6254154988315044501
+      LPC_Ancient_Rome_Architecture_therme_215: 8247114671619529548
+      LPC_Ancient_Rome_Architecture_therme_216: 568347479691764814
+      LPC_Ancient_Rome_Architecture_therme_217: 6545754354947214396
+      LPC_Ancient_Rome_Architecture_therme_218: 4759190674549399629
+      LPC_Ancient_Rome_Architecture_therme_219: 3469194565904259501
+      LPC_Ancient_Rome_Architecture_therme_22: 467044376389656220
+      LPC_Ancient_Rome_Architecture_therme_220: 4116972358219800143
+      LPC_Ancient_Rome_Architecture_therme_221: 227812733816631470
+      LPC_Ancient_Rome_Architecture_therme_222: -1601015450792718336
+      LPC_Ancient_Rome_Architecture_therme_223: 2138416486590907797
+      LPC_Ancient_Rome_Architecture_therme_224: 5862043168799293103
+      LPC_Ancient_Rome_Architecture_therme_225: 2291772603446974935
+      LPC_Ancient_Rome_Architecture_therme_226: 1515349731185064580
+      LPC_Ancient_Rome_Architecture_therme_227: 4640134353909552299
+      LPC_Ancient_Rome_Architecture_therme_228: 2527641355082643201
+      LPC_Ancient_Rome_Architecture_therme_229: -4312322682258418542
+      LPC_Ancient_Rome_Architecture_therme_23: -1629492159927608341
+      LPC_Ancient_Rome_Architecture_therme_230: 5937799122047328195
+      LPC_Ancient_Rome_Architecture_therme_231: -7146854329246222187
+      LPC_Ancient_Rome_Architecture_therme_232: 7625492142940037575
+      LPC_Ancient_Rome_Architecture_therme_233: -1948271673158164641
+      LPC_Ancient_Rome_Architecture_therme_234: -537446645836466398
+      LPC_Ancient_Rome_Architecture_therme_235: 7870103174374266228
+      LPC_Ancient_Rome_Architecture_therme_236: 6443588591175043939
+      LPC_Ancient_Rome_Architecture_therme_237: -4537047046353730521
+      LPC_Ancient_Rome_Architecture_therme_238: 203571497334334696
+      LPC_Ancient_Rome_Architecture_therme_239: -7479127567190444217
+      LPC_Ancient_Rome_Architecture_therme_24: 8508763264305833839
+      LPC_Ancient_Rome_Architecture_therme_240: -7689000551567969782
+      LPC_Ancient_Rome_Architecture_therme_241: 6448616830814596065
+      LPC_Ancient_Rome_Architecture_therme_242: -7712086622355584439
+      LPC_Ancient_Rome_Architecture_therme_243: -4441328330440692377
+      LPC_Ancient_Rome_Architecture_therme_244: -2201127402732770200
+      LPC_Ancient_Rome_Architecture_therme_245: 974676458833367706
+      LPC_Ancient_Rome_Architecture_therme_246: 3730174472957781761
+      LPC_Ancient_Rome_Architecture_therme_247: 4320259056368381089
+      LPC_Ancient_Rome_Architecture_therme_248: 1669768953671343739
+      LPC_Ancient_Rome_Architecture_therme_249: 6642907405049659723
+      LPC_Ancient_Rome_Architecture_therme_25: 8699374840269552816
+      LPC_Ancient_Rome_Architecture_therme_26: -2512895400347460299
+      LPC_Ancient_Rome_Architecture_therme_27: -31465943981980481
+      LPC_Ancient_Rome_Architecture_therme_28: 1153027327420143628
+      LPC_Ancient_Rome_Architecture_therme_29: -6828651168719814260
+      LPC_Ancient_Rome_Architecture_therme_3: -6924592386564492513
+      LPC_Ancient_Rome_Architecture_therme_30: -8713904848340774192
+      LPC_Ancient_Rome_Architecture_therme_31: 379209869043809223
+      LPC_Ancient_Rome_Architecture_therme_32: -2584749450427558052
+      LPC_Ancient_Rome_Architecture_therme_33: -6992605921370052725
+      LPC_Ancient_Rome_Architecture_therme_34: 5430569312439543520
+      LPC_Ancient_Rome_Architecture_therme_35: 8457078392876051330
+      LPC_Ancient_Rome_Architecture_therme_36: 1250524193126963214
+      LPC_Ancient_Rome_Architecture_therme_37: 6721419930939084875
+      LPC_Ancient_Rome_Architecture_therme_38: 8214999743404869265
+      LPC_Ancient_Rome_Architecture_therme_39: -36078952253035116
+      LPC_Ancient_Rome_Architecture_therme_4: -1752551854452979835
+      LPC_Ancient_Rome_Architecture_therme_40: -6896929763098988401
+      LPC_Ancient_Rome_Architecture_therme_41: 8327894375887501335
+      LPC_Ancient_Rome_Architecture_therme_42: 2665449669473879664
+      LPC_Ancient_Rome_Architecture_therme_43: 3763731988816014012
+      LPC_Ancient_Rome_Architecture_therme_44: -4326362949358900730
+      LPC_Ancient_Rome_Architecture_therme_45: 1905675563487945605
+      LPC_Ancient_Rome_Architecture_therme_46: 5067836560714487761
+      LPC_Ancient_Rome_Architecture_therme_47: -4479011497418546194
+      LPC_Ancient_Rome_Architecture_therme_48: 1651241085561254638
+      LPC_Ancient_Rome_Architecture_therme_49: 854449104288726328
+      LPC_Ancient_Rome_Architecture_therme_5: -278929759411064743
+      LPC_Ancient_Rome_Architecture_therme_50: -1821037228983595951
+      LPC_Ancient_Rome_Architecture_therme_51: -8690571940236067375
+      LPC_Ancient_Rome_Architecture_therme_52: 7272504405686656417
+      LPC_Ancient_Rome_Architecture_therme_53: 5486970732134110987
+      LPC_Ancient_Rome_Architecture_therme_54: 6567635798020841217
+      LPC_Ancient_Rome_Architecture_therme_55: 4776618314066733217
+      LPC_Ancient_Rome_Architecture_therme_56: 872019029179534492
+      LPC_Ancient_Rome_Architecture_therme_57: -5131955788483975966
+      LPC_Ancient_Rome_Architecture_therme_58: 4434776636339275768
+      LPC_Ancient_Rome_Architecture_therme_59: -2979291415341347344
+      LPC_Ancient_Rome_Architecture_therme_6: 4164265204596315819
+      LPC_Ancient_Rome_Architecture_therme_60: 6439968970471381414
+      LPC_Ancient_Rome_Architecture_therme_61: 5391401205718633810
+      LPC_Ancient_Rome_Architecture_therme_62: -730029956565278687
+      LPC_Ancient_Rome_Architecture_therme_63: -6715052519535355522
+      LPC_Ancient_Rome_Architecture_therme_64: -5598834737339430444
+      LPC_Ancient_Rome_Architecture_therme_65: 8407816122446832265
+      LPC_Ancient_Rome_Architecture_therme_66: 680864044860217905
+      LPC_Ancient_Rome_Architecture_therme_67: 7171197568487134803
+      LPC_Ancient_Rome_Architecture_therme_68: 8699058134649653928
+      LPC_Ancient_Rome_Architecture_therme_69: 7696215208917043720
+      LPC_Ancient_Rome_Architecture_therme_7: -4360382994494988799
+      LPC_Ancient_Rome_Architecture_therme_70: 7444686083595466620
+      LPC_Ancient_Rome_Architecture_therme_71: 2241229430521007145
+      LPC_Ancient_Rome_Architecture_therme_72: 4419341307535098438
+      LPC_Ancient_Rome_Architecture_therme_73: -2005597166577958802
+      LPC_Ancient_Rome_Architecture_therme_74: -6730128902647874049
+      LPC_Ancient_Rome_Architecture_therme_75: 2841665426113657103
+      LPC_Ancient_Rome_Architecture_therme_76: 1341441044186737426
+      LPC_Ancient_Rome_Architecture_therme_77: 2363663646348410759
+      LPC_Ancient_Rome_Architecture_therme_78: -7752070255014819406
+      LPC_Ancient_Rome_Architecture_therme_79: -3036097026428353486
+      LPC_Ancient_Rome_Architecture_therme_8: 1449439844462200607
+      LPC_Ancient_Rome_Architecture_therme_80: 559974407975270627
+      LPC_Ancient_Rome_Architecture_therme_81: -7248119674427580043
+      LPC_Ancient_Rome_Architecture_therme_82: -6942310365898636168
+      LPC_Ancient_Rome_Architecture_therme_83: 1371027137485719466
+      LPC_Ancient_Rome_Architecture_therme_84: -3331600823248028048
+      LPC_Ancient_Rome_Architecture_therme_85: 7146042807971367291
+      LPC_Ancient_Rome_Architecture_therme_86: 3808060062196496705
+      LPC_Ancient_Rome_Architecture_therme_87: 4988407762155222012
+      LPC_Ancient_Rome_Architecture_therme_88: -4649724222209711888
+      LPC_Ancient_Rome_Architecture_therme_89: 8949821507002719362
+      LPC_Ancient_Rome_Architecture_therme_9: 6983201896892263602
+      LPC_Ancient_Rome_Architecture_therme_90: -4018397436213846886
+      LPC_Ancient_Rome_Architecture_therme_91: 3059157388286657782
+      LPC_Ancient_Rome_Architecture_therme_92: -8977141668634422681
+      LPC_Ancient_Rome_Architecture_therme_93: 7300150486707826706
+      LPC_Ancient_Rome_Architecture_therme_94: 1946657608283795727
+      LPC_Ancient_Rome_Architecture_therme_95: -5408151246805339527
+      LPC_Ancient_Rome_Architecture_therme_96: 1131667188820541934
+      LPC_Ancient_Rome_Architecture_therme_97: -4924469852499081153
+      LPC_Ancient_Rome_Architecture_therme_98: 8988959838361517663
+      LPC_Ancient_Rome_Architecture_therme_99: 4791242642157705497
+  mipmapLimitGroupName: 
   pSDRemoveMatte: 0
-  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

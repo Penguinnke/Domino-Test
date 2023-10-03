@@ -20,4 +20,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Test Scenes/ChangerPlaceholder.unity
     guid: 67446049697621d4f869e1d87fbeb49d
+  - enabled: 1
+    path: Assets/Scenes/Puzzels/Area1/Puzzle_1_A.unity
+    guid: adfbeb25a8bc61a44940eedc420b3408
   m_configObjects: {}

@@ -44,9 +44,9 @@ public class SceneChangerArea1 : MonoBehaviour
                 if (Random.value <= 0.25f && isInsideArea && isCollisionDetectedRight)
                 {
                     Debug.Log("25% chance Area1");
-                    //string randomSceneName = Scenes[Random.Range(0, Scenes.Length)];
+                    string randomSceneName = Scenes[Random.Range(0, Scenes.Length)];
                     // Load the randomly selected scene
-                    //SceneManager.LoadScene(randomSceneName);
+                    SceneManager.LoadScene(randomSceneName);
                 } else 
                 {
                     Debug.Log("Scene not changed Area1");

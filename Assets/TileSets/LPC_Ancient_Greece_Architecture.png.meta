@@ -1203,7 +1203,7 @@ TextureImporter:
       213: 5414048431824418896
     second: LPC_Ancient_Greece_Architecture_399
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -1220,10 +1220,12 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
+    flipGreenChannel: 0
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMipmapLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -1262,6 +1264,8 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -1273,6 +1277,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -1285,6 +1290,20 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
@@ -9700,9 +9719,409 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-  spritePackingTag: 
+    nameFileIdTable:
+      LPC_Ancient_Greece_Architecture_0: -8277874130781144914
+      LPC_Ancient_Greece_Architecture_1: 1632641106616754004
+      LPC_Ancient_Greece_Architecture_10: 8132603716829737830
+      LPC_Ancient_Greece_Architecture_100: -6703862443710431649
+      LPC_Ancient_Greece_Architecture_101: -2307040113512793342
+      LPC_Ancient_Greece_Architecture_102: -3595603490887514574
+      LPC_Ancient_Greece_Architecture_103: -9128750854528116919
+      LPC_Ancient_Greece_Architecture_104: 5993244634162874595
+      LPC_Ancient_Greece_Architecture_105: -3964190999278678533
+      LPC_Ancient_Greece_Architecture_106: -6945672223797798309
+      LPC_Ancient_Greece_Architecture_107: -6473596234483233426
+      LPC_Ancient_Greece_Architecture_108: 2479399006375620038
+      LPC_Ancient_Greece_Architecture_109: -1381993411744785323
+      LPC_Ancient_Greece_Architecture_11: -6494559112724953515
+      LPC_Ancient_Greece_Architecture_110: -3928825778043727788
+      LPC_Ancient_Greece_Architecture_111: -6934671587284119181
+      LPC_Ancient_Greece_Architecture_112: -4169522352640977237
+      LPC_Ancient_Greece_Architecture_113: -6116268244778227540
+      LPC_Ancient_Greece_Architecture_114: -7450501242813548709
+      LPC_Ancient_Greece_Architecture_115: -5412884377374225184
+      LPC_Ancient_Greece_Architecture_116: -1389600069326954822
+      LPC_Ancient_Greece_Architecture_117: -1525175152486870816
+      LPC_Ancient_Greece_Architecture_118: 132160519764649147
+      LPC_Ancient_Greece_Architecture_119: -7411270356161492480
+      LPC_Ancient_Greece_Architecture_12: -58089719949628974
+      LPC_Ancient_Greece_Architecture_120: -6664778862335510584
+      LPC_Ancient_Greece_Architecture_121: 8898416551884207313
+      LPC_Ancient_Greece_Architecture_122: 460738246272186613
+      LPC_Ancient_Greece_Architecture_123: -8059162954655616167
+      LPC_Ancient_Greece_Architecture_124: -8056790280274587694
+      LPC_Ancient_Greece_Architecture_125: 6485836563075701912
+      LPC_Ancient_Greece_Architecture_126: -8470999206848235656
+      LPC_Ancient_Greece_Architecture_127: -3646142087809828403
+      LPC_Ancient_Greece_Architecture_128: 1746745892544729920
+      LPC_Ancient_Greece_Architecture_129: 46389252844118474
+      LPC_Ancient_Greece_Architecture_13: -2937465752627336417
+      LPC_Ancient_Greece_Architecture_130: -4448464815196788234
+      LPC_Ancient_Greece_Architecture_131: -4069302232435730922
+      LPC_Ancient_Greece_Architecture_132: -1897634265184540333
+      LPC_Ancient_Greece_Architecture_133: 5296790805297712696
+      LPC_Ancient_Greece_Architecture_134: 450025740045919427
+      LPC_Ancient_Greece_Architecture_135: -987126598772899598
+      LPC_Ancient_Greece_Architecture_136: -6225305411031626614
+      LPC_Ancient_Greece_Architecture_137: -3179883791533363834
+      LPC_Ancient_Greece_Architecture_138: -6400507570860003313
+      LPC_Ancient_Greece_Architecture_139: -1315015566028847668
+      LPC_Ancient_Greece_Architecture_14: 8027261239068758697
+      LPC_Ancient_Greece_Architecture_140: 6638318613979832053
+      LPC_Ancient_Greece_Architecture_141: -5335681855978125350
+      LPC_Ancient_Greece_Architecture_142: 7117533791518098843
+      LPC_Ancient_Greece_Architecture_143: 6254578528340374402
+      LPC_Ancient_Greece_Architecture_144: -7452641160294767480
+      LPC_Ancient_Greece_Architecture_145: 7135505246769875057
+      LPC_Ancient_Greece_Architecture_146: -7098294296955600016
+      LPC_Ancient_Greece_Architecture_147: 93640753540435666
+      LPC_Ancient_Greece_Architecture_148: 7297962899163064457
+      LPC_Ancient_Greece_Architecture_149: 1171240585690838896
+      LPC_Ancient_Greece_Architecture_15: -7505447283888983178
+      LPC_Ancient_Greece_Architecture_150: 8915311667438106399
+      LPC_Ancient_Greece_Architecture_151: -3578288173965961460
+      LPC_Ancient_Greece_Architecture_152: 8842508810289744337
+      LPC_Ancient_Greece_Architecture_153: -780390902704585924
+      LPC_Ancient_Greece_Architecture_154: 2840584028557031203
+      LPC_Ancient_Greece_Architecture_155: 131903555753011961
+      LPC_Ancient_Greece_Architecture_156: -4645650003988291813
+      LPC_Ancient_Greece_Architecture_157: 722485097325291910
+      LPC_Ancient_Greece_Architecture_158: -3437742226809234682
+      LPC_Ancient_Greece_Architecture_159: -6301660040627916565
+      LPC_Ancient_Greece_Architecture_16: -8392195924929924870
+      LPC_Ancient_Greece_Architecture_160: -2508885437337033190
+      LPC_Ancient_Greece_Architecture_161: 6977974447819051353
+      LPC_Ancient_Greece_Architecture_162: -156631490337694879
+      LPC_Ancient_Greece_Architecture_163: -4336243357237702517
+      LPC_Ancient_Greece_Architecture_164: 5280965496474378647
+      LPC_Ancient_Greece_Architecture_165: 98088338073751566
+      LPC_Ancient_Greece_Architecture_166: -5232630597570641971
+      LPC_Ancient_Greece_Architecture_167: -433760678313410951
+      LPC_Ancient_Greece_Architecture_168: -8694222818214847765
+      LPC_Ancient_Greece_Architecture_169: 4891195907218355768
+      LPC_Ancient_Greece_Architecture_17: 5236504373600560980
+      LPC_Ancient_Greece_Architecture_170: -6288674236733868958
+      LPC_Ancient_Greece_Architecture_171: -7349447801831302371
+      LPC_Ancient_Greece_Architecture_172: 1447726043944046937
+      LPC_Ancient_Greece_Architecture_173: -5843965300973005070
+      LPC_Ancient_Greece_Architecture_174: 2258007832968489606
+      LPC_Ancient_Greece_Architecture_175: -222402463095303285
+      LPC_Ancient_Greece_Architecture_176: 703793623955632282
+      LPC_Ancient_Greece_Architecture_177: -8283024941660409841
+      LPC_Ancient_Greece_Architecture_178: 5189886545137434638
+      LPC_Ancient_Greece_Architecture_179: 258332635783755126
+      LPC_Ancient_Greece_Architecture_18: -2235042869868757733
+      LPC_Ancient_Greece_Architecture_180: -3970950626722778768
+      LPC_Ancient_Greece_Architecture_181: 2681550839198443215
+      LPC_Ancient_Greece_Architecture_182: 6497945341012514718
+      LPC_Ancient_Greece_Architecture_183: 5565934852561488491
+      LPC_Ancient_Greece_Architecture_184: 3980383986229048500
+      LPC_Ancient_Greece_Architecture_185: 4166475896308589391
+      LPC_Ancient_Greece_Architecture_186: -575055915721998892
+      LPC_Ancient_Greece_Architecture_187: -5700393757712989369
+      LPC_Ancient_Greece_Architecture_188: -7207793798362495159
+      LPC_Ancient_Greece_Architecture_189: -1420115195546168073
+      LPC_Ancient_Greece_Architecture_19: 8238488660649444488
+      LPC_Ancient_Greece_Architecture_190: -831350356414904243
+      LPC_Ancient_Greece_Architecture_191: -4041121720359823348
+      LPC_Ancient_Greece_Architecture_192: -6488212385603994364
+      LPC_Ancient_Greece_Architecture_193: 1470045937334793550
+      LPC_Ancient_Greece_Architecture_194: 3388266064723758380
+      LPC_Ancient_Greece_Architecture_195: 8629847403987892556
+      LPC_Ancient_Greece_Architecture_196: 8379522638012180117
+      LPC_Ancient_Greece_Architecture_197: 3179279498311008281
+      LPC_Ancient_Greece_Architecture_198: -2112792911739300833
+      LPC_Ancient_Greece_Architecture_199: -6358107136211829271
+      LPC_Ancient_Greece_Architecture_2: -3301773590969759424
+      LPC_Ancient_Greece_Architecture_20: 1303891302744772141
+      LPC_Ancient_Greece_Architecture_200: 3737004311182751877
+      LPC_Ancient_Greece_Architecture_201: 5589070885999629844
+      LPC_Ancient_Greece_Architecture_202: -270099485890491878
+      LPC_Ancient_Greece_Architecture_203: 7150454538223668095
+      LPC_Ancient_Greece_Architecture_204: -8758969803938500479
+      LPC_Ancient_Greece_Architecture_205: 4139071620989957206
+      LPC_Ancient_Greece_Architecture_206: -9086775611338683437
+      LPC_Ancient_Greece_Architecture_207: 3631057596456107428
+      LPC_Ancient_Greece_Architecture_208: 3822208063872323213
+      LPC_Ancient_Greece_Architecture_209: -221823162324296836
+      LPC_Ancient_Greece_Architecture_21: 7279673879664283356
+      LPC_Ancient_Greece_Architecture_210: -4452520479226974106
+      LPC_Ancient_Greece_Architecture_211: -4737292209668123464
+      LPC_Ancient_Greece_Architecture_212: -5116221015032529864
+      LPC_Ancient_Greece_Architecture_213: -968129631795021479
+      LPC_Ancient_Greece_Architecture_214: 2234800947369130214
+      LPC_Ancient_Greece_Architecture_215: 5939228355447084172
+      LPC_Ancient_Greece_Architecture_216: -4107070036983574851
+      LPC_Ancient_Greece_Architecture_217: 8001341720899866325
+      LPC_Ancient_Greece_Architecture_218: 870418610600253219
+      LPC_Ancient_Greece_Architecture_219: 1612656569352108686
+      LPC_Ancient_Greece_Architecture_22: 5140026261925082490
+      LPC_Ancient_Greece_Architecture_220: 5369529038873703974
+      LPC_Ancient_Greece_Architecture_221: -8023137375750634442
+      LPC_Ancient_Greece_Architecture_222: 2495922473076175327
+      LPC_Ancient_Greece_Architecture_223: 8584972647457236651
+      LPC_Ancient_Greece_Architecture_224: 5071570077913101589
+      LPC_Ancient_Greece_Architecture_225: 1288909600810785261
+      LPC_Ancient_Greece_Architecture_226: 7138023248669044381
+      LPC_Ancient_Greece_Architecture_227: -3291429545609293520
+      LPC_Ancient_Greece_Architecture_228: 7941304286703607129
+      LPC_Ancient_Greece_Architecture_229: 3928944349460894070
+      LPC_Ancient_Greece_Architecture_23: 7069420244136052575
+      LPC_Ancient_Greece_Architecture_230: -7936853503965392021
+      LPC_Ancient_Greece_Architecture_231: 2813446507823268038
+      LPC_Ancient_Greece_Architecture_232: 8318490233362857274
+      LPC_Ancient_Greece_Architecture_233: 1223424869446924253
+      LPC_Ancient_Greece_Architecture_234: -8657763211814666498
+      LPC_Ancient_Greece_Architecture_235: -952582983544345504
+      LPC_Ancient_Greece_Architecture_236: 4901336826302827824
+      LPC_Ancient_Greece_Architecture_237: 6562049289500917491
+      LPC_Ancient_Greece_Architecture_238: 8848897640797609162
+      LPC_Ancient_Greece_Architecture_239: 9109510229785455700
+      LPC_Ancient_Greece_Architecture_24: -6194041992468417092
+      LPC_Ancient_Greece_Architecture_240: -1563092272114532209
+      LPC_Ancient_Greece_Architecture_241: -8617915986684827362
+      LPC_Ancient_Greece_Architecture_242: -8517162721032781792
+      LPC_Ancient_Greece_Architecture_243: 2611621127538621430
+      LPC_Ancient_Greece_Architecture_244: -5703137578597859079
+      LPC_Ancient_Greece_Architecture_245: -8946561117686865924
+      LPC_Ancient_Greece_Architecture_246: 3622819247011562761
+      LPC_Ancient_Greece_Architecture_247: -8157161579474927829
+      LPC_Ancient_Greece_Architecture_248: -5935294783956814666
+      LPC_Ancient_Greece_Architecture_249: 7704060961536762001
+      LPC_Ancient_Greece_Architecture_25: 6444211246059310384
+      LPC_Ancient_Greece_Architecture_250: 2552363034810934433
+      LPC_Ancient_Greece_Architecture_251: -634831869010435235
+      LPC_Ancient_Greece_Architecture_252: 2950673508045155156
+      LPC_Ancient_Greece_Architecture_253: -7505018544166541159
+      LPC_Ancient_Greece_Architecture_254: -2498561398230644481
+      LPC_Ancient_Greece_Architecture_255: -1409275325582831825
+      LPC_Ancient_Greece_Architecture_256: 5633844428692413884
+      LPC_Ancient_Greece_Architecture_257: -4438996199242645356
+      LPC_Ancient_Greece_Architecture_258: -1429718818183235256
+      LPC_Ancient_Greece_Architecture_259: -457897101409507269
+      LPC_Ancient_Greece_Architecture_26: 5718157122569934917
+      LPC_Ancient_Greece_Architecture_260: 3017669730133783831
+      LPC_Ancient_Greece_Architecture_261: 7365309001636782249
+      LPC_Ancient_Greece_Architecture_262: -956816506180600652
+      LPC_Ancient_Greece_Architecture_263: -5797719270504778427
+      LPC_Ancient_Greece_Architecture_264: -7880798419885325091
+      LPC_Ancient_Greece_Architecture_265: 5560138006575059082
+      LPC_Ancient_Greece_Architecture_266: 5156574554559919773
+      LPC_Ancient_Greece_Architecture_267: -1629298073517168141
+      LPC_Ancient_Greece_Architecture_268: 8726228571244425212
+      LPC_Ancient_Greece_Architecture_269: 8290959466735601596
+      LPC_Ancient_Greece_Architecture_27: -2730897524496167697
+      LPC_Ancient_Greece_Architecture_270: 7341174382162678410
+      LPC_Ancient_Greece_Architecture_271: 3830151714771985459
+      LPC_Ancient_Greece_Architecture_272: -4685609951388448125
+      LPC_Ancient_Greece_Architecture_273: 3786185655436705087
+      LPC_Ancient_Greece_Architecture_274: -2763789712038412228
+      LPC_Ancient_Greece_Architecture_275: -8390173280789981865
+      LPC_Ancient_Greece_Architecture_276: -1419660188094284028
+      LPC_Ancient_Greece_Architecture_277: 2710391929306929780
+      LPC_Ancient_Greece_Architecture_278: -6376259517425117078
+      LPC_Ancient_Greece_Architecture_279: -2000365441985492279
+      LPC_Ancient_Greece_Architecture_28: 8622226905860449665
+      LPC_Ancient_Greece_Architecture_280: -2257807623782643601
+      LPC_Ancient_Greece_Architecture_281: -6949900164823277680
+      LPC_Ancient_Greece_Architecture_282: -454410628258691907
+      LPC_Ancient_Greece_Architecture_283: -8813280435335589574
+      LPC_Ancient_Greece_Architecture_284: -8782737292937756478
+      LPC_Ancient_Greece_Architecture_285: -9088101957398124951
+      LPC_Ancient_Greece_Architecture_286: -7907178620970459358
+      LPC_Ancient_Greece_Architecture_287: -5926339585974998482
+      LPC_Ancient_Greece_Architecture_288: 1147047425161594013
+      LPC_Ancient_Greece_Architecture_289: 6899256294184874995
+      LPC_Ancient_Greece_Architecture_29: 7005899673409681063
+      LPC_Ancient_Greece_Architecture_290: -8132376767696479412
+      LPC_Ancient_Greece_Architecture_291: 7414190417791060503
+      LPC_Ancient_Greece_Architecture_292: 4524129107489229175
+      LPC_Ancient_Greece_Architecture_293: 5023816045573396777
+      LPC_Ancient_Greece_Architecture_294: -4528960294738486165
+      LPC_Ancient_Greece_Architecture_295: -4723468955633134376
+      LPC_Ancient_Greece_Architecture_296: 3732524953008335151
+      LPC_Ancient_Greece_Architecture_297: -4952302558912937668
+      LPC_Ancient_Greece_Architecture_298: 1769647261390664847
+      LPC_Ancient_Greece_Architecture_299: 2535941621273442419
+      LPC_Ancient_Greece_Architecture_3: 7336520733977903235
+      LPC_Ancient_Greece_Architecture_30: -6844640829580756215
+      LPC_Ancient_Greece_Architecture_300: 8558750710128165681
+      LPC_Ancient_Greece_Architecture_301: -8413463224849256171
+      LPC_Ancient_Greece_Architecture_302: -3760750536328120314
+      LPC_Ancient_Greece_Architecture_303: -8913103019013654264
+      LPC_Ancient_Greece_Architecture_304: 2026286905094978920
+      LPC_Ancient_Greece_Architecture_305: -2360540779486598251
+      LPC_Ancient_Greece_Architecture_306: 6163645234282017025
+      LPC_Ancient_Greece_Architecture_307: -5083705621545505426
+      LPC_Ancient_Greece_Architecture_308: -9132377659873697029
+      LPC_Ancient_Greece_Architecture_309: 2232381589592888575
+      LPC_Ancient_Greece_Architecture_31: -3848229522125404902
+      LPC_Ancient_Greece_Architecture_310: 7972684255643823683
+      LPC_Ancient_Greece_Architecture_311: -2975938833617372306
+      LPC_Ancient_Greece_Architecture_312: 708349026496459324
+      LPC_Ancient_Greece_Architecture_313: -7368074841186046335
+      LPC_Ancient_Greece_Architecture_314: -1194370266852610407
+      LPC_Ancient_Greece_Architecture_315: 6541095417974298792
+      LPC_Ancient_Greece_Architecture_316: -8975708908995561935
+      LPC_Ancient_Greece_Architecture_317: 6003793215350597880
+      LPC_Ancient_Greece_Architecture_318: 3574522089074106047
+      LPC_Ancient_Greece_Architecture_319: -4341786482840490012
+      LPC_Ancient_Greece_Architecture_32: 2356101400812542344
+      LPC_Ancient_Greece_Architecture_320: -8631683381471178763
+      LPC_Ancient_Greece_Architecture_321: 737288082002001513
+      LPC_Ancient_Greece_Architecture_322: -2394866550838906581
+      LPC_Ancient_Greece_Architecture_323: 8722133821252725242
+      LPC_Ancient_Greece_Architecture_324: 5670131318026634983
+      LPC_Ancient_Greece_Architecture_325: -8438140389275552059
+      LPC_Ancient_Greece_Architecture_326: -427059457231647971
+      LPC_Ancient_Greece_Architecture_327: -6106822531191016432
+      LPC_Ancient_Greece_Architecture_328: -1884839806773073828
+      LPC_Ancient_Greece_Architecture_329: 2592610743457619042
+      LPC_Ancient_Greece_Architecture_33: -5118236730822017563
+      LPC_Ancient_Greece_Architecture_330: -7804770298804308849
+      LPC_Ancient_Greece_Architecture_331: 6538450478905950923
+      LPC_Ancient_Greece_Architecture_332: -1323587829989934528
+      LPC_Ancient_Greece_Architecture_333: 4793952078166236922
+      LPC_Ancient_Greece_Architecture_334: 5539663016206525488
+      LPC_Ancient_Greece_Architecture_335: -126747269921842507
+      LPC_Ancient_Greece_Architecture_336: 490692187326004458
+      LPC_Ancient_Greece_Architecture_337: -8567335804806173085
+      LPC_Ancient_Greece_Architecture_338: 2031213996629022768
+      LPC_Ancient_Greece_Architecture_339: -3195336557213020735
+      LPC_Ancient_Greece_Architecture_34: -4681836706294672146
+      LPC_Ancient_Greece_Architecture_340: 3274322553334574849
+      LPC_Ancient_Greece_Architecture_341: 8511178939499175755
+      LPC_Ancient_Greece_Architecture_342: 1771044322542209891
+      LPC_Ancient_Greece_Architecture_343: 6553983939583765331
+      LPC_Ancient_Greece_Architecture_344: -5642810792147166366
+      LPC_Ancient_Greece_Architecture_345: 8559014831664554748
+      LPC_Ancient_Greece_Architecture_346: 1578165961665271618
+      LPC_Ancient_Greece_Architecture_347: -2971411288929626446
+      LPC_Ancient_Greece_Architecture_348: 8513709550976426014
+      LPC_Ancient_Greece_Architecture_349: 1040758302354211436
+      LPC_Ancient_Greece_Architecture_35: -8474020094169782565
+      LPC_Ancient_Greece_Architecture_350: 5070053555479753571
+      LPC_Ancient_Greece_Architecture_351: -696969878308674387
+      LPC_Ancient_Greece_Architecture_352: 8450308411962095846
+      LPC_Ancient_Greece_Architecture_353: 7923246133690071174
+      LPC_Ancient_Greece_Architecture_354: -2059564053814226192
+      LPC_Ancient_Greece_Architecture_355: 8840344539087595933
+      LPC_Ancient_Greece_Architecture_356: 4479060792712646941
+      LPC_Ancient_Greece_Architecture_357: -5213015814105469242
+      LPC_Ancient_Greece_Architecture_358: 1630780718181633877
+      LPC_Ancient_Greece_Architecture_359: -2708766970644676866
+      LPC_Ancient_Greece_Architecture_36: -816395889253677889
+      LPC_Ancient_Greece_Architecture_360: -2918693134319521221
+      LPC_Ancient_Greece_Architecture_361: -8941285200858283764
+      LPC_Ancient_Greece_Architecture_362: 310029179072482911
+      LPC_Ancient_Greece_Architecture_363: 4833229992332017168
+      LPC_Ancient_Greece_Architecture_364: 7483305534761162077
+      LPC_Ancient_Greece_Architecture_365: -4531553318213552147
+      LPC_Ancient_Greece_Architecture_366: 1323890710962339671
+      LPC_Ancient_Greece_Architecture_367: -6197359988751101382
+      LPC_Ancient_Greece_Architecture_368: -1436790366832014568
+      LPC_Ancient_Greece_Architecture_369: 6987367937842718326
+      LPC_Ancient_Greece_Architecture_37: 4152137707808931865
+      LPC_Ancient_Greece_Architecture_370: 6508464702200606130
+      LPC_Ancient_Greece_Architecture_371: 4362141740555431102
+      LPC_Ancient_Greece_Architecture_372: 1435330880547756961
+      LPC_Ancient_Greece_Architecture_373: 5750277863876608848
+      LPC_Ancient_Greece_Architecture_374: -1696640697966526685
+      LPC_Ancient_Greece_Architecture_375: 3228288473253844065
+      LPC_Ancient_Greece_Architecture_376: 2848299434803231499
+      LPC_Ancient_Greece_Architecture_377: 7945467664117039847
+      LPC_Ancient_Greece_Architecture_378: -7295050593465208180
+      LPC_Ancient_Greece_Architecture_379: 5375824362359950062
+      LPC_Ancient_Greece_Architecture_38: -7346957880001174560
+      LPC_Ancient_Greece_Architecture_380: 1867559600050777290
+      LPC_Ancient_Greece_Architecture_381: -1029313831510709236
+      LPC_Ancient_Greece_Architecture_382: 1385803837486764309
+      LPC_Ancient_Greece_Architecture_383: -4764642987440320114
+      LPC_Ancient_Greece_Architecture_384: -5573837934734708107
+      LPC_Ancient_Greece_Architecture_385: -2176029882138729630
+      LPC_Ancient_Greece_Architecture_386: 6290901648538948520
+      LPC_Ancient_Greece_Architecture_387: -894754329295746391
+      LPC_Ancient_Greece_Architecture_388: 4941506396774798130
+      LPC_Ancient_Greece_Architecture_389: 7984211795818662692
+      LPC_Ancient_Greece_Architecture_39: 1191497899253524005
+      LPC_Ancient_Greece_Architecture_390: 5885821850603074681
+      LPC_Ancient_Greece_Architecture_391: 8005222250794314055
+      LPC_Ancient_Greece_Architecture_392: -8572477005748848469
+      LPC_Ancient_Greece_Architecture_393: -188604940204096186
+      LPC_Ancient_Greece_Architecture_394: -47008955827303223
+      LPC_Ancient_Greece_Architecture_395: -318117092554620452
+      LPC_Ancient_Greece_Architecture_396: 4310481503803267756
+      LPC_Ancient_Greece_Architecture_397: -6670325385696109738
+      LPC_Ancient_Greece_Architecture_398: 9059363592779355160
+      LPC_Ancient_Greece_Architecture_399: 5414048431824418896
+      LPC_Ancient_Greece_Architecture_4: 7627326744891157133
+      LPC_Ancient_Greece_Architecture_40: -7562839122260815935
+      LPC_Ancient_Greece_Architecture_41: -7345638066870309858
+      LPC_Ancient_Greece_Architecture_42: -8325234707693209073
+      LPC_Ancient_Greece_Architecture_43: 9196256289596849287
+      LPC_Ancient_Greece_Architecture_44: 5699451186531902632
+      LPC_Ancient_Greece_Architecture_45: -2851446116448086298
+      LPC_Ancient_Greece_Architecture_46: 219426919972332488
+      LPC_Ancient_Greece_Architecture_47: 5227623772367311679
+      LPC_Ancient_Greece_Architecture_48: 2840462679443192058
+      LPC_Ancient_Greece_Architecture_49: -6301052195300169339
+      LPC_Ancient_Greece_Architecture_5: 8258603165593448175
+      LPC_Ancient_Greece_Architecture_50: 8492657134250096239
+      LPC_Ancient_Greece_Architecture_51: 305800657144546282
+      LPC_Ancient_Greece_Architecture_52: -364523015982287280
+      LPC_Ancient_Greece_Architecture_53: 159061587867521214
+      LPC_Ancient_Greece_Architecture_54: -4980246283390949507
+      LPC_Ancient_Greece_Architecture_55: -7124756294397210654
+      LPC_Ancient_Greece_Architecture_56: -1445877532700390128
+      LPC_Ancient_Greece_Architecture_57: -8839021746727869695
+      LPC_Ancient_Greece_Architecture_58: 4659948160112701591
+      LPC_Ancient_Greece_Architecture_59: 600805197816609290
+      LPC_Ancient_Greece_Architecture_6: -208953840358439844
+      LPC_Ancient_Greece_Architecture_60: -1742300893697386987
+      LPC_Ancient_Greece_Architecture_61: -726311382459873473
+      LPC_Ancient_Greece_Architecture_62: 7580694691794922389
+      LPC_Ancient_Greece_Architecture_63: -8525825008614826433
+      LPC_Ancient_Greece_Architecture_64: 4423091867610631237
+      LPC_Ancient_Greece_Architecture_65: -5241001116080985752
+      LPC_Ancient_Greece_Architecture_66: 6850918004797220901
+      LPC_Ancient_Greece_Architecture_67: -410650987207669795
+      LPC_Ancient_Greece_Architecture_68: 8652411605747774443
+      LPC_Ancient_Greece_Architecture_69: 2706277034977637245
+      LPC_Ancient_Greece_Architecture_7: -6089337343238851589
+      LPC_Ancient_Greece_Architecture_70: -1722065319303557761
+      LPC_Ancient_Greece_Architecture_71: -1752434364203920778
+      LPC_Ancient_Greece_Architecture_72: 8909629712121328764
+      LPC_Ancient_Greece_Architecture_73: -2310151926422957616
+      LPC_Ancient_Greece_Architecture_74: -5023500780793382402
+      LPC_Ancient_Greece_Architecture_75: -856866805931484595
+      LPC_Ancient_Greece_Architecture_76: 852814548560383860
+      LPC_Ancient_Greece_Architecture_77: -5357787215812013324
+      LPC_Ancient_Greece_Architecture_78: 3662358352804854264
+      LPC_Ancient_Greece_Architecture_79: -1712383028399609818
+      LPC_Ancient_Greece_Architecture_8: 8415505151046213918
+      LPC_Ancient_Greece_Architecture_80: -6313828152983337262
+      LPC_Ancient_Greece_Architecture_81: 5407265558908725291
+      LPC_Ancient_Greece_Architecture_82: 5861235746295739831
+      LPC_Ancient_Greece_Architecture_83: 299958300683030057
+      LPC_Ancient_Greece_Architecture_84: 2847629132729575455
+      LPC_Ancient_Greece_Architecture_85: 6655078984963463380
+      LPC_Ancient_Greece_Architecture_86: 5897773765654709871
+      LPC_Ancient_Greece_Architecture_87: 2490175598167510202
+      LPC_Ancient_Greece_Architecture_88: 4210391023840818398
+      LPC_Ancient_Greece_Architecture_89: -1037746969738265391
+      LPC_Ancient_Greece_Architecture_9: -3581154577610975616
+      LPC_Ancient_Greece_Architecture_90: 2681680312082784146
+      LPC_Ancient_Greece_Architecture_91: 7285549353697900151
+      LPC_Ancient_Greece_Architecture_92: 5898751332479430477
+      LPC_Ancient_Greece_Architecture_93: 7339026430328376567
+      LPC_Ancient_Greece_Architecture_94: 1056159769823508498
+      LPC_Ancient_Greece_Architecture_95: 2277086261290989288
+      LPC_Ancient_Greece_Architecture_96: 5896211152650067082
+      LPC_Ancient_Greece_Architecture_97: -6074041346872669976
+      LPC_Ancient_Greece_Architecture_98: 6836029450838418908
+      LPC_Ancient_Greece_Architecture_99: -2180108409071606149
+  mipmapLimitGroupName: 
   pSDRemoveMatte: 0
-  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 
