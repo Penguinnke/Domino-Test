@@ -1,0 +1,6108 @@
+fileFormatVersion: 2
+guid: ae9140f069b5b134f9430aecfcc32dc2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1662758970609960854
+    second: LPC_Ancient_Rome_Architecture_aquaduct_0
+  - first:
+      213: 6874403309625876767
+    second: LPC_Ancient_Rome_Architecture_aquaduct_1
+  - first:
+      213: -3939461604992661313
+    second: LPC_Ancient_Rome_Architecture_aquaduct_2
+  - first:
+      213: -4888751131213177377
+    second: LPC_Ancient_Rome_Architecture_aquaduct_3
+  - first:
+      213: 5710622347555155786
+    second: LPC_Ancient_Rome_Architecture_aquaduct_4
+  - first:
+      213: 6506617443423735809
+    second: LPC_Ancient_Rome_Architecture_aquaduct_5
+  - first:
+      213: 4371797604772069990
+    second: LPC_Ancient_Rome_Architecture_aquaduct_6
+  - first:
+      213: 7600101871051276783
+    second: LPC_Ancient_Rome_Architecture_aquaduct_7
+  - first:
+      213: 3608818171151620160
+    second: LPC_Ancient_Rome_Architecture_aquaduct_8
+  - first:
+      213: 1617227258594501130
+    second: LPC_Ancient_Rome_Architecture_aquaduct_9
+  - first:
+      213: -7241242793384044817
+    second: LPC_Ancient_Rome_Architecture_aquaduct_10
+  - first:
+      213: -7462402304435125847
+    second: LPC_Ancient_Rome_Architecture_aquaduct_11
+  - first:
+      213: 7932787954084246358
+    second: LPC_Ancient_Rome_Architecture_aquaduct_12
+  - first:
+      213: 286891927380303469
+    second: LPC_Ancient_Rome_Architecture_aquaduct_13
+  - first:
+      213: 8562000376484186470
+    second: LPC_Ancient_Rome_Architecture_aquaduct_14
+  - first:
+      213: -1491128977059617706
+    second: LPC_Ancient_Rome_Architecture_aquaduct_15
+  - first:
+      213: 1042622930795621091
+    second: LPC_Ancient_Rome_Architecture_aquaduct_16
+  - first:
+      213: 5089475741710768647
+    second: LPC_Ancient_Rome_Architecture_aquaduct_17
+  - first:
+      213: -921916200389115438
+    second: LPC_Ancient_Rome_Architecture_aquaduct_18
+  - first:
+      213: -8525418176265226807
+    second: LPC_Ancient_Rome_Architecture_aquaduct_19
+  - first:
+      213: -920801660859711164
+    second: LPC_Ancient_Rome_Architecture_aquaduct_20
+  - first:
+      213: 8679415969790680964
+    second: LPC_Ancient_Rome_Architecture_aquaduct_21
+  - first:
+      213: -4380805916868403624
+    second: LPC_Ancient_Rome_Architecture_aquaduct_22
+  - first:
+      213: 6959237465273951746
+    second: LPC_Ancient_Rome_Architecture_aquaduct_23
+  - first:
+      213: -5964532186174136464
+    second: LPC_Ancient_Rome_Architecture_aquaduct_24
+  - first:
+      213: 5638529153804925274
+    second: LPC_Ancient_Rome_Architecture_aquaduct_25
+  - first:
+      213: -2673884007981288096
+    second: LPC_Ancient_Rome_Architecture_aquaduct_26
+  - first:
+      213: -3808468841886473328
+    second: LPC_Ancient_Rome_Architecture_aquaduct_27
+  - first:
+      213: -5773677810823862991
+    second: LPC_Ancient_Rome_Architecture_aquaduct_28
+  - first:
+      213: -2083977335220440061
+    second: LPC_Ancient_Rome_Architecture_aquaduct_29
+  - first:
+      213: -1937274440171402371
+    second: LPC_Ancient_Rome_Architecture_aquaduct_30
+  - first:
+      213: 766438716470401263
+    second: LPC_Ancient_Rome_Architecture_aquaduct_31
+  - first:
+      213: -1779998258704337843
+    second: LPC_Ancient_Rome_Architecture_aquaduct_32
+  - first:
+      213: 6744586300082713819
+    second: LPC_Ancient_Rome_Architecture_aquaduct_33
+  - first:
+      213: 458666070989542360
+    second: LPC_Ancient_Rome_Architecture_aquaduct_34
+  - first:
+      213: -6131409494235636359
+    second: LPC_Ancient_Rome_Architecture_aquaduct_35
+  - first:
+      213: 5741663617527214858
+    second: LPC_Ancient_Rome_Architecture_aquaduct_36
+  - first:
+      213: 3650405723730664283
+    second: LPC_Ancient_Rome_Architecture_aquaduct_37
+  - first:
+      213: -689798382070608769
+    second: LPC_Ancient_Rome_Architecture_aquaduct_38
+  - first:
+      213: 1666707966088929934
+    second: LPC_Ancient_Rome_Architecture_aquaduct_39
+  - first:
+      213: -7945441296505957474
+    second: LPC_Ancient_Rome_Architecture_aquaduct_40
+  - first:
+      213: 6719498991100906222
+    second: LPC_Ancient_Rome_Architecture_aquaduct_41
+  - first:
+      213: 5755770003568571437
+    second: LPC_Ancient_Rome_Architecture_aquaduct_42
+  - first:
+      213: -4622500109056755659
+    second: LPC_Ancient_Rome_Architecture_aquaduct_43
+  - first:
+      213: 4714237996428430468
+    second: LPC_Ancient_Rome_Architecture_aquaduct_44
+  - first:
+      213: 1057846039914611192
+    second: LPC_Ancient_Rome_Architecture_aquaduct_45
+  - first:
+      213: 1943807102411026525
+    second: LPC_Ancient_Rome_Architecture_aquaduct_46
+  - first:
+      213: -2724824749747979742
+    second: LPC_Ancient_Rome_Architecture_aquaduct_47
+  - first:
+      213: 6331839468298169087
+    second: LPC_Ancient_Rome_Architecture_aquaduct_48
+  - first:
+      213: -7678431029216227729
+    second: LPC_Ancient_Rome_Architecture_aquaduct_49
+  - first:
+      213: 8403514923790912823
+    second: LPC_Ancient_Rome_Architecture_aquaduct_50
+  - first:
+      213: 2453347382160174046
+    second: LPC_Ancient_Rome_Architecture_aquaduct_51
+  - first:
+      213: -4688815095070660993
+    second: LPC_Ancient_Rome_Architecture_aquaduct_52
+  - first:
+      213: 1626607938502666340
+    second: LPC_Ancient_Rome_Architecture_aquaduct_53
+  - first:
+      213: -4323141988139821202
+    second: LPC_Ancient_Rome_Architecture_aquaduct_54
+  - first:
+      213: -4530165414219935202
+    second: LPC_Ancient_Rome_Architecture_aquaduct_55
+  - first:
+      213: -7140659391623777725
+    second: LPC_Ancient_Rome_Architecture_aquaduct_56
+  - first:
+      213: -7833646094450398593
+    second: LPC_Ancient_Rome_Architecture_aquaduct_57
+  - first:
+      213: -822168630987433795
+    second: LPC_Ancient_Rome_Architecture_aquaduct_58
+  - first:
+      213: 3611295298470901279
+    second: LPC_Ancient_Rome_Architecture_aquaduct_59
+  - first:
+      213: 7390888956613627752
+    second: LPC_Ancient_Rome_Architecture_aquaduct_60
+  - first:
+      213: -6053960067484952542
+    second: LPC_Ancient_Rome_Architecture_aquaduct_61
+  - first:
+      213: 1737633617275663207
+    second: LPC_Ancient_Rome_Architecture_aquaduct_62
+  - first:
+      213: -6618540255887201433
+    second: LPC_Ancient_Rome_Architecture_aquaduct_63
+  - first:
+      213: 3042296693078000841
+    second: LPC_Ancient_Rome_Architecture_aquaduct_64
+  - first:
+      213: -4822674699945256851
+    second: LPC_Ancient_Rome_Architecture_aquaduct_65
+  - first:
+      213: 5953909510915769811
+    second: LPC_Ancient_Rome_Architecture_aquaduct_66
+  - first:
+      213: -8215583107860875381
+    second: LPC_Ancient_Rome_Architecture_aquaduct_67
+  - first:
+      213: 8184064161504651097
+    second: LPC_Ancient_Rome_Architecture_aquaduct_68
+  - first:
+      213: -4496674125589143233
+    second: LPC_Ancient_Rome_Architecture_aquaduct_69
+  - first:
+      213: 3477853403789031533
+    second: LPC_Ancient_Rome_Architecture_aquaduct_70
+  - first:
+      213: -4597932975366944179
+    second: LPC_Ancient_Rome_Architecture_aquaduct_71
+  - first:
+      213: -1826254002341061786
+    second: LPC_Ancient_Rome_Architecture_aquaduct_72
+  - first:
+      213: 4105889280171616590
+    second: LPC_Ancient_Rome_Architecture_aquaduct_73
+  - first:
+      213: -7127881697689919196
+    second: LPC_Ancient_Rome_Architecture_aquaduct_74
+  - first:
+      213: -1568646909291290626
+    second: LPC_Ancient_Rome_Architecture_aquaduct_75
+  - first:
+      213: -3534176627971648464
+    second: LPC_Ancient_Rome_Architecture_aquaduct_76
+  - first:
+      213: 4484315860883877304
+    second: LPC_Ancient_Rome_Architecture_aquaduct_77
+  - first:
+      213: -1411428661685068330
+    second: LPC_Ancient_Rome_Architecture_aquaduct_78
+  - first:
+      213: 2983098104306234133
+    second: LPC_Ancient_Rome_Architecture_aquaduct_79
+  - first:
+      213: 1083811558471012649
+    second: LPC_Ancient_Rome_Architecture_aquaduct_80
+  - first:
+      213: 3349353021367161893
+    second: LPC_Ancient_Rome_Architecture_aquaduct_81
+  - first:
+      213: -2205236128628721813
+    second: LPC_Ancient_Rome_Architecture_aquaduct_82
+  - first:
+      213: 2657608278369434326
+    second: LPC_Ancient_Rome_Architecture_aquaduct_83
+  - first:
+      213: 5430618726814372631
+    second: LPC_Ancient_Rome_Architecture_aquaduct_84
+  - first:
+      213: 5109232473941373826
+    second: LPC_Ancient_Rome_Architecture_aquaduct_85
+  - first:
+      213: -1344955633038007125
+    second: LPC_Ancient_Rome_Architecture_aquaduct_86
+  - first:
+      213: -3976265225799846144
+    second: LPC_Ancient_Rome_Architecture_aquaduct_87
+  - first:
+      213: -4053460475800018805
+    second: LPC_Ancient_Rome_Architecture_aquaduct_88
+  - first:
+      213: 5783374279563065562
+    second: LPC_Ancient_Rome_Architecture_aquaduct_89
+  - first:
+      213: 8450255709943445665
+    second: LPC_Ancient_Rome_Architecture_aquaduct_90
+  - first:
+      213: 8729610059116249486
+    second: LPC_Ancient_Rome_Architecture_aquaduct_91
+  - first:
+      213: -3146212319148575724
+    second: LPC_Ancient_Rome_Architecture_aquaduct_92
+  - first:
+      213: 6162248922994242834
+    second: LPC_Ancient_Rome_Architecture_aquaduct_93
+  - first:
+      213: 4767383647131983015
+    second: LPC_Ancient_Rome_Architecture_aquaduct_94
+  - first:
+      213: 6323321074075092028
+    second: LPC_Ancient_Rome_Architecture_aquaduct_95
+  - first:
+      213: -6059930420577702793
+    second: LPC_Ancient_Rome_Architecture_aquaduct_96
+  - first:
+      213: -351252067576774326
+    second: LPC_Ancient_Rome_Architecture_aquaduct_97
+  - first:
+      213: 2612929380856099790
+    second: LPC_Ancient_Rome_Architecture_aquaduct_98
+  - first:
+      213: -3179066432261100379
+    second: LPC_Ancient_Rome_Architecture_aquaduct_99
+  - first:
+      213: -6025964401229633237
+    second: LPC_Ancient_Rome_Architecture_aquaduct_100
+  - first:
+      213: 4170215722612198640
+    second: LPC_Ancient_Rome_Architecture_aquaduct_101
+  - first:
+      213: 2157373150771819659
+    second: LPC_Ancient_Rome_Architecture_aquaduct_102
+  - first:
+      213: -4954510026088171566
+    second: LPC_Ancient_Rome_Architecture_aquaduct_103
+  - first:
+      213: -7781171802522318421
+    second: LPC_Ancient_Rome_Architecture_aquaduct_104
+  - first:
+      213: 1639766583766800146
+    second: LPC_Ancient_Rome_Architecture_aquaduct_105
+  - first:
+      213: -3001515955561564873
+    second: LPC_Ancient_Rome_Architecture_aquaduct_106
+  - first:
+      213: -7184049062672479932
+    second: LPC_Ancient_Rome_Architecture_aquaduct_107
+  - first:
+      213: -8438450446671877132
+    second: LPC_Ancient_Rome_Architecture_aquaduct_108
+  - first:
+      213: -296707658619319220
+    second: LPC_Ancient_Rome_Architecture_aquaduct_109
+  - first:
+      213: 6892083957448803303
+    second: LPC_Ancient_Rome_Architecture_aquaduct_110
+  - first:
+      213: 2293997691586749911
+    second: LPC_Ancient_Rome_Architecture_aquaduct_111
+  - first:
+      213: -4236248583672528257
+    second: LPC_Ancient_Rome_Architecture_aquaduct_112
+  - first:
+      213: -4873505882623768109
+    second: LPC_Ancient_Rome_Architecture_aquaduct_113
+  - first:
+      213: 2757987020053109417
+    second: LPC_Ancient_Rome_Architecture_aquaduct_114
+  - first:
+      213: -5971341220859239903
+    second: LPC_Ancient_Rome_Architecture_aquaduct_115
+  - first:
+      213: 4371105346584432258
+    second: LPC_Ancient_Rome_Architecture_aquaduct_116
+  - first:
+      213: 6291090027035871277
+    second: LPC_Ancient_Rome_Architecture_aquaduct_117
+  - first:
+      213: -6545439136546383109
+    second: LPC_Ancient_Rome_Architecture_aquaduct_118
+  - first:
+      213: -7187393631692829713
+    second: LPC_Ancient_Rome_Architecture_aquaduct_119
+  - first:
+      213: -7015472363751813172
+    second: LPC_Ancient_Rome_Architecture_aquaduct_120
+  - first:
+      213: 7189017384314471264
+    second: LPC_Ancient_Rome_Architecture_aquaduct_121
+  - first:
+      213: -6501567179900806053
+    second: LPC_Ancient_Rome_Architecture_aquaduct_122
+  - first:
+      213: 9083341964161850049
+    second: LPC_Ancient_Rome_Architecture_aquaduct_123
+  - first:
+      213: -4013338294604931539
+    second: LPC_Ancient_Rome_Architecture_aquaduct_124
+  - first:
+      213: -1434624890604723449
+    second: LPC_Ancient_Rome_Architecture_aquaduct_125
+  - first:
+      213: 4891775695525819332
+    second: LPC_Ancient_Rome_Architecture_aquaduct_126
+  - first:
+      213: 313431419602992698
+    second: LPC_Ancient_Rome_Architecture_aquaduct_127
+  - first:
+      213: 9020100844153516128
+    second: LPC_Ancient_Rome_Architecture_aquaduct_128
+  - first:
+      213: -3254559554908985395
+    second: LPC_Ancient_Rome_Architecture_aquaduct_129
+  - first:
+      213: 7822374951340149711
+    second: LPC_Ancient_Rome_Architecture_aquaduct_130
+  - first:
+      213: -5411264045290954536
+    second: LPC_Ancient_Rome_Architecture_aquaduct_131
+  - first:
+      213: -6848566907114043960
+    second: LPC_Ancient_Rome_Architecture_aquaduct_132
+  - first:
+      213: -7092261391770753553
+    second: LPC_Ancient_Rome_Architecture_aquaduct_133
+  - first:
+      213: 3532953174422640735
+    second: LPC_Ancient_Rome_Architecture_aquaduct_134
+  - first:
+      213: -575488732996995819
+    second: LPC_Ancient_Rome_Architecture_aquaduct_135
+  - first:
+      213: 5954158568742931098
+    second: LPC_Ancient_Rome_Architecture_aquaduct_136
+  - first:
+      213: 2546545609110347743
+    second: LPC_Ancient_Rome_Architecture_aquaduct_137
+  - first:
+      213: -4520695503947136976
+    second: LPC_Ancient_Rome_Architecture_aquaduct_138
+  - first:
+      213: 859557837160519706
+    second: LPC_Ancient_Rome_Architecture_aquaduct_139
+  - first:
+      213: -3200090181929320473
+    second: LPC_Ancient_Rome_Architecture_aquaduct_140
+  - first:
+      213: 2426922191043219069
+    second: LPC_Ancient_Rome_Architecture_aquaduct_141
+  - first:
+      213: -8377295457394671790
+    second: LPC_Ancient_Rome_Architecture_aquaduct_142
+  - first:
+      213: -6180164471264404461
+    second: LPC_Ancient_Rome_Architecture_aquaduct_143
+  - first:
+      213: -6014919546113557275
+    second: LPC_Ancient_Rome_Architecture_aquaduct_144
+  - first:
+      213: -1877992533638848163
+    second: LPC_Ancient_Rome_Architecture_aquaduct_145
+  - first:
+      213: 7522539841553324794
+    second: LPC_Ancient_Rome_Architecture_aquaduct_146
+  - first:
+      213: -7136636462305012523
+    second: LPC_Ancient_Rome_Architecture_aquaduct_147
+  - first:
+      213: 6389980634771775346
+    second: LPC_Ancient_Rome_Architecture_aquaduct_148
+  - first:
+      213: 1649363191690088993
+    second: LPC_Ancient_Rome_Architecture_aquaduct_149
+  - first:
+      213: -6799461184716456886
+    second: LPC_Ancient_Rome_Architecture_aquaduct_150
+  - first:
+      213: -7491294178371103767
+    second: LPC_Ancient_Rome_Architecture_aquaduct_151
+  - first:
+      213: -8725210475249362971
+    second: LPC_Ancient_Rome_Architecture_aquaduct_152
+  - first:
+      213: 1309370776428875159
+    second: LPC_Ancient_Rome_Architecture_aquaduct_153
+  - first:
+      213: -4547791297613152246
+    second: LPC_Ancient_Rome_Architecture_aquaduct_154
+  - first:
+      213: -7406328767505116844
+    second: LPC_Ancient_Rome_Architecture_aquaduct_155
+  - first:
+      213: 2050079721752034381
+    second: LPC_Ancient_Rome_Architecture_aquaduct_156
+  - first:
+      213: 1755317922797445422
+    second: LPC_Ancient_Rome_Architecture_aquaduct_157
+  - first:
+      213: 172264493972148732
+    second: LPC_Ancient_Rome_Architecture_aquaduct_158
+  - first:
+      213: -7156367534797608049
+    second: LPC_Ancient_Rome_Architecture_aquaduct_159
+  - first:
+      213: -4112178507612036972
+    second: LPC_Ancient_Rome_Architecture_aquaduct_160
+  - first:
+      213: 1139056468435904251
+    second: LPC_Ancient_Rome_Architecture_aquaduct_161
+  - first:
+      213: -2898469051427558385
+    second: LPC_Ancient_Rome_Architecture_aquaduct_162
+  - first:
+      213: -5144211827030206385
+    second: LPC_Ancient_Rome_Architecture_aquaduct_163
+  - first:
+      213: 5054059189785630164
+    second: LPC_Ancient_Rome_Architecture_aquaduct_164
+  - first:
+      213: 6576271254949915512
+    second: LPC_Ancient_Rome_Architecture_aquaduct_165
+  - first:
+      213: 5319534403677154176
+    second: LPC_Ancient_Rome_Architecture_aquaduct_166
+  - first:
+      213: 2955396246541597261
+    second: LPC_Ancient_Rome_Architecture_aquaduct_167
+  - first:
+      213: 639280007734653136
+    second: LPC_Ancient_Rome_Architecture_aquaduct_168
+  - first:
+      213: 8580847300211678690
+    second: LPC_Ancient_Rome_Architecture_aquaduct_169
+  - first:
+      213: -7804846694179484575
+    second: LPC_Ancient_Rome_Architecture_aquaduct_170
+  - first:
+      213: 8784649180764296943
+    second: LPC_Ancient_Rome_Architecture_aquaduct_171
+  - first:
+      213: -7533161590305948144
+    second: LPC_Ancient_Rome_Architecture_aquaduct_172
+  - first:
+      213: -3975550421986441331
+    second: LPC_Ancient_Rome_Architecture_aquaduct_173
+  - first:
+      213: 3108642899730338511
+    second: LPC_Ancient_Rome_Architecture_aquaduct_174
+  - first:
+      213: -6134033756043966908
+    second: LPC_Ancient_Rome_Architecture_aquaduct_175
+  - first:
+      213: -2193566465459443065
+    second: LPC_Ancient_Rome_Architecture_aquaduct_176
+  - first:
+      213: -7484805990176668652
+    second: LPC_Ancient_Rome_Architecture_aquaduct_177
+  - first:
+      213: 1805271251443823222
+    second: LPC_Ancient_Rome_Architecture_aquaduct_178
+  - first:
+      213: 753900195141204008
+    second: LPC_Ancient_Rome_Architecture_aquaduct_179
+  - first:
+      213: 4656363251148521255
+    second: LPC_Ancient_Rome_Architecture_aquaduct_180
+  - first:
+      213: -9182726731443239887
+    second: LPC_Ancient_Rome_Architecture_aquaduct_181
+  - first:
+      213: -8552195855056920820
+    second: LPC_Ancient_Rome_Architecture_aquaduct_182
+  - first:
+      213: -8915545342646230906
+    second: LPC_Ancient_Rome_Architecture_aquaduct_183
+  - first:
+      213: -651440460019962420
+    second: LPC_Ancient_Rome_Architecture_aquaduct_184
+  - first:
+      213: -6700142735470141853
+    second: LPC_Ancient_Rome_Architecture_aquaduct_185
+  - first:
+      213: -7688785146264902342
+    second: LPC_Ancient_Rome_Architecture_aquaduct_186
+  - first:
+      213: -6358148659718211748
+    second: LPC_Ancient_Rome_Architecture_aquaduct_187
+  - first:
+      213: 7618635496707458089
+    second: LPC_Ancient_Rome_Architecture_aquaduct_188
+  - first:
+      213: -7609580971608694271
+    second: LPC_Ancient_Rome_Architecture_aquaduct_189
+  - first:
+      213: -5438004221852531192
+    second: LPC_Ancient_Rome_Architecture_aquaduct_190
+  - first:
+      213: -4607911398309470246
+    second: LPC_Ancient_Rome_Architecture_aquaduct_191
+  - first:
+      213: -4817137791691695953
+    second: LPC_Ancient_Rome_Architecture_aquaduct_192
+  - first:
+      213: 6254900757385406819
+    second: LPC_Ancient_Rome_Architecture_aquaduct_193
+  - first:
+      213: 4212916444094708053
+    second: LPC_Ancient_Rome_Architecture_aquaduct_194
+  - first:
+      213: -128692675771148747
+    second: LPC_Ancient_Rome_Architecture_aquaduct_195
+  - first:
+      213: 1574949347340407093
+    second: LPC_Ancient_Rome_Architecture_aquaduct_196
+  - first:
+      213: -994221866010299293
+    second: LPC_Ancient_Rome_Architecture_aquaduct_197
+  - first:
+      213: 34531855955245438
+    second: LPC_Ancient_Rome_Architecture_aquaduct_198
+  - first:
+      213: 4851161228336564991
+    second: LPC_Ancient_Rome_Architecture_aquaduct_199
+  - first:
+      213: -3488520891819508132
+    second: LPC_Ancient_Rome_Architecture_aquaduct_200
+  - first:
+      213: 1204358714920093183
+    second: LPC_Ancient_Rome_Architecture_aquaduct_201
+  - first:
+      213: -1129770166992616677
+    second: LPC_Ancient_Rome_Architecture_aquaduct_202
+  - first:
+      213: 2018390778056436574
+    second: LPC_Ancient_Rome_Architecture_aquaduct_203
+  - first:
+      213: 4700968635549426835
+    second: LPC_Ancient_Rome_Architecture_aquaduct_204
+  - first:
+      213: 6510341652812063867
+    second: LPC_Ancient_Rome_Architecture_aquaduct_205
+  - first:
+      213: -8558164987012900397
+    second: LPC_Ancient_Rome_Architecture_aquaduct_206
+  - first:
+      213: 5462860308148309193
+    second: LPC_Ancient_Rome_Architecture_aquaduct_207
+  - first:
+      213: 7287343198739580645
+    second: LPC_Ancient_Rome_Architecture_aquaduct_208
+  - first:
+      213: 7806330868587010086
+    second: LPC_Ancient_Rome_Architecture_aquaduct_209
+  - first:
+      213: -7337967283596353292
+    second: LPC_Ancient_Rome_Architecture_aquaduct_210
+  - first:
+      213: 3083263148057352349
+    second: LPC_Ancient_Rome_Architecture_aquaduct_211
+  - first:
+      213: 6218601952909348228
+    second: LPC_Ancient_Rome_Architecture_aquaduct_212
+  - first:
+      213: 853080930580529578
+    second: LPC_Ancient_Rome_Architecture_aquaduct_213
+  - first:
+      213: 753557740474399746
+    second: LPC_Ancient_Rome_Architecture_aquaduct_214
+  - first:
+      213: -4970940759915068619
+    second: LPC_Ancient_Rome_Architecture_aquaduct_215
+  - first:
+      213: 7595314592866197825
+    second: LPC_Ancient_Rome_Architecture_aquaduct_216
+  - first:
+      213: 1070798625602359342
+    second: LPC_Ancient_Rome_Architecture_aquaduct_217
+  - first:
+      213: 5569199697630499595
+    second: LPC_Ancient_Rome_Architecture_aquaduct_218
+  - first:
+      213: -2822183222868089453
+    second: LPC_Ancient_Rome_Architecture_aquaduct_219
+  - first:
+      213: 6975695841186708314
+    second: LPC_Ancient_Rome_Architecture_aquaduct_220
+  - first:
+      213: 9154750399780341357
+    second: LPC_Ancient_Rome_Architecture_aquaduct_221
+  - first:
+      213: -3921459413187917491
+    second: LPC_Ancient_Rome_Architecture_aquaduct_222
+  - first:
+      213: 6492314208385152453
+    second: LPC_Ancient_Rome_Architecture_aquaduct_223
+  - first:
+      213: 1997077243447329212
+    second: LPC_Ancient_Rome_Architecture_aquaduct_224
+  - first:
+      213: -2409372520111434498
+    second: LPC_Ancient_Rome_Architecture_aquaduct_225
+  - first:
+      213: -697518040969470984
+    second: LPC_Ancient_Rome_Architecture_aquaduct_226
+  - first:
+      213: -5575491734105645061
+    second: LPC_Ancient_Rome_Architecture_aquaduct_227
+  - first:
+      213: -240542586064988279
+    second: LPC_Ancient_Rome_Architecture_aquaduct_228
+  - first:
+      213: -2140871056726284095
+    second: LPC_Ancient_Rome_Architecture_aquaduct_229
+  - first:
+      213: 6906342112107326365
+    second: LPC_Ancient_Rome_Architecture_aquaduct_230
+  - first:
+      213: -5423721631933250999
+    second: LPC_Ancient_Rome_Architecture_aquaduct_231
+  - first:
+      213: 4920250886933452924
+    second: LPC_Ancient_Rome_Architecture_aquaduct_232
+  - first:
+      213: -1216294123757977532
+    second: LPC_Ancient_Rome_Architecture_aquaduct_233
+  - first:
+      213: -701480560062281054
+    second: LPC_Ancient_Rome_Architecture_aquaduct_234
+  - first:
+      213: -2230885556528183495
+    second: LPC_Ancient_Rome_Architecture_aquaduct_235
+  - first:
+      213: -6063566499603912501
+    second: LPC_Ancient_Rome_Architecture_aquaduct_236
+  - first:
+      213: -3454567770454943425
+    second: LPC_Ancient_Rome_Architecture_aquaduct_237
+  - first:
+      213: -2696385364516267112
+    second: LPC_Ancient_Rome_Architecture_aquaduct_238
+  - first:
+      213: 4830600819457246035
+    second: LPC_Ancient_Rome_Architecture_aquaduct_239
+  - first:
+      213: -4228778668056814699
+    second: LPC_Ancient_Rome_Architecture_aquaduct_240
+  - first:
+      213: 6019132080584072567
+    second: LPC_Ancient_Rome_Architecture_aquaduct_241
+  - first:
+      213: -207384049935182441
+    second: LPC_Ancient_Rome_Architecture_aquaduct_242
+  - first:
+      213: 1387232768897921008
+    second: LPC_Ancient_Rome_Architecture_aquaduct_243
+  - first:
+      213: 8454673133844072754
+    second: LPC_Ancient_Rome_Architecture_aquaduct_244
+  - first:
+      213: 3305173588038643853
+    second: LPC_Ancient_Rome_Architecture_aquaduct_245
+  - first:
+      213: -6952109690977325708
+    second: LPC_Ancient_Rome_Architecture_aquaduct_246
+  - first:
+      213: 9055594213912549829
+    second: LPC_Ancient_Rome_Architecture_aquaduct_247
+  - first:
+      213: 6414748576353833865
+    second: LPC_Ancient_Rome_Architecture_aquaduct_248
+  - first:
+      213: -4907486969125206966
+    second: LPC_Ancient_Rome_Architecture_aquaduct_249
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a68f2b1a681bce8e0800000000000000
+      internalID: -1662758970609960854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1125015369c66f50800000000000000
+      internalID: 6874403309625876767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb84f1cda883459c0800000000000000
+      internalID: -3939461604992661313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdddfb47fbaa72cb0800000000000000
+      internalID: -4888751131213177377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4fae68d4c4304f40800000000000000
+      internalID: 5710622347555155786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 100d1ac57162c4a50800000000000000
+      internalID: 6506617443423735809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 662c75e32cebbac30800000000000000
+      internalID: 4371797604772069990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe10bc8726cf87960800000000000000
+      internalID: 7600101871051276783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 048977e9109151230800000000000000
+      internalID: 3608818171151620160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a02aa9d8f9b817610800000000000000
+      internalID: 1617227258594501130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe69cff8b00f18b90800000000000000
+      internalID: -7241242793384044817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_11
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a1861144a8307890800000000000000
+      internalID: -7462402304435125847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65370b15d9ce61e60800000000000000
+      internalID: 7932787954084246358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_13
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e1e6c10be3bf300800000000000000
+      internalID: 286891927380303469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 669c91f9af552d670800000000000000
+      internalID: 8562000376484186470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_15
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 654e11088127e4be0800000000000000
+      internalID: -1491128977059617706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_16
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eaefb01804287e00800000000000000
+      internalID: 1042622930795621091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_17
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a53adc83371a640800000000000000
+      internalID: 5089475741710768647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d1012ba912b433f0800000000000000
+      internalID: -921916200389115438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_19
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c57d0a9651afa980800000000000000
+      internalID: -8525418176265226807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4410edf94c7a833f0800000000000000
+      internalID: -920801660859711164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_21
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48fd939c6da737870800000000000000
+      internalID: 8679415969790680964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_22
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e1127aa304433c0800000000000000
+      internalID: -4380805916868403624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_23
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2066e316a9d249060800000000000000
+      internalID: 6959237465273951746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_24
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07fd4bff399b93da0800000000000000
+      internalID: -5964532186174136464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_25
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59f9342464104e40800000000000000
+      internalID: 5638529153804925274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_26
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0657dad59a474ead0800000000000000
+      internalID: -2673884007981288096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 093a63534c9952bc0800000000000000
+      internalID: -3808468841886473328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_28
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 135e94e0f96cfdfa0800000000000000
+      internalID: -5773677810823862991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_29
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 304783ea7a93413e0800000000000000
+      internalID: -2083977335220440061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_30
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7bc329292b6d15e0800000000000000
+      internalID: -1937274440171402371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_31
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe8135da3ffe2aa00800000000000000
+      internalID: 766438716470401263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_32
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d443d19b30d2c47e0800000000000000
+      internalID: -1779998258704337843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_33
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd4756d6185999d50800000000000000
+      internalID: 6744586300082713819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_34
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d31bd78c528d5600800000000000000
+      internalID: 458666070989542360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_35
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d90a3fc8bd8eaa0800000000000000
+      internalID: -6131409494235636359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_36
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a037e76b3ac7eaf40800000000000000
+      internalID: 5741663617527214858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_37
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5bd4014aa8d8a230800000000000000
+      internalID: 3650405723730664283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_38
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7cca06b6085d66f0800000000000000
+      internalID: -689798382070608769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e826b078016512710800000000000000
+      internalID: 1666707966088929934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_40
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e931b02dc3f1cb190800000000000000
+      internalID: -7945441296505957474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_41
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea4a212bb4704d50800000000000000
+      internalID: 6719498991100906222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_42
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24bd87a25a90ef40800000000000000
+      internalID: 5755770003568571437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_43
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538b77154a499dfb0800000000000000
+      internalID: -4622500109056755659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_44
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c04cb0b765c6140800000000000000
+      internalID: 4714237996428430468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_45
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f10a2c5e593eae00800000000000000
+      internalID: 1057846039914611192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_46
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50371bc24ac9fa10800000000000000
+      internalID: 1943807102411026525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_47
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a341ca35a7f2ad0800000000000000
+      internalID: -2724824749747979742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_48
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffae5bae2763fd750800000000000000
+      internalID: 6331839468298169087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_49
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6eca3739abb07590800000000000000
+      internalID: -7678431029216227729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_50
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d4049ac484f9470800000000000000
+      internalID: 8403514923790912823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_51
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edbaa48127a0c0220800000000000000
+      internalID: 2453347382160174046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_52
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f76e2d0738bfdeeb0800000000000000
+      internalID: -4688815095070660993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468284b4d4fd29610800000000000000
+      internalID: 1626607938502666340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_54
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e67995b444d1104c0800000000000000
+      internalID: -4323141988139821202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_55
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1219afbe8e9121c0800000000000000
+      internalID: -4530165414219935202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_56
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342353cbd1847ec90800000000000000
+      internalID: -7140659391623777725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_57
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a682ca16c494390800000000000000
+      internalID: -7833646094450398593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_58
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db856847cf11794f0800000000000000
+      internalID: -822168630987433795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_59
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f167564c0f5ed1230800000000000000
+      internalID: 3611295298470901279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_60
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f0051f856b19660800000000000000
+      internalID: 7390888956613627752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_61
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 228d825d4630cfba0800000000000000
+      internalID: -6053960067484952542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_62
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7633e7b81905d1810800000000000000
+      internalID: 1737633617275663207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_63
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b683c24b83624a0800000000000000
+      internalID: -6618540255887201433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c4824c39b8683a20800000000000000
+      internalID: 3042296693078000841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_65
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68df7a79ea621db0800000000000000
+      internalID: -4822674699945256851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_66
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d544fea72980a250800000000000000
+      internalID: 5953909510915769811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_67
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b87b04101b26cfd80800000000000000
+      internalID: -8215583107860875381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_68
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9576d7d6ef2a39170800000000000000
+      internalID: 8184064161504651097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_69
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f31a19905ba9891c0800000000000000
+      internalID: -4496674125589143233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_70
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d687ab98e31d34030800000000000000
+      internalID: 3477853403789031533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_71
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ac23ed15cd030c0800000000000000
+      internalID: -4597932975366944179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_72
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b53d829a7d7a6e0800000000000000
+      internalID: -1826254002341061786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_73
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e49a6bfdb8c0bf830800000000000000
+      internalID: 4105889280171616590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4212f207c5da41d90800000000000000
+      internalID: -7127881697689919196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_75
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff9da172fb0b3ae0800000000000000
+      internalID: -1568646909291290626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_76
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 034134ce41514fec0800000000000000
+      internalID: -3534176627971648464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_77
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd22ac348d7b3e30800000000000000
+      internalID: 4484315860883877304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_78
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ddd47a3c19996ce0800000000000000
+      internalID: -1411428661685068330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_79
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5137055bbe7166920800000000000000
+      internalID: 2983098104306234133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_80
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9219022ced87a0f00800000000000000
+      internalID: 1083811558471012649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_81
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52498f9c3da4b7e20800000000000000
+      internalID: 3349353021367161893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_82
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b673a33cc6d6561e0800000000000000
+      internalID: -2205236128628721813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_83
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6daf85806a8b1e420800000000000000
+      internalID: 2657608278369434326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713da5a95fe6d5b40800000000000000
+      internalID: 5430618726814372631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_85
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2837a2c7dd3a7e640800000000000000
+      internalID: 5109232473941373826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_86
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba4eb164af1c55de0800000000000000
+      internalID: -1344955633038007125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_87
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007367328d771d8c0800000000000000
+      internalID: -3976265225799846144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_88
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b80aad46c273fb7c0800000000000000
+      internalID: -4053460475800018805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_89
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8bc70044ca24050800000000000000
+      internalID: 5783374279563065562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_90
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8356cfbc6554570800000000000000
+      internalID: 8450255709943445665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_91
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e810d49e81ec52970800000000000000
+      internalID: 8729610059116249486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_92
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 414f039a0986654d0800000000000000
+      internalID: -3146212319148575724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_93
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 215fa981fb4b48550800000000000000
+      internalID: 6162248922994242834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_94
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7acde4b1b26292240800000000000000
+      internalID: 4767383647131983015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_95
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c34ccf4b303f0c750800000000000000
+      internalID: 6323321074075092028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_96
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ce1eda36dc6eba0800000000000000
+      internalID: -6059930420577702793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_97
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4107750b1a102bf0800000000000000
+      internalID: -351252067576774326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_98
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3fb119d6df24420800000000000000
+      internalID: 2612929380856099790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_99
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac65bb5cefa1e3d0800000000000000
+      internalID: -3179066432261100379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_100
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b29ee83dd497f5ca0800000000000000
+      internalID: -6025964401229633237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_101
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc8c0fda159fd930800000000000000
+      internalID: 4170215722612198640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8438bb437780fd10800000000000000
+      internalID: 2157373150771819659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_103
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d737e2a16b0e3bb0800000000000000
+      internalID: -4954510026088171566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_104
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba90f56d879b30490800000000000000
+      internalID: -7781171802522318421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_105
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 217d9f3250f91c610800000000000000
+      internalID: 1639766583766800146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_106
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 735f51124297856d0800000000000000
+      internalID: -3001515955561564873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_107
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 449cd62b0712d4c90800000000000000
+      internalID: -7184049062672479932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_108
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fbe26f070a94ea80800000000000000
+      internalID: -8438450446671877132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_109
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c8bddd4f1e1ebf0800000000000000
+      internalID: -296707658619319220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_110
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e387ede7d995af50800000000000000
+      internalID: 6892083957448803303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_111
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d528921fbae5df10800000000000000
+      internalID: 2293997691586749911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_112
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7282f59b52d535c0800000000000000
+      internalID: -4236248583672528257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_113
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d90f6f7834dd5cb0800000000000000
+      internalID: -4873505882623768109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_114
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa57611596564620800000000000000
+      internalID: 2757987020053109417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_115
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 122a9021cc8812da0800000000000000
+      internalID: -5971341220859239903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_116
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ec9f2572949ac30800000000000000
+      internalID: 4371105346584432258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_117
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28c9774c017e4750800000000000000
+      internalID: 6291090027035871277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_118
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa9637d8cde925a0800000000000000
+      internalID: -6545439136546383109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_119
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb4b0a829f314c90800000000000000
+      internalID: -7187393631692829713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_120
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccfc0030e0904ae90800000000000000
+      internalID: -7015472363751813172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_121
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0630c24d83584c360800000000000000
+      internalID: 7189017384314471264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_122
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c9caeb81bc5c5a0800000000000000
+      internalID: -6501567179900806053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_123
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca144b04638e0e70800000000000000
+      internalID: 9083341964161850049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_124
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ed99aa512cd48c0800000000000000
+      internalID: -4013338294604931539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_125
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70362915340371ce0800000000000000
+      internalID: -1434624890604723449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_126
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c3b4bcc31413e340800000000000000
+      internalID: 4891775695525819332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_127
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ef1ea2738895400800000000000000
+      internalID: 313431419602992698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_128
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 060b8fd5de5dd2d70800000000000000
+      internalID: 9020100844153516128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_129
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc7eb45045b75d2d0800000000000000
+      internalID: -3254559554908985395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_130
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb0b82d298ae8c60800000000000000
+      internalID: 7822374951340149711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_131
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d0e69a550457e4b0800000000000000
+      internalID: -5411264045290954536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_132
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c5c8f8eea005f0a0800000000000000
+      internalID: -6848566907114043960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_133
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe5694137d9339d90800000000000000
+      internalID: -7092261391770753553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_134
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f58dc899132970130800000000000000
+      internalID: 3532953174422640735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_135
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5157971eb047308f0800000000000000
+      internalID: -575488732996995819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_136
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a454afbab61a250800000000000000
+      internalID: 5954158568742931098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_137
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf5a534db5275320800000000000000
+      internalID: 2546545609110347743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_138
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 030868d04634341c0800000000000000
+      internalID: -4520695503947136976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_139
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a181bdb7c43cdeb00800000000000000
+      internalID: 859557837160519706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_140
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef33e03feef693d0800000000000000
+      internalID: -3200090181929320473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_141
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ec4a6dfd82ea120800000000000000
+      internalID: 2426922191043219069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_142
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f3f739a2eddbb80800000000000000
+      internalID: -8377295457394671790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_143
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c9bc44825ab3aa0800000000000000
+      internalID: -6180164471264404461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_144
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ecf85d8a86b68ca0800000000000000
+      internalID: -6014919546113557275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_145
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d51ee9d9db700f5e0800000000000000
+      internalID: -1877992533638848163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_146
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa5288312e656860800000000000000
+      internalID: 7522539841553324794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_147
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d49535f2f295fc90800000000000000
+      internalID: -7136636462305012523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_148
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f52312885cda850800000000000000
+      internalID: 6389980634771775346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_149
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 122da4a8517b3e610800000000000000
+      internalID: 1649363191690088993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_150
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c3becd31673a1a0800000000000000
+      internalID: -6799461184716456886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_151
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e31d36a2a3990890800000000000000
+      internalID: -7491294178371103767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_152
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e79e380d43d9e680800000000000000
+      internalID: -8725210475249362971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_153
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d0258a8c1db2210800000000000000
+      internalID: 1309370776428875159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_154
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a00c729f8eff2e0c0800000000000000
+      internalID: -4547791297613152246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_155
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 451d913f93f673990800000000000000
+      internalID: -7406328767505116844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_156
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4cf24825a8537c10800000000000000
+      internalID: 2050079721752034381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_157
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e21e738c9542c5810800000000000000
+      internalID: 1755317922797445422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_158
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf15f9205a1046200800000000000000
+      internalID: 172264493972148732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_159
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b2046a4a97fac90800000000000000
+      internalID: -7156367534797608049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_160
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 490e9c04f6b9ee6c0800000000000000
+      internalID: -4112178507612036972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_161
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6ab34b2ddbecf00800000000000000
+      internalID: 1139056468435904251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_162
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c623521c196c7d0800000000000000
+      internalID: -2898469051427558385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_163
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f48508839961c98b0800000000000000
+      internalID: -5144211827030206385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_164
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d598f83e00a32640800000000000000
+      internalID: 5054059189785630164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_165
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87be6e12ddb934b50800000000000000
+      internalID: 6576271254949915512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_166
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b65a52b58c2d940800000000000000
+      internalID: 5319534403677154176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_167
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a72a55a3da30920800000000000000
+      internalID: 2955396246541597261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_168
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d0780da7cd2fd800800000000000000
+      internalID: 639280007734653136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_169
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed9cf0082b451770800000000000000
+      internalID: 8580847300211678690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_170
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ccc03984d9fa390800000000000000
+      internalID: -7804846694179484575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_171
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe6d1e703e759e970800000000000000
+      internalID: 8784649180764296943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_172
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e723e2275d47790800000000000000
+      internalID: -7533161590305948144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_173
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8708de54f104d8c0800000000000000
+      internalID: -3975550421986441331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_174
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc297fb3f3e142b20800000000000000
+      internalID: 3108642899730338511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_175
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4468eb26cc88fdaa0800000000000000
+      internalID: -6134033756043966908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_176
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78aa413fbe2ee81e0800000000000000
+      internalID: -2193566465459443065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_177
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 414cdceab90a02890800000000000000
+      internalID: -7484805990176668652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_178
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 672b88173ac9d0910800000000000000
+      internalID: 1805271251443823222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_179
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8283d7fab34667a00800000000000000
+      internalID: 753900195141204008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_180
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ff3e9d4b9be9040800000000000000
+      internalID: 4656363251148521255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_181
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13487de90b6609080800000000000000
+      internalID: -9182726731443239887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_182
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f93c96e2f705980800000000000000
+      internalID: -8552195855056920820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_183
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 680eea85fbe954480800000000000000
+      internalID: -8915545342646230906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_184
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd61346a5e95f6f0800000000000000
+      internalID: -651440460019962420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_185
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e53e35eaf4403a0800000000000000
+      internalID: -6700142735470141853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_186
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a35a49a75a2fb4590800000000000000
+      internalID: -7688785146264902342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_187
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c57be5c1b7153c7a0800000000000000
+      internalID: -6358148659718211748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_188
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9240e667e94dab960800000000000000
+      internalID: 7618635496707458089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_189
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10221b17c66556690800000000000000
+      internalID: -7609580971608694271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_190
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 806c765d8f35884b0800000000000000
+      internalID: -5438004221852531192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_191
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf5a4b3ff86d00c0800000000000000
+      internalID: -4607911398309470246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_192
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa85b1463b6162db0800000000000000
+      internalID: -4817137791691695953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_193
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3696745591fddc650800000000000000
+      internalID: 6254900757385406819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_194
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559baa65f29477a30800000000000000
+      internalID: 4212916444094708053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_195
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536577771bac63ef0800000000000000
+      internalID: -128692675771148747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_196
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531557346185bd510800000000000000
+      internalID: 1574949347340407093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_197
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 364b7800b70d332f0800000000000000
+      internalID: -994221866010299293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_198
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e79b5af3a8eaa7000800000000000000
+      internalID: 34531855955245438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_199
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa06234f69c25340800000000000000
+      internalID: 4851161228336564991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_200
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5eb19b5bb8469fc0800000000000000
+      internalID: -3488520891819508132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_201
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff545f8ceddb6b010800000000000000
+      internalID: 1204358714920093183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_202
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b134296d4004250f0800000000000000
+      internalID: -1129770166992616677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_203
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b6afff7b3c20c10800000000000000
+      internalID: 2018390778056436574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_204
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3942d2631123d3140800000000000000
+      internalID: 4700968635549426835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_205
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74ea4e6d31695a50800000000000000
+      internalID: 6510341652812063867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_206
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d919e3994a4b3980800000000000000
+      internalID: -8558164987012900397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_207
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ccc2ccb18affcb40800000000000000
+      internalID: 5462860308148309193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_208
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e64b3d7708d12560800000000000000
+      internalID: 7287343198739580645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_209
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6289b45b098a55c60800000000000000
+      internalID: 7806330868587010086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_210
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f02dcf32ad4a2a90800000000000000
+      internalID: -7337967283596353292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_211
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d98d2015f73f9ca20800000000000000
+      internalID: 3083263148057352349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_212
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d46b25789ec4650800000000000000
+      internalID: 6218601952909348228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_213
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa189e72690c6db00800000000000000
+      internalID: 853080930580529578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_214
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20cf8beb5cc257a00800000000000000
+      internalID: 753557740474399746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_215
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53380cd47bba30bb0800000000000000
+      internalID: -4970940759915068619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_216
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1416129616af76960800000000000000
+      internalID: 7595314592866197825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_217
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2051093dad3cde00800000000000000
+      internalID: 1070798625602359342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_218
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b039a7c3e95c94d40800000000000000
+      internalID: 5569199697630499595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_219
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39561e5bf4795d8d0800000000000000
+      internalID: -2822183222868089453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_220
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b7a13a866aec060800000000000000
+      internalID: 6975695841186708314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_221
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66c5421cf43c0f70800000000000000
+      internalID: 9154750399780341357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_222
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4982d3c07d2499c0800000000000000
+      internalID: -3921459413187917491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_223
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c5b401ff55591a50800000000000000
+      internalID: 6492314208385152453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_224
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb1c1b40c2b07bb10800000000000000
+      internalID: 1997077243447329212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_225
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef49b275570309ed0800000000000000
+      internalID: -2409372520111434498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_226
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb969f890be156f0800000000000000
+      internalID: -697518040969470984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_227
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff918cdecfdf92b0800000000000000
+      internalID: -5575491734105645061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_228
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9871e3cdacb69acf0800000000000000
+      internalID: -240542586064988279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_229
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c82ae1ed191a42e0800000000000000
+      internalID: -2140871056726284095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_230
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b6a714f8148df50800000000000000
+      internalID: 6906342112107326365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_231
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 942440079e11bb4b0800000000000000
+      internalID: -5423721631933250999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_232
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c781871fc1e384440800000000000000
+      internalID: 4920250886933452924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_233
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 440c20b40fade1fe0800000000000000
+      internalID: -1216294123757977532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_234
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa45a0b527d346f0800000000000000
+      internalID: -701480560062281054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_235
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9378694f76d4a01e0800000000000000
+      internalID: -2230885556528183495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_236
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc8662f0562e9dba0800000000000000
+      internalID: -6063566499603912501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_237
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3915857ae8ee00d0800000000000000
+      internalID: -3454567770454943425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_238
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b127a0cc3849ad0800000000000000
+      internalID: -2696385364516267112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_239
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353c5770addb90340800000000000000
+      internalID: 4830600819457246035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_240
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b59b8d43c5055c0800000000000000
+      internalID: -4228778668056814699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_241
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d1f5f8cb0488350800000000000000
+      internalID: 6019132080584072567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_242
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795188b2e493f1df0800000000000000
+      internalID: -207384049935182441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_243
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff21fa7ad0704310800000000000000
+      internalID: 1387232768897921008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_244
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23980d2ab68055570800000000000000
+      internalID: 8454673133844072754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_245
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d80fb04edd55edd20800000000000000
+      internalID: 3305173588038643853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_246
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47deeb5e115258f90800000000000000
+      internalID: -6952109690977325708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_247
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c9175e75feebad70800000000000000
+      internalID: 9055594213912549829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_248
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9835309e7d3c50950800000000000000
+      internalID: 6414748576353833865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_aquaduct_249
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a440f614a9a15ebb0800000000000000
+      internalID: -4907486969125206966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
