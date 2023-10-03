@@ -278,7 +278,7 @@ MonoBehaviour:
   colliding: 0
   isCollisionDetectedRight: 0
   Scenes:
-  - ChangerPlaceholder
+  - Puzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number3
@@ -729,7 +729,7 @@ MonoBehaviour:
   colliding: 0
   isCollisionDetectedRight: 0
   Scenes:
-  - ChangerPlaceholder
+  - Puzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number2
@@ -1032,7 +1032,7 @@ MonoBehaviour:
   colliding: 0
   isCollisionDetectedRight: 0
   Scenes:
-  - ChangerPlaceholder
+  - Puzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number4
@@ -1234,7 +1234,7 @@ MonoBehaviour:
   colliding: 0
   isCollisionDetectedRight: 0
   Scenes:
-  - ChangerPlaceholder
+  - Puzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number1
@@ -1380,7 +1380,7 @@ MonoBehaviour:
   colliding: 0
   isCollisionDetectedRight: 0
   Scenes:
-  - ChangerPlaceholder
+  - Puzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number6
@@ -1445,7 +1445,7 @@ MonoBehaviour:
   colliding: 0
   isCollisionDetectedRight: 0
   Scenes:
-  - ChangerPlaceholder
+  - Puzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number1
@@ -1571,7 +1571,7 @@ MonoBehaviour:
   colliding: 0
   isCollisionDetectedRight: 0
   Scenes:
-  - ChangerPlaceholder
+  - Puzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
 --- !u!1001 &257699324
@@ -1784,7 +1784,7 @@ MonoBehaviour:
   colliding: 0
   isCollisionDetectedRight: 0
   Scenes:
-  - ChangerPlaceholder
+  - Puzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
 --- !u!1 &278418708 stripped
@@ -2124,7 +2124,7 @@ MonoBehaviour:
   colliding: 0
   isCollisionDetectedRight: 0
   Scenes:
-  - ChangerPlaceholder
+  - Puzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number3
@@ -2581,7 +2581,7 @@ MonoBehaviour:
   colliding: 0
   isCollisionDetectedRight: 0
   Scenes:
-  - ChangerPlaceholder
+  - Puzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number1
@@ -2733,7 +2733,7 @@ MonoBehaviour:
   colliding: 0
   isCollisionDetectedRight: 0
   Scenes:
-  - ChangerPlaceholder
+  - Puzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number2
@@ -3074,7 +3074,7 @@ MonoBehaviour:
   colliding: 0
   isCollisionDetectedRight: 0
   Scenes:
-  - ChangerPlaceholder
+  - Puzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number1
@@ -3272,7 +3272,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &624389704
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3478,7 +3478,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2299534418358534613, guid: b9809075b7d626a48bbaa139708cdcc0, type: 3}
       propertyPath: Scenes.Array.data[0]
-      value: ChangerPlaceholder
+      value: Puzzle_1_A
       objectReference: {fileID: 0}
     - target: {fileID: 4471397065075761256, guid: b9809075b7d626a48bbaa139708cdcc0, type: 3}
       propertyPath: Scenes.Array.size
@@ -4389,7 +4389,7 @@ MonoBehaviour:
   colliding: 0
   isCollisionDetectedRight: 0
   Scenes:
-  - ChangerPlaceholder
+  - Puzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number3
@@ -4515,7 +4515,7 @@ MonoBehaviour:
   colliding: 0
   isCollisionDetectedRight: 0
   Scenes:
-  - ChangerPlaceholder
+  - Puzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
 --- !u!1 &717614251 stripped
@@ -4813,7 +4813,7 @@ MonoBehaviour:
   colliding: 0
   isCollisionDetectedRight: 0
   Scenes:
-  - ChangerPlaceholder
+  - Puzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number6
@@ -4898,7 +4898,7 @@ MonoBehaviour:
   colliding: 0
   isCollisionDetectedRight: 0
   Scenes:
-  - ChangerPlaceholder
+  - Puzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number4
@@ -5139,7 +5139,7 @@ MonoBehaviour:
   colliding: 0
   isCollisionDetectedRight: 0
   Scenes:
-  - ChangerPlaceholder
+  - Puzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
 --- !u!1 &881073904
@@ -5492,7 +5492,7 @@ MonoBehaviour:
   colliding: 0
   isCollisionDetectedRight: 0
   Scenes:
-  - ChangerPlaceholder
+  - Puzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number6
@@ -5693,7 +5693,7 @@ MonoBehaviour:
   colliding: 0
   isCollisionDetectedRight: 0
   Scenes:
-  - ChangerPlaceholder
+  - Puzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number5
@@ -5768,7 +5768,7 @@ MonoBehaviour:
   colliding: 0
   isCollisionDetectedRight: 0
   Scenes:
-  - ChangerPlaceholder
+  - Puzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number2
@@ -5783,6 +5783,103 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4543085582950368696, guid: 27c2c32850c2c1641ba57f8e5e822839, type: 3}
   m_PrefabInstance: {fileID: 1666791362}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &945165164
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 945165165}
+  - component: {fileID: 945165166}
+  m_Layer: 0
+  m_Name: ObjectContainer
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &945165165
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 945165164}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 806.85284, y: 507.36426, z: -319.53467}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 15
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &945165166
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 945165164}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef0ebcce6d1d9e6458da638f8acc72bf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  objectsToCopy:
+  - {fileID: 827275297}
+  - {fileID: 1334057826}
+  - {fileID: 49717766}
+  - {fileID: 1835442441}
+  - {fileID: 1649016261}
+  - {fileID: 8414020}
+  - {fileID: 1694188529}
+  - {fileID: 1227200935}
+  - {fileID: 1937304259}
+  - {fileID: 1640118806}
+  - {fileID: 717614251}
+  - {fileID: 448719676}
+  - {fileID: 1589878644}
+  - {fileID: 653438917}
+  - {fileID: 1177892902}
+  - {fileID: 278418708}
+  - {fileID: 187625563}
+  - {fileID: 1168609713}
+  - {fileID: 16394606}
+  - {fileID: 2044066123}
+  - {fileID: 1955458967}
+  - {fileID: 1195121398}
+  - {fileID: 65956861}
+  - {fileID: 1021649529}
+  - {fileID: 778722791}
+  - {fileID: 938906018}
+  - {fileID: 1692629129}
+  - {fileID: 899619124}
+  - {fileID: 2016657214}
+  - {fileID: 827115366}
+  - {fileID: 56913739}
+  - {fileID: 398392165}
+  - {fileID: 924065031}
+  - {fileID: 1387276275}
+  - {fileID: 696083647}
+  - {fileID: 1888689231}
+  - {fileID: 972393415}
+  - {fileID: 63173224}
+  - {fileID: 779670208}
+  - {fileID: 2028826792}
+  - {fileID: 625456482}
+  - {fileID: 844061548}
+  - {fileID: 1000126588}
+  - {fileID: 1468060687}
+  - {fileID: 2059726879}
+  - {fileID: 1035797603}
+  - {fileID: 950589075}
+  - {fileID: 1494343468}
+  - {fileID: 48454106}
+  minX: -13
+  maxX: -17
+  minY: -2
+  maxY: -2
 --- !u!1 &950589075 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1941086539432182856, guid: b5c20e465c325134892290142605f416, type: 3}
@@ -5863,7 +5960,7 @@ MonoBehaviour:
   colliding: 0
   isCollisionDetectedRight: 0
   Scenes:
-  - ChangerPlaceholder
+  - Puzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number4
@@ -6791,7 +6888,7 @@ MonoBehaviour:
   colliding: 0
   isCollisionDetectedRight: 0
   Scenes:
-  - ChangerPlaceholder
+  - Puzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number1
@@ -7116,6 +7213,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1564312555}
     m_Modifications:
+    - target: {fileID: 472756837, guid: 09d035287b2bbd946bc5f2f37a58f092, type: 3}
+      propertyPath: Scenes.Array.data[0]
+      value: Puzzle_1_A
+      objectReference: {fileID: 0}
     - target: {fileID: 1133041047, guid: 09d035287b2bbd946bc5f2f37a58f092, type: 3}
       propertyPath: Scenes.Array.data[0]
       value: Puzzle_1_A
@@ -7544,7 +7645,7 @@ MonoBehaviour:
   colliding: 0
   isCollisionDetectedRight: 0
   Scenes:
-  - ChangerPlaceholder
+  - Puzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number6
@@ -7609,7 +7710,7 @@ MonoBehaviour:
   colliding: 0
   isCollisionDetectedRight: 0
   Scenes:
-  - ChangerPlaceholder
+  - Puzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number4
@@ -7751,7 +7852,7 @@ MonoBehaviour:
   colliding: 0
   isCollisionDetectedRight: 0
   Scenes:
-  - ChangerPlaceholder
+  - Puzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number5
@@ -7763,6 +7864,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1564312555}
     m_Modifications:
+    - target: {fileID: 396941580, guid: 9417d0b223d1a784db2a8dc6c7683674, type: 3}
+      propertyPath: Scenes.Array.data[0]
+      value: Puzzle_1_A
+      objectReference: {fileID: 0}
     - target: {fileID: 1771143495, guid: 9417d0b223d1a784db2a8dc6c7683674, type: 3}
       propertyPath: Scenes.Array.size
       value: 1
@@ -7905,7 +8010,7 @@ MonoBehaviour:
   colliding: 0
   isCollisionDetectedRight: 0
   Scenes:
-  - ChangerPlaceholder
+  - Puzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
 --- !u!1 &1326536214
@@ -8062,7 +8167,7 @@ MonoBehaviour:
   colliding: 0
   isCollisionDetectedRight: 0
   Scenes:
-  - ChangerPlaceholder
+  - Puzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number5
@@ -8435,7 +8540,7 @@ MonoBehaviour:
   colliding: 0
   isCollisionDetectedRight: 0
   Scenes:
-  - ChangerPlaceholder
+  - Puzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number6
@@ -8723,7 +8828,7 @@ MonoBehaviour:
   colliding: 0
   isCollisionDetectedRight: 0
   Scenes:
-  - ChangerPlaceholder
+  - Puzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number3
@@ -9114,7 +9219,7 @@ MonoBehaviour:
   colliding: 0
   isCollisionDetectedRight: 0
   Scenes:
-  - ChangerPlaceholder
+  - Puzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number4
@@ -9326,7 +9431,7 @@ MonoBehaviour:
   colliding: 0
   isCollisionDetectedRight: 0
   Scenes:
-  - ChangerPlaceholder
+  - Puzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number4
@@ -9456,7 +9561,7 @@ MonoBehaviour:
   colliding: 0
   isCollisionDetectedRight: 0
   Scenes:
-  - ChangerPlaceholder
+  - Puzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number5
@@ -9755,7 +9860,7 @@ MonoBehaviour:
   colliding: 0
   isCollisionDetectedRight: 0
   Scenes:
-  - ChangerPlaceholder
+  - Puzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number5
@@ -9885,7 +9990,7 @@ MonoBehaviour:
   colliding: 0
   isCollisionDetectedRight: 0
   Scenes:
-  - ChangerPlaceholder
+  - Puzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number3
@@ -10218,7 +10323,7 @@ MonoBehaviour:
   colliding: 0
   isCollisionDetectedRight: 0
   Scenes:
-  - ChangerPlaceholder
+  - Puzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number4
@@ -10422,7 +10527,7 @@ MonoBehaviour:
   colliding: 0
   isCollisionDetectedRight: 0
   Scenes:
-  - ChangerPlaceholder
+  - Puzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number3
@@ -10700,7 +10805,7 @@ MonoBehaviour:
   colliding: 0
   isCollisionDetectedRight: 0
   Scenes:
-  - ChangerPlaceholder
+  - Puzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number1
@@ -11422,7 +11527,7 @@ MonoBehaviour:
   colliding: 0
   isCollisionDetectedRight: 0
   Scenes:
-  - ChangerPlaceholder
+  - Puzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number2
@@ -11497,7 +11602,7 @@ MonoBehaviour:
   colliding: 0
   isCollisionDetectedRight: 0
   Scenes:
-  - ChangerPlaceholder
+  - Puzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number2
@@ -11562,7 +11667,7 @@ MonoBehaviour:
   colliding: 0
   isCollisionDetectedRight: 0
   Scenes:
-  - ChangerPlaceholder
+  - Puzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number1
@@ -11627,7 +11732,7 @@ MonoBehaviour:
   colliding: 0
   isCollisionDetectedRight: 0
   Scenes:
-  - ChangerPlaceholder
+  - Puzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number2
@@ -11692,7 +11797,7 @@ MonoBehaviour:
   colliding: 0
   isCollisionDetectedRight: 0
   Scenes:
-  - ChangerPlaceholder
+  - Puzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number3
@@ -12420,7 +12525,7 @@ MonoBehaviour:
   colliding: 0
   isCollisionDetectedRight: 0
   Scenes:
-  - ChangerPlaceholder
+  - Puzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number5
@@ -12575,7 +12680,7 @@ MonoBehaviour:
   colliding: 0
   isCollisionDetectedRight: 0
   Scenes:
-  - ChangerPlaceholder
+  - Puzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number6
@@ -12787,7 +12892,7 @@ MonoBehaviour:
   colliding: 0
   isCollisionDetectedRight: 0
   Scenes:
-  - ChangerPlaceholder
+  - Puzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number2
@@ -12852,7 +12957,7 @@ MonoBehaviour:
   colliding: 0
   isCollisionDetectedRight: 0
   Scenes:
-  - ChangerPlaceholder
+  - Puzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
   _dominoTagTRUE: Number5
@@ -12978,6 +13083,6 @@ MonoBehaviour:
   colliding: 0
   isCollisionDetectedRight: 0
   Scenes:
-  - ChangerPlaceholder
+  - Puzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
