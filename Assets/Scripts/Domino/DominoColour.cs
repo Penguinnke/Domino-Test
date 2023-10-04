@@ -7,43 +7,32 @@ public class DominoColour : MonoBehaviour
     public bool colliding;
     public bool isCollisionDetectedRight;
 
-    //Audio
-    public AudioSource audiosourcecolliding;
-    public AudioSource audiosourcenotcolliding;
-
+    // Audio source names
+    public string collidingSoundName = "CollidingSound";
+    public string notCollidingSoundName = "NotCollidingSound";
 
     private Vector2 _offset, _orginalPosition;
 
     public string _dominoTagTRUE = "Domino1"; //the domino tag it needs to collide with
     public string _dominoTagTrueZero = "Domino0"; //Number 0 is always good
-    // public string _dominoTagFALSE1 = "Domino1"; 
-    // public string _dominoTagFALSE2 = "Domino2"; //the domino tag it should not collide with
-    // public string _dominoTagFALSE3 = "Domino3"; 
-    // public string _dominoTagFALSE4 = "Domino4";
-    // public string _dominoTagFALSE5 = "Domino5"; 
 
-    public Color collisionColor; // The color to apply upon collision
-    public Color wrongCollisionColor;// The color to apply upon collision with a wrong tag
-    public Color exitColor; // The color to apply when the collision ends
-    public float delay = 2f; // The delay in seconds before changing the color back
+    public Color collisionColor;
+    public Color wrongCollisionColor;
+    public Color exitColor;
+    public float delay = 2f;
     private SpriteRenderer spriteRenderer;
     private Coroutine colorChangeCoroutine;
-    
+
     private void Start()
     {
-        //isCollisionDetectedRight = false;
         colliding = false;
-
         NotCollidingSound();
-
         spriteRenderer = GetComponent<SpriteRenderer>();
-        audiosourcecolliding = GetComponent<AudioSource>();
-        audiosourcenotcolliding = GetComponent<AudioSource>();
     }
-    
+
     private void OnCollisionEnter2D(Collision2D _collision)
     {
-        if(_collision.gameObject.tag == _dominoTagTRUE || _collision.gameObject.tag == _dominoTagTrueZero)
+        if (_collision.gameObject.tag == _dominoTagTRUE || _collision.gameObject.tag == _dominoTagTrueZero)
         {
             Debug.Log("Collision!");
             colliding = true;
@@ -55,8 +44,9 @@ public class DominoColour : MonoBehaviour
                 StopCoroutine(colorChangeCoroutine);
             }
             colorChangeCoroutine = StartCoroutine(ChangeColorWithDelay(exitColor, delay));
-        } else {
-
+        }
+        else
+        {
             Debug.LogError("WRONG COLLISION");
             spriteRenderer.color = wrongCollisionColor;
 
@@ -68,14 +58,13 @@ public class DominoColour : MonoBehaviour
             colorChangeCoroutine = StartCoroutine(ChangeColorWithDelay(exitColor, delay));
         }
 
-        CollidingSound(); //hier moet ik dus hebben wanneer de colliding goed is dat die de position vastzet
-        NotCollidingSound(); //hier meot ik dus ervoor zorgen dat de freezing dan uit is
-        
+        CollidingSound();
+        NotCollidingSound();
     }
 
     private void OnCollisionExit2D(Collision2D _collision)
     {
-        if(_collision.gameObject.tag == _dominoTagTRUE || _collision.gameObject.tag == _dominoTagTrueZero)
+        if (_collision.gameObject.tag == _dominoTagTRUE || _collision.gameObject.tag == _dominoTagTrueZero)
         {
             isCollisionDetectedRight = false;
 
@@ -88,24 +77,24 @@ public class DominoColour : MonoBehaviour
         }
     }
 
-
     private void NotCollidingSound()
-   {
+    {
         if (isCollisionDetectedRight == false)
         {
-            AudioSource audioSource = audiosourcenotcolliding.GetComponent<AudioSource>();
+            AudioSource audioSource = GameObject.Find(notCollidingSoundName).GetComponent<AudioSource>();
             if (audioSource != null)
             {
                 audioSource.Play();
+                Debug.Log("NotCollidingSound");
             }
         }
     }
 
-   private void CollidingSound()
+    private void CollidingSound()
     {
         if (isCollisionDetectedRight == true)
         {
-            AudioSource audioSource = audiosourcecolliding.GetComponent<AudioSource>();
+            AudioSource audioSource = GameObject.Find(collidingSoundName).GetComponent<AudioSource>();
             if (audioSource != null)
             {
                 audioSource.Play();

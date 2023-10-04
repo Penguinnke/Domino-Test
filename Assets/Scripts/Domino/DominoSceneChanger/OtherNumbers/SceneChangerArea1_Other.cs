@@ -16,7 +16,7 @@ public class SceneChangerArea1_Other : MonoBehaviour
     public string _dominoTagTRUE = "Domino1"; //the domino tag it needs to collide with
     public string _dominoTagTrueZero = "Domino0"; //Number 0 is always good
 
-    public float delayInSeconds = 2f; // Public delay time in seconds
+    public float delayInSeconds = 8f; // Public delay time in seconds
 
     private void Start()
     {
@@ -49,26 +49,22 @@ public class SceneChangerArea1_Other : MonoBehaviour
                 objectPosition.y >= areaMinBounds.y &&
                 objectPosition.y <= areaMaxBounds.y;
 
-            if (Random.value <= 0.25f && isInsideArea && isCollisionDetectedRight)
+            if (Random.value <= 0.05f && isInsideArea && isCollisionDetectedRight)
             {
-                Debug.Log("25% chance Area1");
+                Debug.Log("5% chance Area1");
 
                 // Add a delay before changing the scene
                 Invoke("ChangeSceneAfterDelay", delayInSeconds);
             }
             else
             {
-                Debug.Log("Scene not changed Area1");
+                Debug.Log("95% Scene not changed Area1");
             }
 
             if (!isInsideArea)
             {
                 Debug.Log("Outside Area Area1");
             }
-        }
-        else
-        {
-            Debug.LogError("WRONG COLLISION");
         }
     }
 

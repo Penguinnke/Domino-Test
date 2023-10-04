@@ -21,6 +21,9 @@ public class CopyAndEnableObject : MonoBehaviour
 
     private static CopyAndEnableObject instance; // Singleton instance
 
+    private bool disableScriptsFor15Seconds = false;
+    private float disableTime = 0f;
+
     void Awake()
     {
         if (instance == null)
@@ -34,6 +37,8 @@ public class CopyAndEnableObject : MonoBehaviour
             return;
         }
 
+        SceneManager.sceneLoaded += OnSceneLoaded; // Register the scene loaded event
+
         objectContainer = GameObject.Find("ObjectContainer").transform;
         if (objectContainer == null)
         {
@@ -44,26 +49,46 @@ public class CopyAndEnableObject : MonoBehaviour
         LoadSavedPositions();
     }
 
-    void Update()
+    void OnSceneLoaded(Scene scene, LoadSceneMode mode)
+    {
+        if (scene.name == "TEST_f")
+        {
+            DisableScriptsFor15Seconds();
+        }
+    }
+
+  void Update()
     {
         if (Input.GetKeyDown(KeyCode.Tab))
         {
             ObjectCopier();
         }
+
+        // Check if we should disable the scripts
+        if (disableScriptsFor15Seconds && Time.time >= disableTime)
+        {
+            EnableScripts();
+        }
     }
-public void ObjectCopier()
-{
-    int randomIndex = Random.Range(0, objectsToCopy.Length); // Randomly select an index
-    GameObject randomObject = objectsToCopy[randomIndex]; // Get the randomly selected object
 
-    GameObject copiedObject = Instantiate(randomObject, objectContainer);
-    
-    float randomX = Random.Range(minX, maxX);
-    float randomY = Random.Range(minY, maxY);
+    public void ObjectCopier()
+    {
+        int randomIndex = Random.Range(0, objectsToCopy.Length); // Randomly select an index
+        GameObject randomObject = objectsToCopy[randomIndex]; // Get the randomly selected object
 
-    float zPos = randomObject.transform.position.z;
-    copiedObject.transform.position = new Vector3(randomX, randomY, zPos);
-}
+        GameObject copiedObject = Instantiate(randomObject, objectContainer);
+        
+        float randomX = Random.Range(minX, maxX);
+        float randomY = Random.Range(minY, maxY);
+
+        float zPos = randomObject.transform.position.z;
+        copiedObject.transform.position = new Vector3(randomX, randomY, zPos);
+
+        if (SceneManager.GetActiveScene().name == "TEST_f")
+        {
+            DisableScriptsFor15Seconds();
+        }
+    }
 
     private void SaveObjectPosition(Vector3 position)
     {
@@ -104,4 +129,67 @@ public void ObjectCopier()
             Debug.Log("No saved positions found.");
         }
     }
+
+    private void DisableScriptsFor15Seconds()
+    {
+        disableScriptsFor15Seconds = true;
+        disableTime = Time.time + 9f;
+
+        // Find and disable the specified scripts on objects in objectContainer and its children
+        RecursiveDisableScripts(objectContainer);
+    }
+
+    private void EnableScripts()
+    {
+        disableScriptsFor15Seconds = false;
+
+        // Find and re-enable the specified scripts on objects in objectContainer and its children
+        RecursiveEnableScripts(objectContainer);
+    }
+
+    private void RecursiveDisableScripts(Transform parent)
+    {
+        foreach (Transform child in parent)
+        {
+            SceneChangerArea1 sceneChanger1 = child.GetComponent<SceneChangerArea1>();
+            SceneChangerArea1_Other sceneChanger1Other = child.GetComponent<SceneChangerArea1_Other>();
+
+            if (sceneChanger1 != null)
+            {
+                sceneChanger1.enabled = false;
+            }
+
+            if (sceneChanger1Other != null)
+            {
+                sceneChanger1Other.enabled = false;
+            }
+
+            // Recursively search for child objects
+            RecursiveDisableScripts(child);
+        }
+    }
+
+    private void RecursiveEnableScripts(Transform parent)
+    {
+        foreach (Transform child in parent)
+        {
+            SceneChangerArea1 sceneChanger1 = child.GetComponent<SceneChangerArea1>();
+            SceneChangerArea1_Other sceneChanger1Other = child.GetComponent<SceneChangerArea1_Other>();
+
+            if (sceneChanger1 != null)
+            {
+                sceneChanger1.enabled = true;
+            }
+
+            if (sceneChanger1Other != null)
+            {
+                sceneChanger1Other.enabled = true;
+            }
+
+            // Recursively search for child objects
+            RecursiveEnableScripts(child);
+        }
+    }
+
+    
 }
