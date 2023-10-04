@@ -29,6 +29,19 @@ public class DominoReplacement : MonoBehaviour
             copyObject.transform.position = collidedObject.transform.position;
             copyObject.SetActive(true);
 
+            // Find the "ObjectContainer" by name
+            GameObject objectContainer = GameObject.Find("ObjectContainer");
+
+            if (objectContainer != null)
+            {
+                // Make copyObject a child of ObjectContainer
+                copyObject.transform.parent = objectContainer.transform;
+            }
+            else
+            {
+                Debug.LogError("ObjectContainer not found.");
+            }
+
             // Add the collided object to the replacedObjects list
             replacedObjects.Add(collidedObject);
 
