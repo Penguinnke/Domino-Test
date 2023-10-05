@@ -7,12 +7,14 @@ public class SceneChangerArea1 : MonoBehaviour
 {
     public bool colliding;
     public bool isCollisionDetectedRight;
-    public string[] Scenes;
+    public List<string> Scenes;
 
     public Vector3 areaCenter;  // The center of the area
     public Vector3 areaSize;    // The size of the area
 
     public float delayInSeconds = 8f; // Public delay time in seconds
+
+    public string EndingScene = "EndingScene";
 
     private void Start()
     {
@@ -64,9 +66,27 @@ public class SceneChangerArea1 : MonoBehaviour
     // Method to change the scene after the delay
     private void ChangeSceneAfterDelay()
     {
-        string randomSceneName = Scenes[Random.Range(0, Scenes.Length)];
-        // Load the randomly selected scene
-        SceneManager.LoadScene(randomSceneName);
+        // Check if there are scenes left in the list
+        if (Scenes.Count > 0)
+        {
+            // Choose a random index from the list
+            int randomIndex = Random.Range(0, Scenes.Count);
+
+            // Get the randomly selected scene name
+            string randomSceneName = Scenes[randomIndex];
+
+            // Remove the selected scene from the list
+            Scenes.RemoveAt(randomIndex);
+
+            // Load the randomly selected scene
+            SceneManager.LoadScene(randomSceneName);
+        }
+        else
+        {
+            // If the list is empty, you may want to handle this case (e.g., display a message or do something else)
+            Debug.LogWarning("No scenes left in the list.");
+            SceneManager.LoadScene(EndingScene);
+        }
     }
 
     private void OnDrawGizmosSelected()

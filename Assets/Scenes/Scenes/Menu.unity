@@ -248,6 +248,330 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5769898914158945484, guid: 66928c14d2baf2e4997093df7aef3b64, type: 3}
+      propertyPath: Scenes.Array.data[0]
+      value: SceneBeforePuzzle_1_A
+      objectReference: {fileID: 0}
+    - target: {fileID: 5769898914175357326, guid: 66928c14d2baf2e4997093df7aef3b64, type: 3}
+      propertyPath: Scenes.Array.data[0]
+      value: SceneBeforePuzzle_1_A
+      objectReference: {fileID: 0}
+    - target: {fileID: 5769898914234235128, guid: 66928c14d2baf2e4997093df7aef3b64, type: 3}
+      propertyPath: Scenes.Array.data[0]
+      value: SceneBeforePuzzle_1_A
+      objectReference: {fileID: 0}
+    - target: {fileID: 5769898914247024609, guid: 66928c14d2baf2e4997093df7aef3b64, type: 3}
+      propertyPath: Scenes.Array.data[0]
+      value: SceneBeforePuzzle_1_A
+      objectReference: {fileID: 0}
+    - target: {fileID: 5769898914256895139, guid: 66928c14d2baf2e4997093df7aef3b64, type: 3}
+      propertyPath: Scenes.Array.data[0]
+      value: SceneBeforePuzzle_1_A
+      objectReference: {fileID: 0}
+    - target: {fileID: 5769898914258350926, guid: 66928c14d2baf2e4997093df7aef3b64, type: 3}
+      propertyPath: Scenes.Array.data[0]
+      value: SceneBeforePuzzle_1_A
+      objectReference: {fileID: 0}
+    - target: {fileID: 5769898914263819760, guid: 66928c14d2baf2e4997093df7aef3b64, type: 3}
+      propertyPath: Scenes.Array.data[0]
+      value: SceneBeforePuzzle_1_A
+      objectReference: {fileID: 0}
+    - target: {fileID: 5769898914270417334, guid: 66928c14d2baf2e4997093df7aef3b64, type: 3}
+      propertyPath: Scenes.Array.data[0]
+      value: SceneBeforePuzzle_1_A
+      objectReference: {fileID: 0}
+    - target: {fileID: 5769898914292722952, guid: 66928c14d2baf2e4997093df7aef3b64, type: 3}
+      propertyPath: Scenes.Array.data[0]
+      value: SceneBeforePuzzle_1_A
+      objectReference: {fileID: 0}
+    - target: {fileID: 5769898914295329932, guid: 66928c14d2baf2e4997093df7aef3b64, type: 3}
+      propertyPath: Scenes.Array.data[0]
+      value: SceneBeforePuzzle_1_A
+      objectReference: {fileID: 0}
+    - target: {fileID: 5769898914354734232, guid: 66928c14d2baf2e4997093df7aef3b64, type: 3}
+      propertyPath: Scenes.Array.data[0]
+      value: SceneBeforePuzzle_1_A
+      objectReference: {fileID: 0}
+    - target: {fileID: 5769898914359027507, guid: 66928c14d2baf2e4997093df7aef3b64, type: 3}
+      propertyPath: Scenes.Array.data[0]
+      value: SceneBeforePuzzle_1_A
+      objectReference: {fileID: 0}
+    - target: {fileID: 5769898914374272607, guid: 66928c14d2baf2e4997093df7aef3b64, type: 3}
+      propertyPath: Scenes.Array.data[0]
+      value: SceneBeforePuzzle_1_A
+      objectReference: {fileID: 0}
+    - target: {fileID: 5769898914409850506, guid: 66928c14d2baf2e4997093df7aef3b64, type: 3}
+      propertyPath: Scenes.Array.data[0]
+      value: SceneBeforePuzzle_1_A
+      objectReference: {fileID: 0}
+    - target: {fileID: 5769898914416323071, guid: 66928c14d2baf2e4997093df7aef3b64, type: 3}
+      propertyPath: Scenes.Array.data[0]
+      value: SceneBeforePuzzle_1_A
+      objectReference: {fileID: 0}
+    - target: {fileID: 5769898914421565439, guid: 66928c14d2baf2e4997093df7aef3b64, type: 3}
+      propertyPath: Scenes.Array.data[0]
+      value: SceneBeforePuzzle_1_A
+      objectReference: {fileID: 0}
+    - target: {fileID: 5769898914431654791, guid: 66928c14d2baf2e4997093df7aef3b64, type: 3}
+      propertyPath: Scenes.Array.data[0]
+      value: SceneBeforePuzzle_1_A
+      objectReference: {fileID: 0}
+    - target: {fileID: 5769898914458351132, guid: 66928c14d2baf2e4997093df7aef3b64, type: 3}
+      propertyPath: Scenes.Array.data[0]
+      value: SceneBeforePuzzle_1_A
+      objectReference: {fileID: 0}
+    - target: {fileID: 5769898914463615268, guid: 66928c14d2baf2e4997093df7aef3b64, type: 3}
+      propertyPath: Scenes.Array.data[0]
+      value: SceneBeforePuzzle_1_A
+      objectReference: {fileID: 0}
+    - target: {fileID: 5769898914472787856, guid: 66928c14d2baf2e4997093df7aef3b64, type: 3}
+      propertyPath: Scenes.Array.data[0]
+      value: SceneBeforePuzzle_1_A
+      objectReference: {fileID: 0}
+    - target: {fileID: 5769898914478676363, guid: 66928c14d2baf2e4997093df7aef3b64, type: 3}
+      propertyPath: Scenes.Array.data[0]
+      value: SceneBeforePuzzle_1_A
+      objectReference: {fileID: 0}
+    - target: {fileID: 5769898914518785565, guid: 66928c14d2baf2e4997093df7aef3b64, type: 3}
+      propertyPath: Scenes.Array.data[0]
+      value: SceneBeforePuzzle_1_A
+      objectReference: {fileID: 0}
+    - target: {fileID: 5769898914522640079, guid: 66928c14d2baf2e4997093df7aef3b64, type: 3}
+      propertyPath: Scenes.Array.data[0]
+      value: SceneBeforePuzzle_1_A
+      objectReference: {fileID: 0}
+    - target: {fileID: 5769898914561944411, guid: 66928c14d2baf2e4997093df7aef3b64, type: 3}
+      propertyPath: Scenes.Array.data[0]
+      value: SceneBeforePuzzle_1_A
+      objectReference: {fileID: 0}
+    - target: {fileID: 5769898914604449181, guid: 66928c14d2baf2e4997093df7aef3b64, type: 3}
+      propertyPath: Scenes.Array.data[0]
+      value: SceneBeforePuzzle_1_A
+      objectReference: {fileID: 0}
+    - target: {fileID: 5769898914623013234, guid: 66928c14d2baf2e4997093df7aef3b64, type: 3}
+      propertyPath: Scenes.Array.data[0]
+      value: SceneBeforePuzzle_1_A
+      objectReference: {fileID: 0}
+    - target: {fileID: 5769898914644827132, guid: 66928c14d2baf2e4997093df7aef3b64, type: 3}
+      propertyPath: Scenes.Array.data[0]
+      value: SceneBeforePuzzle_1_A
+      objectReference: {fileID: 0}
+    - target: {fileID: 5769898914649339769, guid: 66928c14d2baf2e4997093df7aef3b64, type: 3}
+      propertyPath: Scenes.Array.data[0]
+      value: SceneBeforePuzzle_1_A
+      objectReference: {fileID: 0}
+    - target: {fileID: 5769898914740257177, guid: 66928c14d2baf2e4997093df7aef3b64, type: 3}
+      propertyPath: Scenes.Array.data[0]
+      value: SceneBeforePuzzle_1_A
+      objectReference: {fileID: 0}
+    - target: {fileID: 5769898914775254537, guid: 66928c14d2baf2e4997093df7aef3b64, type: 3}
+      propertyPath: Scenes.Array.data[0]
+      value: SceneBeforePuzzle_1_A
+      objectReference: {fileID: 0}
+    - target: {fileID: 5769898914806263358, guid: 66928c14d2baf2e4997093df7aef3b64, type: 3}
+      propertyPath: Scenes.Array.data[0]
+      value: SceneBeforePuzzle_1_A
+      objectReference: {fileID: 0}
+    - target: {fileID: 5769898914816439047, guid: 66928c14d2baf2e4997093df7aef3b64, type: 3}
+      propertyPath: Scenes.Array.data[0]
+      value: SceneBeforePuzzle_1_A
+      objectReference: {fileID: 0}
+    - target: {fileID: 5769898914826359710, guid: 66928c14d2baf2e4997093df7aef3b64, type: 3}
+      propertyPath: Scenes.Array.data[0]
+      value: SceneBeforePuzzle_1_A
+      objectReference: {fileID: 0}
+    - target: {fileID: 5769898914830307831, guid: 66928c14d2baf2e4997093df7aef3b64, type: 3}
+      propertyPath: Scenes.Array.data[0]
+      value: SceneBeforePuzzle_1_A
+      objectReference: {fileID: 0}
+    - target: {fileID: 5769898914989609925, guid: 66928c14d2baf2e4997093df7aef3b64, type: 3}
+      propertyPath: Scenes.Array.data[0]
+      value: SceneBeforePuzzle_1_A
+      objectReference: {fileID: 0}
+    - target: {fileID: 5769898915034260806, guid: 66928c14d2baf2e4997093df7aef3b64, type: 3}
+      propertyPath: Scenes.Array.data[0]
+      value: SceneBeforePuzzle_1_A
+      objectReference: {fileID: 0}
+    - target: {fileID: 5769898915038037842, guid: 66928c14d2baf2e4997093df7aef3b64, type: 3}
+      propertyPath: Scenes.Array.data[0]
+      value: SceneBeforePuzzle_1_A
+      objectReference: {fileID: 0}
+    - target: {fileID: 5769898915045339440, guid: 66928c14d2baf2e4997093df7aef3b64, type: 3}
+      propertyPath: Scenes.Array.data[0]
+      value: SceneBeforePuzzle_1_A
+      objectReference: {fileID: 0}
+    - target: {fileID: 5769898915063190699, guid: 66928c14d2baf2e4997093df7aef3b64, type: 3}
+      propertyPath: Scenes.Array.data[0]
+      value: SceneBeforePuzzle_1_A
+      objectReference: {fileID: 0}
+    - target: {fileID: 5769898915072351684, guid: 66928c14d2baf2e4997093df7aef3b64, type: 3}
+      propertyPath: Scenes.Array.data[0]
+      value: SceneBeforePuzzle_1_A
+      objectReference: {fileID: 0}
+    - target: {fileID: 5769898915076407255, guid: 66928c14d2baf2e4997093df7aef3b64, type: 3}
+      propertyPath: Scenes.Array.data[0]
+      value: SceneBeforePuzzle_1_A
+      objectReference: {fileID: 0}
+    - target: {fileID: 5769898915093812348, guid: 66928c14d2baf2e4997093df7aef3b64, type: 3}
+      propertyPath: Scenes.Array.data[0]
+      value: SceneBeforePuzzle_1_A
+      objectReference: {fileID: 0}
+    - target: {fileID: 5769898915107234745, guid: 66928c14d2baf2e4997093df7aef3b64, type: 3}
+      propertyPath: Scenes.Array.data[0]
+      value: SceneBeforePuzzle_1_A
+      objectReference: {fileID: 0}
+    - target: {fileID: 5769898915136119420, guid: 66928c14d2baf2e4997093df7aef3b64, type: 3}
+      propertyPath: Scenes.Array.data[0]
+      value: SceneBeforePuzzle_1_A
+      objectReference: {fileID: 0}
+    - target: {fileID: 5769898915162752921, guid: 66928c14d2baf2e4997093df7aef3b64, type: 3}
+      propertyPath: Scenes.Array.data[0]
+      value: SceneBeforePuzzle_1_A
+      objectReference: {fileID: 0}
+    - target: {fileID: 5769898915233658293, guid: 66928c14d2baf2e4997093df7aef3b64, type: 3}
+      propertyPath: Scenes.Array.data[0]
+      value: SceneBeforePuzzle_1_A
+      objectReference: {fileID: 0}
+    - target: {fileID: 5769898915233658294, guid: 66928c14d2baf2e4997093df7aef3b64, type: 3}
+      propertyPath: Scenes.Array.data[0]
+      value: SceneBeforePuzzle_1_A
+      objectReference: {fileID: 0}
+    - target: {fileID: 5769898915238412491, guid: 66928c14d2baf2e4997093df7aef3b64, type: 3}
+      propertyPath: Scenes.Array.data[0]
+      value: SceneBeforePuzzle_1_A
+      objectReference: {fileID: 0}
+    - target: {fileID: 5769898915253979645, guid: 66928c14d2baf2e4997093df7aef3b64, type: 3}
+      propertyPath: Scenes.Array.data[0]
+      value: SceneBeforePuzzle_1_A
+      objectReference: {fileID: 0}
+    - target: {fileID: 5769898915274116411, guid: 66928c14d2baf2e4997093df7aef3b64, type: 3}
+      propertyPath: Scenes.Array.data[0]
+      value: SceneBeforePuzzle_1_A
+      objectReference: {fileID: 0}
+    - target: {fileID: 5769898915297080291, guid: 66928c14d2baf2e4997093df7aef3b64, type: 3}
+      propertyPath: Scenes.Array.data[0]
+      value: SceneBeforePuzzle_1_A
+      objectReference: {fileID: 0}
+    - target: {fileID: 5769898915298897030, guid: 66928c14d2baf2e4997093df7aef3b64, type: 3}
+      propertyPath: Scenes.Array.data[0]
+      value: SceneBeforePuzzle_1_A
+      objectReference: {fileID: 0}
+    - target: {fileID: 5769898915305761688, guid: 66928c14d2baf2e4997093df7aef3b64, type: 3}
+      propertyPath: Scenes.Array.data[0]
+      value: SceneBeforePuzzle_1_A
+      objectReference: {fileID: 0}
+    - target: {fileID: 5769898915361487343, guid: 66928c14d2baf2e4997093df7aef3b64, type: 3}
+      propertyPath: Scenes.Array.data[0]
+      value: SceneBeforePuzzle_1_A
+      objectReference: {fileID: 0}
+    - target: {fileID: 5769898915389192171, guid: 66928c14d2baf2e4997093df7aef3b64, type: 3}
+      propertyPath: Scenes.Array.data[0]
+      value: SceneBeforePuzzle_1_A
+      objectReference: {fileID: 0}
+    - target: {fileID: 5769898915404461276, guid: 66928c14d2baf2e4997093df7aef3b64, type: 3}
+      propertyPath: Scenes.Array.data[0]
+      value: SceneBeforePuzzle_1_A
+      objectReference: {fileID: 0}
+    - target: {fileID: 5769898915488760120, guid: 66928c14d2baf2e4997093df7aef3b64, type: 3}
+      propertyPath: Scenes.Array.data[0]
+      value: SceneBeforePuzzle_1_A
+      objectReference: {fileID: 0}
+    - target: {fileID: 5769898915577895728, guid: 66928c14d2baf2e4997093df7aef3b64, type: 3}
+      propertyPath: Scenes.Array.data[0]
+      value: SceneBeforePuzzle_1_A
+      objectReference: {fileID: 0}
+    - target: {fileID: 5769898915589758811, guid: 66928c14d2baf2e4997093df7aef3b64, type: 3}
+      propertyPath: Scenes.Array.data[0]
+      value: SceneBeforePuzzle_1_A
+      objectReference: {fileID: 0}
+    - target: {fileID: 5769898915597301534, guid: 66928c14d2baf2e4997093df7aef3b64, type: 3}
+      propertyPath: Scenes.Array.data[0]
+      value: SceneBeforePuzzle_1_A
+      objectReference: {fileID: 0}
+    - target: {fileID: 5769898915613433020, guid: 66928c14d2baf2e4997093df7aef3b64, type: 3}
+      propertyPath: Scenes.Array.data[0]
+      value: SceneBeforePuzzle_1_A
+      objectReference: {fileID: 0}
+    - target: {fileID: 5769898915636833680, guid: 66928c14d2baf2e4997093df7aef3b64, type: 3}
+      propertyPath: Scenes.Array.data[0]
+      value: SceneBeforePuzzle_1_A
+      objectReference: {fileID: 0}
+    - target: {fileID: 5769898915658263364, guid: 66928c14d2baf2e4997093df7aef3b64, type: 3}
+      propertyPath: Scenes.Array.data[0]
+      value: SceneBeforePuzzle_1_A
+      objectReference: {fileID: 0}
+    - target: {fileID: 5769898915680449269, guid: 66928c14d2baf2e4997093df7aef3b64, type: 3}
+      propertyPath: Scenes.Array.data[0]
+      value: SceneBeforePuzzle_1_A
+      objectReference: {fileID: 0}
+    - target: {fileID: 5769898915687977485, guid: 66928c14d2baf2e4997093df7aef3b64, type: 3}
+      propertyPath: Scenes.Array.data[0]
+      value: SceneBeforePuzzle_1_A
+      objectReference: {fileID: 0}
+    - target: {fileID: 5769898915752696257, guid: 66928c14d2baf2e4997093df7aef3b64, type: 3}
+      propertyPath: Scenes.Array.data[0]
+      value: SceneBeforePuzzle_1_A
+      objectReference: {fileID: 0}
+    - target: {fileID: 5769898915767770390, guid: 66928c14d2baf2e4997093df7aef3b64, type: 3}
+      propertyPath: Scenes.Array.data[0]
+      value: SceneBeforePuzzle_1_A
+      objectReference: {fileID: 0}
+    - target: {fileID: 5769898915770529949, guid: 66928c14d2baf2e4997093df7aef3b64, type: 3}
+      propertyPath: Scenes.Array.data[0]
+      value: SceneBeforePuzzle_1_A
+      objectReference: {fileID: 0}
+    - target: {fileID: 5769898915771121420, guid: 66928c14d2baf2e4997093df7aef3b64, type: 3}
+      propertyPath: Scenes.Array.data[0]
+      value: SceneBeforePuzzle_1_A
+      objectReference: {fileID: 0}
+    - target: {fileID: 5769898915788138464, guid: 66928c14d2baf2e4997093df7aef3b64, type: 3}
+      propertyPath: Scenes.Array.data[0]
+      value: SceneBeforePuzzle_1_A
+      objectReference: {fileID: 0}
+    - target: {fileID: 5769898915791690248, guid: 66928c14d2baf2e4997093df7aef3b64, type: 3}
+      propertyPath: Scenes.Array.data[0]
+      value: SceneBeforePuzzle_1_A
+      objectReference: {fileID: 0}
+    - target: {fileID: 5769898915803053832, guid: 66928c14d2baf2e4997093df7aef3b64, type: 3}
+      propertyPath: Scenes.Array.data[0]
+      value: SceneBeforePuzzle_1_A
+      objectReference: {fileID: 0}
+    - target: {fileID: 5769898915805996905, guid: 66928c14d2baf2e4997093df7aef3b64, type: 3}
+      propertyPath: Scenes.Array.data[0]
+      value: SceneBeforePuzzle_1_A
+      objectReference: {fileID: 0}
+    - target: {fileID: 5769898915808792286, guid: 66928c14d2baf2e4997093df7aef3b64, type: 3}
+      propertyPath: Scenes.Array.data[0]
+      value: SceneBeforePuzzle_1_A
+      objectReference: {fileID: 0}
+    - target: {fileID: 5769898915810865759, guid: 66928c14d2baf2e4997093df7aef3b64, type: 3}
+      propertyPath: Scenes.Array.data[0]
+      value: SceneBeforePuzzle_1_A
+      objectReference: {fileID: 0}
+    - target: {fileID: 5769898915810867992, guid: 66928c14d2baf2e4997093df7aef3b64, type: 3}
+      propertyPath: Scenes.Array.data[0]
+      value: SceneBeforePuzzle_1_A
+      objectReference: {fileID: 0}
+    - target: {fileID: 5769898915830473535, guid: 66928c14d2baf2e4997093df7aef3b64, type: 3}
+      propertyPath: Scenes.Array.data[0]
+      value: SceneBeforePuzzle_1_A
+      objectReference: {fileID: 0}
+    - target: {fileID: 5769898915839415957, guid: 66928c14d2baf2e4997093df7aef3b64, type: 3}
+      propertyPath: Scenes.Array.data[0]
+      value: SceneBeforePuzzle_1_A
+      objectReference: {fileID: 0}
+    - target: {fileID: 5769898915841048415, guid: 66928c14d2baf2e4997093df7aef3b64, type: 3}
+      propertyPath: Scenes.Array.data[0]
+      value: SceneBeforePuzzle_1_A
+      objectReference: {fileID: 0}
+    - target: {fileID: 5769898915877175683, guid: 66928c14d2baf2e4997093df7aef3b64, type: 3}
+      propertyPath: Scenes.Array.data[0]
+      value: SceneBeforePuzzle_1_A
+      objectReference: {fileID: 0}
+    - target: {fileID: 5769898915884248346, guid: 66928c14d2baf2e4997093df7aef3b64, type: 3}
+      propertyPath: Scenes.Array.data[0]
+      value: SceneBeforePuzzle_1_A
+      objectReference: {fileID: 0}
     - target: {fileID: 5769898915893739398, guid: 66928c14d2baf2e4997093df7aef3b64, type: 3}
       propertyPath: m_Name
       value: Domino's
@@ -299,6 +623,74 @@ PrefabInstance:
     - target: {fileID: 5769898915893739399, guid: 66928c14d2baf2e4997093df7aef3b64, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5769898915895206693, guid: 66928c14d2baf2e4997093df7aef3b64, type: 3}
+      propertyPath: Scenes.Array.data[0]
+      value: SceneBeforePuzzle_1_A
+      objectReference: {fileID: 0}
+    - target: {fileID: 5769898915929653811, guid: 66928c14d2baf2e4997093df7aef3b64, type: 3}
+      propertyPath: Scenes.Array.data[0]
+      value: SceneBeforePuzzle_1_A
+      objectReference: {fileID: 0}
+    - target: {fileID: 5769898915937623061, guid: 66928c14d2baf2e4997093df7aef3b64, type: 3}
+      propertyPath: Scenes.Array.data[0]
+      value: SceneBeforePuzzle_1_A
+      objectReference: {fileID: 0}
+    - target: {fileID: 5769898915979496282, guid: 66928c14d2baf2e4997093df7aef3b64, type: 3}
+      propertyPath: Scenes.Array.data[0]
+      value: SceneBeforePuzzle_1_A
+      objectReference: {fileID: 0}
+    - target: {fileID: 5769898915993859659, guid: 66928c14d2baf2e4997093df7aef3b64, type: 3}
+      propertyPath: Scenes.Array.data[0]
+      value: SceneBeforePuzzle_1_A
+      objectReference: {fileID: 0}
+    - target: {fileID: 5769898915995268762, guid: 66928c14d2baf2e4997093df7aef3b64, type: 3}
+      propertyPath: Scenes.Array.data[0]
+      value: SceneBeforePuzzle_1_A
+      objectReference: {fileID: 0}
+    - target: {fileID: 5769898916031360911, guid: 66928c14d2baf2e4997093df7aef3b64, type: 3}
+      propertyPath: Scenes.Array.data[0]
+      value: SceneBeforePuzzle_1_A
+      objectReference: {fileID: 0}
+    - target: {fileID: 5769898916062911904, guid: 66928c14d2baf2e4997093df7aef3b64, type: 3}
+      propertyPath: Scenes.Array.data[0]
+      value: SceneBeforePuzzle_1_A
+      objectReference: {fileID: 0}
+    - target: {fileID: 5769898916100401226, guid: 66928c14d2baf2e4997093df7aef3b64, type: 3}
+      propertyPath: Scenes.Array.data[0]
+      value: SceneBeforePuzzle_1_A
+      objectReference: {fileID: 0}
+    - target: {fileID: 5769898916106634811, guid: 66928c14d2baf2e4997093df7aef3b64, type: 3}
+      propertyPath: Scenes.Array.data[0]
+      value: SceneBeforePuzzle_1_A
+      objectReference: {fileID: 0}
+    - target: {fileID: 5769898916112630601, guid: 66928c14d2baf2e4997093df7aef3b64, type: 3}
+      propertyPath: Scenes.Array.data[0]
+      value: SceneBeforePuzzle_1_A
+      objectReference: {fileID: 0}
+    - target: {fileID: 5769898916126867537, guid: 66928c14d2baf2e4997093df7aef3b64, type: 3}
+      propertyPath: Scenes.Array.data[0]
+      value: SceneBeforePuzzle_1_A
+      objectReference: {fileID: 0}
+    - target: {fileID: 5769898916129681719, guid: 66928c14d2baf2e4997093df7aef3b64, type: 3}
+      propertyPath: Scenes.Array.data[0]
+      value: SceneBeforePuzzle_1_A
+      objectReference: {fileID: 0}
+    - target: {fileID: 5769898916141181127, guid: 66928c14d2baf2e4997093df7aef3b64, type: 3}
+      propertyPath: Scenes.Array.data[0]
+      value: SceneBeforePuzzle_1_A
+      objectReference: {fileID: 0}
+    - target: {fileID: 5769898916226604910, guid: 66928c14d2baf2e4997093df7aef3b64, type: 3}
+      propertyPath: Scenes.Array.data[0]
+      value: SceneBeforePuzzle_1_A
+      objectReference: {fileID: 0}
+    - target: {fileID: 5769898916244715643, guid: 66928c14d2baf2e4997093df7aef3b64, type: 3}
+      propertyPath: Scenes.Array.data[0]
+      value: SceneBeforePuzzle_1_A
+      objectReference: {fileID: 0}
+    - target: {fileID: 5769898916280416288, guid: 66928c14d2baf2e4997093df7aef3b64, type: 3}
+      propertyPath: Scenes.Array.data[0]
+      value: SceneBeforePuzzle_1_A
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 66928c14d2baf2e4997093df7aef3b64, type: 3}

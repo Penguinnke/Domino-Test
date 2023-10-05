@@ -13,6 +13,17 @@ TagManager:
   - Number2
   - Domino
   - Number0
+  - Vaas1
+  - Vaas2
+  - Vaas3
+  - Vaas4
+  - Number1GR
+  - Number2GR
+  - Number3GR
+  - Number4GR
+  - Number0GR
+  - Number5GR
+  - Number6GR
   layers:
   - Default
   - TransparentFX

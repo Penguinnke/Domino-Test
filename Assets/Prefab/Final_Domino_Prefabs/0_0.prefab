@@ -21,7 +21,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &675101087411483686
 Transform:
   m_ObjectHideFlags: 0
@@ -101,7 +101,7 @@ Rigidbody2D:
   m_Simulated: 1
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 1
-  m_Mass: 1
+  m_Mass: 11.135916
   m_LinearDrag: 0
   m_AngularDrag: 0.05
   m_GravityScale: 0
@@ -337,6 +337,7 @@ MonoBehaviour:
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
   delayInSeconds: 2
+  EndingScene: EndingScene
 --- !u!1 &675101088369607979
 GameObject:
   m_ObjectHideFlags: 0
