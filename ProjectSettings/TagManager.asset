@@ -24,6 +24,13 @@ TagManager:
   - Number0GR
   - Number5GR
   - Number6GR
+  - Number0REV
+  - Number1REV
+  - Number2REV
+  - Number3REV
+  - Number4REV
+  - Number5REV
+  - Number6REV
   layers:
   - Default
   - TransparentFX
