@@ -283,7 +283,7 @@ MonoBehaviour:
   collidingSoundName: CollidingSound
   notCollidingSoundName: NotCollidingSound
   _dominoTagTRUE: Number3GR
-  _dominoTagTrueZero: Number0
+  _dominoTagTrueZero: Number0GR
   collisionColor: {r: 0, g: 1, b: 0.15294118, a: 1}
   wrongCollisionColor: {r: 1, g: 0, b: 0.039215688, a: 1}
   exitColor: {r: 1, g: 1, b: 1, a: 1}
