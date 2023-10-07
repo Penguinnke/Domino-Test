@@ -3948,7 +3948,7 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 3542307950790520509, guid: 9cc3bbb650ec13d42874a4e0c84a277d, type: 3}
   m_PrefabInstance: {fileID: 5769898914259302751}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &5769898915993859659
+--- !u!114 &1783166996592157943
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -3962,15 +3962,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   colliding: 0
   isCollisionDetectedRight: 0
-  Scenes:
-  - SceneBeforePuzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
-  _dominoTagTRUE: Number5
-  _dominoTagTrueZero: Number0
-  delayInSeconds: 2
-  EndingScene: EndingScene
---- !u!114 &5769898915613433020
+  _dominoTagTRUE:
+  - Number0
+  - Number5
+  delayInSeconds: 8
+  FinishedEra: FinishedEra1
+--- !u!114 &3441163661475012981
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -3984,14 +3983,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   colliding: 0
   isCollisionDetectedRight: 0
-  Scenes:
-  - SceneBeforePuzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
-  _dominoTagTRUE: Number2
-  _dominoTagTrueZero: Number0
-  delayInSeconds: 2
-  EndingScene: EndingScene
+  _dominoTagTRUE:
+  - Number0
+  - Number2
+  delayInSeconds: 8
+  FinishedEra: FinishedEra1
 --- !u!1001 &5769898914263819766
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4092,7 +4090,7 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 3351370250628221489, guid: 252b389c6634a6041b47cc0dee4b0796, type: 3}
   m_PrefabInstance: {fileID: 5769898914263819766}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &5769898914830307831
+--- !u!114 &834402013195606404
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -4106,15 +4104,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   colliding: 0
   isCollisionDetectedRight: 0
-  Scenes:
-  - SceneBeforePuzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
-  _dominoTagTRUE: Number3
-  _dominoTagTrueZero: Number0
-  delayInSeconds: 2
-  EndingScene: EndingScene
---- !u!114 &5769898914263819760
+  _dominoTagTRUE:
+  - Number0
+  - Number3
+  delayInSeconds: 8
+  FinishedEra: FinishedEra1
+--- !u!114 &4616550655278332429
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -4128,14 +4125,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   colliding: 0
   isCollisionDetectedRight: 0
-  Scenes:
-  - SceneBeforePuzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
-  _dominoTagTRUE: Number6
-  _dominoTagTrueZero: Number0
-  delayInSeconds: 2
-  EndingScene: EndingScene
+  _dominoTagTRUE:
+  - Number0
+  - Number6
+  delayInSeconds: 8
+  FinishedEra: FinishedEra1
 --- !u!1001 &5769898914271224383
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4232,7 +4228,7 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 465647404578869226, guid: 70e96d40f70bda2439e71d8fa68a0b99, type: 3}
   m_PrefabInstance: {fileID: 5769898914271224383}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &5769898914989609925
+--- !u!114 &5450923490327875661
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -4246,15 +4242,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   colliding: 0
   isCollisionDetectedRight: 0
-  Scenes:
-  - SceneBeforePuzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
-  _dominoTagTRUE: Number4
-  _dominoTagTrueZero: Number0
-  delayInSeconds: 2
-  EndingScene: EndingScene
---- !u!114 &5769898914256895139
+  _dominoTagTRUE:
+  - Number0
+  - Number4
+  delayInSeconds: 8
+  FinishedEra: FinishedEra1
+--- !u!114 &109919748496103576
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -4268,14 +4263,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   colliding: 0
   isCollisionDetectedRight: 0
-  Scenes:
-  - SceneBeforePuzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
-  _dominoTagTRUE: Number1
-  _dominoTagTrueZero: Number0
-  delayInSeconds: 2
-  EndingScene: EndingScene
+  _dominoTagTRUE:
+  - Number0
+  - Number1
+  delayInSeconds: 8
+  FinishedEra: FinishedEra1
 --- !u!1001 &5769898914287060070
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4362,17 +4356,17 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 2575489123938915206, guid: c3c1d7cc5946d1945ba701fb970c5ca6, type: 3}
   m_PrefabInstance: {fileID: 5769898914287060070}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &8335940570454311423 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 2575489124107306393, guid: c3c1d7cc5946d1945ba701fb970c5ca6, type: 3}
-  m_PrefabInstance: {fileID: 5769898914287060070}
-  m_PrefabAsset: {fileID: 0}
 --- !u!4 &8335940568997064946 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 2575489122611786900, guid: c3c1d7cc5946d1945ba701fb970c5ca6, type: 3}
   m_PrefabInstance: {fileID: 5769898914287060070}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &5769898914561944411
+--- !u!1 &8335940570454311423 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2575489124107306393, guid: c3c1d7cc5946d1945ba701fb970c5ca6, type: 3}
+  m_PrefabInstance: {fileID: 5769898914287060070}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &2963612135044659466
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -4386,15 +4380,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   colliding: 0
   isCollisionDetectedRight: 0
-  Scenes:
-  - SceneBeforePuzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
-  _dominoTagTRUE: Number1
-  _dominoTagTrueZero: Number0
-  delayInSeconds: 2
-  EndingScene: EndingScene
---- !u!114 &5769898915995268762
+  _dominoTagTRUE:
+  - Number0
+  - Number1
+  delayInSeconds: 8
+  FinishedEra: FinishedEra1
+--- !u!114 &5057782852722415456
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -4408,14 +4401,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   colliding: 0
   isCollisionDetectedRight: 0
-  Scenes:
-  - SceneBeforePuzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
-  _dominoTagTRUE: Number5
-  _dominoTagTrueZero: Number0
-  delayInSeconds: 2
-  EndingScene: EndingScene
+  _dominoTagTRUE:
+  - Number0
+  - Number5
+  delayInSeconds: 8
+  FinishedEra: FinishedEra1
 --- !u!1001 &5769898914297691023
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4501,11 +4493,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 48e6446706c31c341b1a93b6966cd708, type: 3}
---- !u!1 &4744435392752648693 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 1280520534667311738, guid: 48e6446706c31c341b1a93b6966cd708, type: 3}
-  m_PrefabInstance: {fileID: 5769898914297691023}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &4744435392854267882 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1280520534500486245, guid: 48e6446706c31c341b1a93b6966cd708, type: 3}
@@ -4516,7 +4503,12 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 1280520533839617384, guid: 48e6446706c31c341b1a93b6966cd708, type: 3}
   m_PrefabInstance: {fileID: 5769898914297691023}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &5769898914354734232
+--- !u!1 &4744435392752648693 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1280520534667311738, guid: 48e6446706c31c341b1a93b6966cd708, type: 3}
+  m_PrefabInstance: {fileID: 5769898914297691023}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &8142261098648322815
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -4530,15 +4522,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   colliding: 0
   isCollisionDetectedRight: 0
-  Scenes:
-  - SceneBeforePuzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
-  _dominoTagTRUE: Number5
-  _dominoTagTrueZero: Number0
-  delayInSeconds: 2
-  EndingScene: EndingScene
---- !u!114 &5769898914295329932
+  _dominoTagTRUE:
+  - Number0
+  - Number5
+  delayInSeconds: 8
+  FinishedEra: FinishedEra1
+--- !u!114 &129594277934191670
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -4552,14 +4543,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   colliding: 0
   isCollisionDetectedRight: 0
-  Scenes:
-  - SceneBeforePuzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
-  _dominoTagTRUE: Number4
-  _dominoTagTrueZero: Number0
-  delayInSeconds: 2
-  EndingScene: EndingScene
+  _dominoTagTRUE:
+  - Number0
+  - Number4
+  delayInSeconds: 8
+  FinishedEra: FinishedEra1
 --- !u!1001 &5769898914362415280
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4641,11 +4631,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a78f96f8aef29d74b833a6fcec25af8f, type: 3}
---- !u!1 &8986464453585948710 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 3216865018982271126, guid: a78f96f8aef29d74b833a6fcec25af8f, type: 3}
-  m_PrefabInstance: {fileID: 5769898914362415280}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &8986464453619140153 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 3216865018882498185, guid: a78f96f8aef29d74b833a6fcec25af8f, type: 3}
@@ -4656,7 +4641,12 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 3216865018225831812, guid: a78f96f8aef29d74b833a6fcec25af8f, type: 3}
   m_PrefabInstance: {fileID: 5769898914362415280}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &5769898915238412491
+--- !u!1 &8986464453585948710 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3216865018982271126, guid: a78f96f8aef29d74b833a6fcec25af8f, type: 3}
+  m_PrefabInstance: {fileID: 5769898914362415280}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &2923196056939136449
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -4670,15 +4660,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   colliding: 0
   isCollisionDetectedRight: 0
-  Scenes:
-  - SceneBeforePuzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
-  _dominoTagTRUE: Number5
-  _dominoTagTrueZero: Number0
-  delayInSeconds: 2
-  EndingScene: EndingScene
---- !u!114 &5769898915389192171
+  _dominoTagTRUE:
+  - Number0
+  - Number5
+  delayInSeconds: 8
+  FinishedEra: FinishedEra1
+--- !u!114 &4831559359890103490
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -4692,14 +4681,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   colliding: 0
   isCollisionDetectedRight: 0
-  Scenes:
-  - SceneBeforePuzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
-  _dominoTagTRUE: Number1
-  _dominoTagTrueZero: Number0
-  delayInSeconds: 2
-  EndingScene: EndingScene
+  _dominoTagTRUE:
+  - Number0
+  - Number1
+  delayInSeconds: 8
+  FinishedEra: FinishedEra1
 --- !u!1001 &5769898914409850504
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4800,7 +4788,7 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 6375883803585352856, guid: 14896a3ad11a0e54b80eb30e1b000546, type: 3}
   m_PrefabInstance: {fileID: 5769898914409850504}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &5769898914409850506
+--- !u!114 &2994148317088841805
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -4814,15 +4802,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   colliding: 0
   isCollisionDetectedRight: 0
-  Scenes:
-  - SceneBeforePuzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
-  _dominoTagTRUE: Number6
-  _dominoTagTrueZero: Number0
-  delayInSeconds: 2
-  EndingScene: EndingScene
---- !u!114 &5769898915808792286
+  _dominoTagTRUE:
+  - Number0
+  - Number6
+  delayInSeconds: 8
+  FinishedEra: FinishedEra1
+--- !u!114 &4677135039365944438
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -4836,14 +4823,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   colliding: 0
   isCollisionDetectedRight: 0
-  Scenes:
-  - SceneBeforePuzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
-  _dominoTagTRUE: Number2
-  _dominoTagTrueZero: Number0
-  delayInSeconds: 2
-  EndingScene: EndingScene
+  _dominoTagTRUE:
+  - Number0
+  - Number2
+  delayInSeconds: 8
+  FinishedEra: FinishedEra1
 --- !u!1001 &5769898914463615274
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4929,9 +4915,9 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 60b1cb59c61c0434a896ae6d8621b24a, type: 3}
---- !u!1 &8207702372903974966 stripped
+--- !u!1 &8207702372938214953 stripped
 GameObject:
-  m_CorrespondingSourceObject: {fileID: 2446951773694751004, guid: 60b1cb59c61c0434a896ae6d8621b24a, type: 3}
+  m_CorrespondingSourceObject: {fileID: 2446951773795575555, guid: 60b1cb59c61c0434a896ae6d8621b24a, type: 3}
   m_PrefabInstance: {fileID: 5769898914463615274}
   m_PrefabAsset: {fileID: 0}
 --- !u!4 &8207702371987939108 stripped
@@ -4939,12 +4925,12 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 2446951772308952590, guid: 60b1cb59c61c0434a896ae6d8621b24a, type: 3}
   m_PrefabInstance: {fileID: 5769898914463615274}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &8207702372938214953 stripped
+--- !u!1 &8207702372903974966 stripped
 GameObject:
-  m_CorrespondingSourceObject: {fileID: 2446951773795575555, guid: 60b1cb59c61c0434a896ae6d8621b24a, type: 3}
+  m_CorrespondingSourceObject: {fileID: 2446951773694751004, guid: 60b1cb59c61c0434a896ae6d8621b24a, type: 3}
   m_PrefabInstance: {fileID: 5769898914463615274}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &5769898916226604910
+--- !u!114 &6159233695105903444
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -4958,15 +4944,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   colliding: 0
   isCollisionDetectedRight: 0
-  Scenes:
-  - SceneBeforePuzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
-  _dominoTagTRUE: Number1
-  _dominoTagTrueZero: Number0
-  delayInSeconds: 2
-  EndingScene: EndingScene
---- !u!114 &5769898914463615268
+  _dominoTagTRUE:
+  - Number0
+  - Number1
+  delayInSeconds: 8
+  FinishedEra: FinishedEra1
+--- !u!114 &6583558506832154897
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -4980,14 +4965,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   colliding: 0
   isCollisionDetectedRight: 0
-  Scenes:
-  - SceneBeforePuzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
-  _dominoTagTRUE: Number6
-  _dominoTagTrueZero: Number0
-  delayInSeconds: 2
-  EndingScene: EndingScene
+  _dominoTagTRUE:
+  - Number0
+  - Number6
+  delayInSeconds: 8
+  FinishedEra: FinishedEra1
 --- !u!1001 &5769898914467634436
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5069,14 +5053,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9e8723d0d35bbd7498b65c613126dea4, type: 3}
---- !u!1 &1011069868371834034 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 6780950777724021174, guid: 9e8723d0d35bbd7498b65c613126dea4, type: 3}
-  m_PrefabInstance: {fileID: 5769898914467634436}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1011069868271329965 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6780950777690636201, guid: 9e8723d0d35bbd7498b65c613126dea4, type: 3}
+  m_PrefabInstance: {fileID: 5769898914467634436}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &1011069868371834034 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6780950777724021174, guid: 9e8723d0d35bbd7498b65c613126dea4, type: 3}
   m_PrefabInstance: {fileID: 5769898914467634436}
   m_PrefabAsset: {fileID: 0}
 --- !u!4 &1011069869188043680 stripped
@@ -5084,7 +5068,7 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 6780950779152600740, guid: 9e8723d0d35bbd7498b65c613126dea4, type: 3}
   m_PrefabInstance: {fileID: 5769898914467634436}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &5769898915767770390
+--- !u!114 &2374971780024616642
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -5098,15 +5082,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   colliding: 0
   isCollisionDetectedRight: 0
-  Scenes:
-  - SceneBeforePuzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
-  _dominoTagTRUE: Number5
-  _dominoTagTrueZero: Number0
-  delayInSeconds: 2
-  EndingScene: EndingScene
---- !u!114 &5769898914518785565
+  _dominoTagTRUE:
+  - Number0
+  - Number5
+  delayInSeconds: 8
+  FinishedEra: FinishedEra1
+--- !u!114 &7616435557988612994
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -5120,14 +5103,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   colliding: 0
   isCollisionDetectedRight: 0
-  Scenes:
-  - SceneBeforePuzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
-  _dominoTagTRUE: Number4
-  _dominoTagTrueZero: Number0
-  delayInSeconds: 2
-  EndingScene: EndingScene
+  _dominoTagTRUE:
+  - Number0
+  - Number4
+  delayInSeconds: 8
+  FinishedEra: FinishedEra1
 --- !u!1001 &5769898914522640077
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5218,17 +5200,17 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 3689728853349233611, guid: a191184ca7a20544dabefc1210808526, type: 3}
   m_PrefabInstance: {fileID: 5769898914522640077}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &7144468956909521689 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 3689728853450515924, guid: a191184ca7a20544dabefc1210808526, type: 3}
-  m_PrefabInstance: {fileID: 5769898914522640077}
-  m_PrefabAsset: {fileID: 0}
 --- !u!4 &7144468955946678804 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3689728851950785753, guid: a191184ca7a20544dabefc1210808526, type: 3}
   m_PrefabInstance: {fileID: 5769898914522640077}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &5769898914522640079
+--- !u!1 &7144468956909521689 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3689728853450515924, guid: a191184ca7a20544dabefc1210808526, type: 3}
+  m_PrefabInstance: {fileID: 5769898914522640077}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &4711632924112817467
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -5242,15 +5224,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   colliding: 0
   isCollisionDetectedRight: 0
-  Scenes:
-  - SceneBeforePuzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
-  _dominoTagTRUE: Number6
-  _dominoTagTrueZero: Number0
-  delayInSeconds: 2
-  EndingScene: EndingScene
---- !u!114 &5769898915298897030
+  _dominoTagTRUE:
+  - Number0
+  - Number6
+  delayInSeconds: 8
+  FinishedEra: FinishedEra1
+--- !u!114 &3995269463752229276
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -5264,14 +5245,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   colliding: 0
   isCollisionDetectedRight: 0
-  Scenes:
-  - SceneBeforePuzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
-  _dominoTagTRUE: Number5
-  _dominoTagTrueZero: Number0
-  delayInSeconds: 2
-  EndingScene: EndingScene
+  _dominoTagTRUE:
+  - Number0
+  - Number5
+  delayInSeconds: 8
+  FinishedEra: FinishedEra1
 --- !u!1001 &5769898914574503555
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5353,9 +5333,9 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e46702637089262458f69baf5274fa8d, type: 3}
---- !u!1 &7775049305890672787 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 4320159685679439376, guid: e46702637089262458f69baf5274fa8d, type: 3}
+--- !u!4 &7775049304529991553 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4320159684817877250, guid: e46702637089262458f69baf5274fa8d, type: 3}
   m_PrefabInstance: {fileID: 5769898914574503555}
   m_PrefabAsset: {fileID: 0}
 --- !u!1 &7775049305991956108 stripped
@@ -5363,12 +5343,12 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 4320159685512284175, guid: e46702637089262458f69baf5274fa8d, type: 3}
   m_PrefabInstance: {fileID: 5769898914574503555}
   m_PrefabAsset: {fileID: 0}
---- !u!4 &7775049304529991553 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 4320159684817877250, guid: e46702637089262458f69baf5274fa8d, type: 3}
+--- !u!1 &7775049305890672787 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4320159685679439376, guid: e46702637089262458f69baf5274fa8d, type: 3}
   m_PrefabInstance: {fileID: 5769898914574503555}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &5769898915597301534
+--- !u!114 &7451314888396559018
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -5382,15 +5362,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   colliding: 0
   isCollisionDetectedRight: 0
-  Scenes:
-  - SceneBeforePuzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
-  _dominoTagTRUE: Number2
-  _dominoTagTrueZero: Number0
-  delayInSeconds: 2
-  EndingScene: EndingScene
---- !u!114 &5769898915877175683
+  _dominoTagTRUE:
+  - Number0
+  - Number2
+  delayInSeconds: 8
+  FinishedEra: FinishedEra1
+--- !u!114 &6325679736341815879
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -5399,17 +5378,23 @@ MonoBehaviour:
   m_GameObject: {fileID: 7775049305991956108}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 83ba8948e00d9e644a0d15aad533b8f4, type: 3}
+  m_Script: {fileID: 11500000, guid: 3cb2caff77f12a4479ecbf025df4ce8f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   colliding: 0
   isCollisionDetectedRight: 0
-  Scenes:
-  - SceneBeforePuzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
-  delayInSeconds: 2
-  EndingScene: EndingScene
+  _dominoTagTRUE:
+  - Number0
+  - Number1
+  - Number2
+  - Number3
+  - Number4
+  - Number5
+  - Number6
+  delayInSeconds: 8
+  FinishedEra: FinishedEra1
 --- !u!1001 &5769898914604449155
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5495,11 +5480,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b5c20e465c325134892290142605f416, type: 3}
---- !u!4 &5396107928766593482 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 1941086539432182857, guid: b5c20e465c325134892290142605f416, type: 3}
-  m_PrefabInstance: {fileID: 5769898914604449155}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &5396107927841382104 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1941086538042401627, guid: b5c20e465c325134892290142605f416, type: 3}
@@ -5510,7 +5490,12 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 1941086537940858180, guid: b5c20e465c325134892290142605f416, type: 3}
   m_PrefabInstance: {fileID: 5769898914604449155}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &5769898916141181127
+--- !u!4 &5396107928766593482 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1941086539432182857, guid: b5c20e465c325134892290142605f416, type: 3}
+  m_PrefabInstance: {fileID: 5769898914604449155}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &5585698705172690558
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -5524,15 +5509,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   colliding: 0
   isCollisionDetectedRight: 0
-  Scenes:
-  - SceneBeforePuzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
-  _dominoTagTRUE: Number4
-  _dominoTagTrueZero: Number0
-  delayInSeconds: 2
-  EndingScene: EndingScene
---- !u!114 &5769898914604449181
+  _dominoTagTRUE:
+  - Number0
+  - Number4
+  delayInSeconds: 8
+  FinishedEra: FinishedEra1
+--- !u!114 &8203051651137663396
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -5546,14 +5530,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   colliding: 0
   isCollisionDetectedRight: 0
-  Scenes:
-  - SceneBeforePuzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
-  _dominoTagTRUE: Number6
-  _dominoTagTrueZero: Number0
-  delayInSeconds: 2
-  EndingScene: EndingScene
+  _dominoTagTRUE:
+  - Number0
+  - Number6
+  delayInSeconds: 8
+  FinishedEra: FinishedEra1
 --- !u!1001 &5769898914623013232
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5639,14 +5622,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b9809075b7d626a48bbaa139708cdcc0, type: 3}
---- !u!1 &6344655812727691278 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 585031062112180606, guid: b9809075b7d626a48bbaa139708cdcc0, type: 3}
-  m_PrefabInstance: {fileID: 5769898914623013232}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &6344655812896411153 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 585031061877722977, guid: b9809075b7d626a48bbaa139708cdcc0, type: 3}
+  m_PrefabInstance: {fileID: 5769898914623013232}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &6344655812727691278 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 585031062112180606, guid: b9809075b7d626a48bbaa139708cdcc0, type: 3}
   m_PrefabInstance: {fileID: 5769898914623013232}
   m_PrefabAsset: {fileID: 0}
 --- !u!4 &6344655814085246748 stripped
@@ -5654,7 +5637,7 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 585031062798646892, guid: b9809075b7d626a48bbaa139708cdcc0, type: 3}
   m_PrefabInstance: {fileID: 5769898914623013232}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &5769898914623013234
+--- !u!114 &6417865967176839275
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -5668,15 +5651,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   colliding: 0
   isCollisionDetectedRight: 0
-  Scenes:
-  - SceneBeforePuzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
-  _dominoTagTRUE: Number6
-  _dominoTagTrueZero: Number0
-  delayInSeconds: 2
-  EndingScene: EndingScene
---- !u!114 &5769898915839415957
+  _dominoTagTRUE:
+  - Number0
+  - Number6
+  delayInSeconds: 8
+  FinishedEra: FinishedEra1
+--- !u!114 &5520828778838916523
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -5690,14 +5672,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   colliding: 0
   isCollisionDetectedRight: 0
-  Scenes:
-  - SceneBeforePuzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
-  _dominoTagTRUE: Number4
-  _dominoTagTrueZero: Number0
-  delayInSeconds: 2
-  EndingScene: EndingScene
+  _dominoTagTRUE:
+  - Number0
+  - Number4
+  delayInSeconds: 8
+  FinishedEra: FinishedEra1
 --- !u!1001 &5769898914646130012
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5794,7 +5775,7 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 2287847068641738585, guid: c814eb7fd832c7e4aaae58d7c723224a, type: 3}
   m_PrefabInstance: {fileID: 5769898914646130012}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &5769898915093812348
+--- !u!114 &5743158721134351970
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -5808,15 +5789,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   colliding: 0
   isCollisionDetectedRight: 0
-  Scenes:
-  - SceneBeforePuzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
-  _dominoTagTRUE: Number3
-  _dominoTagTrueZero: Number0
-  delayInSeconds: 2
-  EndingScene: EndingScene
---- !u!114 &5769898915803053832
+  _dominoTagTRUE:
+  - Number0
+  - Number3
+  delayInSeconds: 8
+  FinishedEra: FinishedEra1
+--- !u!114 &7635609472174555823
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -5830,14 +5810,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   colliding: 0
   isCollisionDetectedRight: 0
-  Scenes:
-  - SceneBeforePuzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
-  _dominoTagTRUE: Number1
-  _dominoTagTrueZero: Number0
-  delayInSeconds: 2
-  EndingScene: EndingScene
+  _dominoTagTRUE:
+  - Number0
+  - Number1
+  delayInSeconds: 8
+  FinishedEra: FinishedEra1
 --- !u!1001 &5769898914649339775
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5923,11 +5902,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5f66db3201d8b0f4a9efffa9290bc90b, type: 3}
---- !u!1 &6713836783869582747 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 954370070760041188, guid: 5f66db3201d8b0f4a9efffa9290bc90b, type: 3}
-  m_PrefabInstance: {fileID: 5769898914649339775}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &6713836783902247812 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 954370070658956539, guid: 5f66db3201d8b0f4a9efffa9290bc90b, type: 3}
@@ -5938,7 +5912,12 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 954370069427654134, guid: 5f66db3201d8b0f4a9efffa9290bc90b, type: 3}
   m_PrefabInstance: {fileID: 5769898914649339775}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &5769898915770529949
+--- !u!1 &6713836783869582747 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 954370070760041188, guid: 5f66db3201d8b0f4a9efffa9290bc90b, type: 3}
+  m_PrefabInstance: {fileID: 5769898914649339775}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &2940202988655930189
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -5952,15 +5931,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   colliding: 0
   isCollisionDetectedRight: 0
-  Scenes:
-  - SceneBeforePuzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
-  _dominoTagTRUE: Number5
-  _dominoTagTrueZero: Number0
-  delayInSeconds: 2
-  EndingScene: EndingScene
---- !u!114 &5769898914649339769
+  _dominoTagTRUE:
+  - Number0
+  - Number5
+  delayInSeconds: 8
+  FinishedEra: FinishedEra1
+--- !u!114 &2672783442174135416
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -5974,14 +5952,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   colliding: 0
   isCollisionDetectedRight: 0
-  Scenes:
-  - SceneBeforePuzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
-  _dominoTagTRUE: Number6
-  _dominoTagTrueZero: Number0
-  delayInSeconds: 2
-  EndingScene: EndingScene
+  _dominoTagTRUE:
+  - Number0
+  - Number6
+  delayInSeconds: 8
+  FinishedEra: FinishedEra1
 --- !u!1001 &5769898914699532623
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6078,7 +6055,7 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4025892724081999288, guid: 7bcc800b5282d8a43b298b166abbe371, type: 3}
   m_PrefabInstance: {fileID: 5769898914699532623}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &5769898915937623061
+--- !u!114 &4969949396590583916
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -6092,15 +6069,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   colliding: 0
   isCollisionDetectedRight: 0
-  Scenes:
-  - SceneBeforePuzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
-  _dominoTagTRUE: Number2
-  _dominoTagTrueZero: Number0
-  delayInSeconds: 2
-  EndingScene: EndingScene
---- !u!114 &5769898915404461276
+  _dominoTagTRUE:
+  - Number0
+  - Number2
+  delayInSeconds: 8
+  FinishedEra: FinishedEra1
+--- !u!114 &110426802708419132
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -6114,14 +6090,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   colliding: 0
   isCollisionDetectedRight: 0
-  Scenes:
-  - SceneBeforePuzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
-  _dominoTagTRUE: Number3
-  _dominoTagTrueZero: Number0
-  delayInSeconds: 2
-  EndingScene: EndingScene
+  _dominoTagTRUE:
+  - Number0
+  - Number3
+  delayInSeconds: 8
+  FinishedEra: FinishedEra1
 --- !u!1001 &5769898914826359708
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6212,17 +6187,17 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4710451051727588337, guid: 47a9f039a05bf8144b3cc7420923194d, type: 3}
   m_PrefabInstance: {fileID: 5769898914826359708}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &1246422015855929696 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 4710451051079318268, guid: 47a9f039a05bf8144b3cc7420923194d, type: 3}
-  m_PrefabInstance: {fileID: 5769898914826359708}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1246422015890374527 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4710451050845056227, guid: 47a9f039a05bf8144b3cc7420923194d, type: 3}
   m_PrefabInstance: {fileID: 5769898914826359708}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &5769898914826359710
+--- !u!1 &1246422015855929696 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4710451051079318268, guid: 47a9f039a05bf8144b3cc7420923194d, type: 3}
+  m_PrefabInstance: {fileID: 5769898914826359708}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &6197921927116620275
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -6236,15 +6211,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   colliding: 0
   isCollisionDetectedRight: 0
-  Scenes:
-  - SceneBeforePuzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
-  _dominoTagTRUE: Number6
-  _dominoTagTrueZero: Number0
-  delayInSeconds: 2
-  EndingScene: EndingScene
---- !u!114 &5769898914806263358
+  _dominoTagTRUE:
+  - Number0
+  - Number6
+  delayInSeconds: 8
+  FinishedEra: FinishedEra1
+--- !u!114 &2438222380048642507
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -6258,14 +6232,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   colliding: 0
   isCollisionDetectedRight: 0
-  Scenes:
-  - SceneBeforePuzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
-  _dominoTagTRUE: Number2
-  _dominoTagTrueZero: Number0
-  delayInSeconds: 2
-  EndingScene: EndingScene
+  _dominoTagTRUE:
+  - Number0
+  - Number2
+  delayInSeconds: 8
+  FinishedEra: FinishedEra1
 --- !u!1001 &5769898914839626659
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6384,17 +6357,12 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 2511969314072574234, guid: 3305225106d06374db5d493ab2d065b9, type: 3}
   m_PrefabInstance: {fileID: 5769898914839626659}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &8272693284210027686 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 2511969313971547909, guid: 3305225106d06374db5d493ab2d065b9, type: 3}
-  m_PrefabInstance: {fileID: 5769898914839626659}
-  m_PrefabAsset: {fileID: 0}
 --- !u!4 &8272693284870888875 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 2511969314887736840, guid: 3305225106d06374db5d493ab2d065b9, type: 3}
   m_PrefabInstance: {fileID: 5769898914839626659}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &5769898915658263364
+--- !u!114 &4073479273939735683
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -6408,34 +6376,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   colliding: 0
   isCollisionDetectedRight: 0
-  Scenes:
-  - SceneBeforePuzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
-  _dominoTagTRUE: Number1
-  _dominoTagTrueZero: Number0
-  delayInSeconds: 2
-  EndingScene: EndingScene
---- !u!114 &5769898915045339440
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8272693284210027686}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 83ba8948e00d9e644a0d15aad533b8f4, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  colliding: 0
-  isCollisionDetectedRight: 0
-  Scenes:
-  - SceneBeforePuzzle_1_A
-  areaCenter: {x: 0, y: 0, z: 0}
-  areaSize: {x: 45.28, y: 150.26, z: 0}
-  delayInSeconds: 2
-  EndingScene: EndingScene
+  _dominoTagTRUE:
+  - Number0
+  - Number1
+  delayInSeconds: 8
+  FinishedEra: FinishedEra1
 --- !u!1001 &5769898914850377155
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6532,7 +6479,7 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 6280326326286708647, guid: 262509e0425915c4198b20dadf884ce5, type: 3}
   m_PrefabInstance: {fileID: 5769898914850377155}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &5769898915038037842
+--- !u!114 &7008157156103046470
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -6546,15 +6493,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   colliding: 0
   isCollisionDetectedRight: 0
-  Scenes:
-  - SceneBeforePuzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
-  _dominoTagTRUE: Number4
-  _dominoTagTrueZero: Number0
-  delayInSeconds: 2
-  EndingScene: EndingScene
---- !u!114 &5769898915589758811
+  _dominoTagTRUE:
+  - Number0
+  - Number4
+  delayInSeconds: 8
+  FinishedEra: FinishedEra1
+--- !u!114 &8546025998609488691
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -6568,14 +6514,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   colliding: 0
   isCollisionDetectedRight: 0
-  Scenes:
-  - SceneBeforePuzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
-  _dominoTagTRUE: Number2
-  _dominoTagTrueZero: Number0
-  delayInSeconds: 2
-  EndingScene: EndingScene
+  _dominoTagTRUE:
+  - Number0
+  - Number2
+  delayInSeconds: 8
+  FinishedEra: FinishedEra1
 --- !u!1001 &5769898914850521898
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6657,11 +6602,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 896e6cc137b9e3a479681c57e05914cf, type: 3}
---- !u!4 &5966271404970935728 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 206805240594220698, guid: 896e6cc137b9e3a479681c57e05914cf, type: 3}
-  m_PrefabInstance: {fileID: 5769898914850521898}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &5966271404079293090 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 206805239668695432, guid: 896e6cc137b9e3a479681c57e05914cf, type: 3}
@@ -6672,7 +6612,12 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 206805239904008087, guid: 896e6cc137b9e3a479681c57e05914cf, type: 3}
   m_PrefabInstance: {fileID: 5769898914850521898}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &5769898914258350926
+--- !u!4 &5966271404970935728 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 206805240594220698, guid: 896e6cc137b9e3a479681c57e05914cf, type: 3}
+  m_PrefabInstance: {fileID: 5769898914850521898}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &712449166264052139
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -6686,15 +6631,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   colliding: 0
   isCollisionDetectedRight: 0
-  Scenes:
-  - SceneBeforePuzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
-  _dominoTagTRUE: Number3
-  _dominoTagTrueZero: Number0
-  delayInSeconds: 2
-  EndingScene: EndingScene
---- !u!114 &5769898915305761688
+  _dominoTagTRUE:
+  - Number0
+  - Number3
+  delayInSeconds: 8
+  FinishedEra: FinishedEra1
+--- !u!114 &5075765253032849909
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -6708,14 +6652,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   colliding: 0
   isCollisionDetectedRight: 0
-  Scenes:
-  - SceneBeforePuzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
-  _dominoTagTRUE: Number5
-  _dominoTagTrueZero: Number0
-  delayInSeconds: 2
-  EndingScene: EndingScene
+  _dominoTagTRUE:
+  - Number0
+  - Number5
+  delayInSeconds: 8
+  FinishedEra: FinishedEra1
 --- !u!1001 &5769898914877457681
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6812,7 +6755,7 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 6715549259250247077, guid: 2bbe2325db3f0e141a2a90bc51e9cbb5, type: 3}
   m_PrefabInstance: {fileID: 5769898914877457681}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &5769898915687977485
+--- !u!114 &4919029606156653040
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -6821,18 +6764,24 @@ MonoBehaviour:
   m_GameObject: {fileID: 945931873529713081}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 83ba8948e00d9e644a0d15aad533b8f4, type: 3}
+  m_Script: {fileID: 11500000, guid: 3cb2caff77f12a4479ecbf025df4ce8f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   colliding: 0
   isCollisionDetectedRight: 0
-  Scenes:
-  - SceneBeforePuzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
-  delayInSeconds: 2
-  EndingScene: EndingScene
---- !u!114 &5769898915841048415
+  _dominoTagTRUE:
+  - Number0
+  - Number1
+  - Number2
+  - Number3
+  - Number4
+  - Number5
+  - Number6
+  delayInSeconds: 8
+  FinishedEra: FinishedEra1
+--- !u!114 &307073295579369108
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -6846,14 +6795,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   colliding: 0
   isCollisionDetectedRight: 0
-  Scenes:
-  - SceneBeforePuzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
-  _dominoTagTRUE: Number3
-  _dominoTagTrueZero: Number0
-  delayInSeconds: 2
-  EndingScene: EndingScene
+  _dominoTagTRUE:
+  - Number0
+  - Number3
+  delayInSeconds: 8
+  FinishedEra: FinishedEra1
 --- !u!1001 &5769898914886251038
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6935,14 +6883,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: de7afbfccc83c33439466187130b387e, type: 3}
---- !u!1 &2754716617762697842 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 8514183004387049580, guid: de7afbfccc83c33439466187130b387e, type: 3}
-  m_PrefabInstance: {fileID: 5769898914886251038}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &2754716617929843821 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8514183004353336947, guid: de7afbfccc83c33439466187130b387e, type: 3}
+  m_PrefabInstance: {fileID: 5769898914886251038}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &2754716617762697842 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8514183004387049580, guid: de7afbfccc83c33439466187130b387e, type: 3}
   m_PrefabInstance: {fileID: 5769898914886251038}
   m_PrefabAsset: {fileID: 0}
 --- !u!4 &2754716618624259424 stripped
@@ -6950,7 +6898,7 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 8514183005277923198, guid: de7afbfccc83c33439466187130b387e, type: 3}
   m_PrefabInstance: {fileID: 5769898914886251038}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &5769898915791690248
+--- !u!114 &4827255849338516639
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -6964,15 +6912,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   colliding: 0
   isCollisionDetectedRight: 0
-  Scenes:
-  - SceneBeforePuzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
-  _dominoTagTRUE: Number3
-  _dominoTagTrueZero: Number0
-  delayInSeconds: 2
-  EndingScene: EndingScene
---- !u!114 &5769898914472787856
+  _dominoTagTRUE:
+  - Number0
+  - Number3
+  delayInSeconds: 8
+  FinishedEra: FinishedEra1
+--- !u!114 &4504250602896964628
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -6986,14 +6933,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   colliding: 0
   isCollisionDetectedRight: 0
-  Scenes:
-  - SceneBeforePuzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
-  _dominoTagTRUE: Number3
-  _dominoTagTrueZero: Number0
-  delayInSeconds: 2
-  EndingScene: EndingScene
+  _dominoTagTRUE:
+  - Number0
+  - Number3
+  delayInSeconds: 8
+  FinishedEra: FinishedEra1
 --- !u!1001 &5769898914972806897
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7132,58 +7078,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 3402386808760681371, guid: 4c7fc33efe902cd489938bb375a60897, type: 3}
   m_PrefabInstance: {fileID: 5769898914972806897}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &9161861752065776743 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 3402386810255700630, guid: 4c7fc33efe902cd489938bb375a60897, type: 3}
-  m_PrefabInstance: {fileID: 5769898914972806897}
-  m_PrefabAsset: {fileID: 0}
---- !u!1 &9161861751897115256 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 3402386810088547465, guid: 4c7fc33efe902cd489938bb375a60897, type: 3}
-  m_PrefabInstance: {fileID: 5769898914972806897}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &5769898914292722952
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 9161861751897115256}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 83ba8948e00d9e644a0d15aad533b8f4, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  colliding: 0
-  isCollisionDetectedRight: 0
-  Scenes:
-  - SceneBeforePuzzle_1_A
-  areaCenter: {x: 0, y: 0, z: 0}
-  areaSize: {x: 45.28, y: 150.26, z: 0}
-  delayInSeconds: 2
-  EndingScene: EndingScene
---- !u!114 &5769898915788138464
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 9161861752065776743}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3cb2caff77f12a4479ecbf025df4ce8f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  colliding: 0
-  isCollisionDetectedRight: 0
-  Scenes:
-  - SceneBeforePuzzle_1_A
-  areaCenter: {x: 0, y: 0, z: 0}
-  areaSize: {x: 45.28, y: 150.26, z: 0}
-  _dominoTagTRUE: Number4
-  _dominoTagTrueZero: Number0
-  delayInSeconds: 2
-  EndingScene: EndingScene
 --- !u!1001 &5769898914996245622
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7294,17 +7188,17 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 2759881790586237682, guid: 5d6b0476f561c5042bae758cdae0101e, type: 3}
   m_PrefabInstance: {fileID: 5769898914996245622}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &8529779913723211931 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 2759881790687061229, guid: 5d6b0476f561c5042bae758cdae0101e, type: 3}
-  m_PrefabInstance: {fileID: 5769898914996245622}
-  m_PrefabAsset: {fileID: 0}
 --- !u!4 &8529779914916741526 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 2759881791335339488, guid: 5d6b0476f561c5042bae758cdae0101e, type: 3}
   m_PrefabInstance: {fileID: 5769898914996245622}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &5769898915034260806
+--- !u!1 &8529779913723211931 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2759881790687061229, guid: 5d6b0476f561c5042bae758cdae0101e, type: 3}
+  m_PrefabInstance: {fileID: 5769898914996245622}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &5757632657970601899
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -7313,18 +7207,24 @@ MonoBehaviour:
   m_GameObject: {fileID: 8529779913689228932}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 83ba8948e00d9e644a0d15aad533b8f4, type: 3}
+  m_Script: {fileID: 11500000, guid: 3cb2caff77f12a4479ecbf025df4ce8f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   colliding: 0
   isCollisionDetectedRight: 0
-  Scenes:
-  - SceneBeforePuzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
-  delayInSeconds: 2
-  EndingScene: EndingScene
---- !u!114 &5769898914421565439
+  _dominoTagTRUE:
+  - Number0
+  - Number1
+  - Number2
+  - Number3
+  - Number4
+  - Number5
+  - Number6
+  delayInSeconds: 8
+  FinishedEra: FinishedEra1
+--- !u!114 &4971888015781788851
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -7338,14 +7238,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   colliding: 0
   isCollisionDetectedRight: 0
-  Scenes:
-  - SceneBeforePuzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
-  _dominoTagTRUE: Number5
-  _dominoTagTrueZero: Number0
-  delayInSeconds: 2
-  EndingScene: EndingScene
+  _dominoTagTRUE:
+  - Number0
+  - Number5
+  delayInSeconds: 8
+  FinishedEra: FinishedEra1
 --- !u!1001 &5769898915049573219
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7427,11 +7326,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ed9e022a1651cba43a8b7c56d984a758, type: 3}
---- !u!1 &5087396517998578068 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 1623789918929830647, guid: ed9e022a1651cba43a8b7c56d984a758, type: 3}
-  m_PrefabInstance: {fileID: 5769898915049573219}
-  m_PrefabAsset: {fileID: 0}
 --- !u!4 &5087396517106937478 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 1623789917606176229, guid: ed9e022a1651cba43a8b7c56d984a758, type: 3}
@@ -7442,7 +7336,12 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 1623789918828549352, guid: ed9e022a1651cba43a8b7c56d984a758, type: 3}
   m_PrefabInstance: {fileID: 5769898915049573219}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &5769898915636833680
+--- !u!1 &5087396517998578068 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1623789918929830647, guid: ed9e022a1651cba43a8b7c56d984a758, type: 3}
+  m_PrefabInstance: {fileID: 5769898915049573219}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &4518785842986091961
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -7456,15 +7355,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   colliding: 0
   isCollisionDetectedRight: 0
-  Scenes:
-  - SceneBeforePuzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
-  _dominoTagTRUE: Number1
-  _dominoTagTrueZero: Number0
-  delayInSeconds: 2
-  EndingScene: EndingScene
---- !u!114 &5769898915253979645
+  _dominoTagTRUE:
+  - Number0
+  - Number1
+  delayInSeconds: 8
+  FinishedEra: FinishedEra1
+--- !u!114 &2939277615172093072
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -7478,14 +7376,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   colliding: 0
   isCollisionDetectedRight: 0
-  Scenes:
-  - SceneBeforePuzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
-  _dominoTagTRUE: Number2
-  _dominoTagTrueZero: Number0
-  delayInSeconds: 2
-  EndingScene: EndingScene
+  _dominoTagTRUE:
+  - Number0
+  - Number2
+  delayInSeconds: 8
+  FinishedEra: FinishedEra1
 --- !u!1001 &5769898915052671376
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7567,6 +7464,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bca898b8328323c4db0016f863c19308, type: 3}
+--- !u!1 &5560782832867136042 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2105735157259600826, guid: bca898b8328323c4db0016f863c19308, type: 3}
+  m_PrefabInstance: {fileID: 5769898915052671376}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &5560782833825800999 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 2105735158725784247, guid: bca898b8328323c4db0016f863c19308, type: 3}
@@ -7577,12 +7479,7 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 2105735157293782437, guid: bca898b8328323c4db0016f863c19308, type: 3}
   m_PrefabInstance: {fileID: 5769898915052671376}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &5560782832867136042 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 2105735157259600826, guid: bca898b8328323c4db0016f863c19308, type: 3}
-  m_PrefabInstance: {fileID: 5769898915052671376}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &5769898916280416288
+--- !u!114 &6394425069104506746
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -7596,15 +7493,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   colliding: 0
   isCollisionDetectedRight: 0
-  Scenes:
-  - SceneBeforePuzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
-  _dominoTagTRUE: Number5
-  _dominoTagTrueZero: Number0
-  delayInSeconds: 2
-  EndingScene: EndingScene
---- !u!114 &5769898916129681719
+  _dominoTagTRUE:
+  - Number0
+  - Number5
+  delayInSeconds: 8
+  FinishedEra: FinishedEra1
+--- !u!114 &8142692909546923133
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -7618,14 +7514,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   colliding: 0
   isCollisionDetectedRight: 0
-  Scenes:
-  - SceneBeforePuzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
-  _dominoTagTRUE: Number5
-  _dominoTagTrueZero: Number0
-  delayInSeconds: 2
-  EndingScene: EndingScene
+  _dominoTagTRUE:
+  - Number0
+  - Number5
+  delayInSeconds: 8
+  FinishedEra: FinishedEra1
 --- !u!1001 &5769898915063190697
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7726,7 +7621,7 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 38565420966840127, guid: b96eaea7ee7c2464e92b8cc6af2763ba, type: 3}
   m_PrefabInstance: {fileID: 5769898915063190697}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &5769898915063190699
+--- !u!114 &3427644937657194931
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -7740,15 +7635,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   colliding: 0
   isCollisionDetectedRight: 0
-  Scenes:
-  - SceneBeforePuzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
-  _dominoTagTRUE: Number6
-  _dominoTagTrueZero: Number0
-  delayInSeconds: 2
-  EndingScene: EndingScene
---- !u!114 &5769898915361487343
+  _dominoTagTRUE:
+  - Number0
+  - Number6
+  delayInSeconds: 8
+  FinishedEra: FinishedEra1
+--- !u!114 &5684320211505569968
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -7762,14 +7656,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   colliding: 0
   isCollisionDetectedRight: 0
-  Scenes:
-  - SceneBeforePuzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
-  _dominoTagTRUE: Number3
-  _dominoTagTrueZero: Number0
-  delayInSeconds: 2
-  EndingScene: EndingScene
+  _dominoTagTRUE:
+  - Number0
+  - Number3
+  delayInSeconds: 8
+  FinishedEra: FinishedEra1
 --- !u!1001 &5769898915209307670
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7880,58 +7773,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 7893529457447574285, guid: 76916da0db2eb7542b57298ea4266f8e, type: 3}
   m_PrefabInstance: {fileID: 5769898915209307670}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &4438789215667145750 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 7893529456761547264, guid: 76916da0db2eb7542b57298ea4266f8e, type: 3}
-  m_PrefabInstance: {fileID: 5769898915209307670}
-  m_PrefabAsset: {fileID: 0}
---- !u!1 &4438789215901342217 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 7893529456526244895, guid: 76916da0db2eb7542b57298ea4266f8e, type: 3}
-  m_PrefabInstance: {fileID: 5769898915209307670}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &5769898914416323071
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4438789215667145750}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3cb2caff77f12a4479ecbf025df4ce8f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  colliding: 0
-  isCollisionDetectedRight: 0
-  Scenes:
-  - SceneBeforePuzzle_1_A
-  areaCenter: {x: 0, y: 0, z: 0}
-  areaSize: {x: 45.28, y: 150.26, z: 0}
-  _dominoTagTRUE: Number3
-  _dominoTagTrueZero: Number0
-  delayInSeconds: 2
-  EndingScene: EndingScene
---- !u!114 &5769898914431654791
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4438789215901342217}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 83ba8948e00d9e644a0d15aad533b8f4, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  colliding: 0
-  isCollisionDetectedRight: 0
-  Scenes:
-  - SceneBeforePuzzle_1_A
-  areaCenter: {x: 0, y: 0, z: 0}
-  areaSize: {x: 45.28, y: 150.26, z: 0}
-  delayInSeconds: 2
-  EndingScene: EndingScene
 --- !u!1001 &5769898915211672809
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -8013,9 +7854,9 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cbd6e9a59281061408a1f5772152fbee, type: 3}
---- !u!1 &4609137653480968340 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 8062637646151036029, guid: cbd6e9a59281061408a1f5772152fbee, type: 3}
+--- !u!4 &4609137654812309382 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8062637646979828591, guid: cbd6e9a59281061408a1f5772152fbee, type: 3}
   m_PrefabInstance: {fileID: 5769898915211672809}
   m_PrefabAsset: {fileID: 0}
 --- !u!1 &4609137653312571019 stripped
@@ -8023,12 +7864,12 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 8062637646318975586, guid: cbd6e9a59281061408a1f5772152fbee, type: 3}
   m_PrefabInstance: {fileID: 5769898915211672809}
   m_PrefabAsset: {fileID: 0}
---- !u!4 &4609137654812309382 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 8062637646979828591, guid: cbd6e9a59281061408a1f5772152fbee, type: 3}
+--- !u!1 &4609137653480968340 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8062637646151036029, guid: cbd6e9a59281061408a1f5772152fbee, type: 3}
   m_PrefabInstance: {fileID: 5769898915211672809}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &5769898914247024609
+--- !u!114 &6733696204939450649
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -8042,15 +7883,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   colliding: 0
   isCollisionDetectedRight: 0
-  Scenes:
-  - SceneBeforePuzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
-  _dominoTagTRUE: Number2
-  _dominoTagTrueZero: Number0
-  delayInSeconds: 2
-  EndingScene: EndingScene
---- !u!114 &5769898915072351684
+  _dominoTagTRUE:
+  - Number0
+  - Number2
+  delayInSeconds: 8
+  FinishedEra: FinishedEra1
+--- !u!114 &9080290653655054436
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -8064,14 +7904,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   colliding: 0
   isCollisionDetectedRight: 0
-  Scenes:
-  - SceneBeforePuzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
-  _dominoTagTRUE: Number1
-  _dominoTagTrueZero: Number0
-  delayInSeconds: 2
-  EndingScene: EndingScene
+  _dominoTagTRUE:
+  - Number0
+  - Number1
+  delayInSeconds: 8
+  FinishedEra: FinishedEra1
 --- !u!1001 &5769898915233658298
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -8176,7 +8015,7 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 65196945770027044, guid: d3eaf9ede90aae841a50420b8414652e, type: 3}
   m_PrefabInstance: {fileID: 5769898915233658298}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &5769898915233658293
+--- !u!114 &158598133806197264
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -8190,15 +8029,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   colliding: 0
   isCollisionDetectedRight: 0
-  Scenes:
-  - SceneBeforePuzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
-  _dominoTagTRUE: Number6
-  _dominoTagTrueZero: Number0
-  delayInSeconds: 2
-  EndingScene: EndingScene
---- !u!114 &5769898915233658294
+  _dominoTagTRUE:
+  - Number0
+  - Number6
+  delayInSeconds: 8
+  FinishedEra: FinishedEra1
+--- !u!114 &3589454177832409408
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -8212,14 +8050,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   colliding: 0
   isCollisionDetectedRight: 0
-  Scenes:
-  - SceneBeforePuzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
-  _dominoTagTRUE: Number6
-  _dominoTagTrueZero: Number0
-  delayInSeconds: 2
-  EndingScene: EndingScene
+  _dominoTagTRUE:
+  - Number0
+  - Number6
+  delayInSeconds: 8
+  FinishedEra: FinishedEra1
 --- !u!1001 &5769898915257970837
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -8306,17 +8143,17 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 6240572118189582564, guid: a587c905fbe488f4881cdd8588c7ec8b, type: 3}
   m_PrefabInstance: {fileID: 5769898915257970837}
   m_PrefabAsset: {fileID: 0}
---- !u!4 &470691277551435619 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 6240572119542861814, guid: a587c905fbe488f4881cdd8588c7ec8b, type: 3}
-  m_PrefabInstance: {fileID: 5769898915257970837}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &470691278203899502 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6240572118089285371, guid: a587c905fbe488f4881cdd8588c7ec8b, type: 3}
   m_PrefabInstance: {fileID: 5769898915257970837}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &5769898915895206693
+--- !u!4 &470691277551435619 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6240572119542861814, guid: a587c905fbe488f4881cdd8588c7ec8b, type: 3}
+  m_PrefabInstance: {fileID: 5769898915257970837}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1817285690976335658
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -8330,15 +8167,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   colliding: 0
   isCollisionDetectedRight: 0
-  Scenes:
-  - SceneBeforePuzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
-  _dominoTagTRUE: Number4
-  _dominoTagTrueZero: Number0
-  delayInSeconds: 2
-  EndingScene: EndingScene
---- !u!114 &5769898915884248346
+  _dominoTagTRUE:
+  - Number0
+  - Number4
+  delayInSeconds: 8
+  FinishedEra: FinishedEra1
+--- !u!114 &1027092234485953429
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -8352,14 +8188,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   colliding: 0
   isCollisionDetectedRight: 0
-  Scenes:
-  - SceneBeforePuzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
-  _dominoTagTRUE: Number4
-  _dominoTagTrueZero: Number0
-  delayInSeconds: 2
-  EndingScene: EndingScene
+  _dominoTagTRUE:
+  - Number0
+  - Number4
+  delayInSeconds: 8
+  FinishedEra: FinishedEra1
 --- !u!1001 &5769898915466045990
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -8441,9 +8276,9 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 339de54742eb4aa478faeb69096b71c4, type: 3}
---- !u!1 &1280660230275090723 stripped
+--- !u!1 &1280660230309076796 stripped
 GameObject:
-  m_CorrespondingSourceObject: {fileID: 4744293511544152837, guid: 339de54742eb4aa478faeb69096b71c4, type: 3}
+  m_CorrespondingSourceObject: {fileID: 4744293511510701338, guid: 339de54742eb4aa478faeb69096b71c4, type: 3}
   m_PrefabInstance: {fileID: 5769898915466045990}
   m_PrefabAsset: {fileID: 0}
 --- !u!4 &1280660230969945649 stripped
@@ -8451,12 +8286,12 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4744293510284117015, guid: 339de54742eb4aa478faeb69096b71c4, type: 3}
   m_PrefabInstance: {fileID: 5769898915466045990}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &1280660230309076796 stripped
+--- !u!1 &1280660230275090723 stripped
 GameObject:
-  m_CorrespondingSourceObject: {fileID: 4744293511510701338, guid: 339de54742eb4aa478faeb69096b71c4, type: 3}
+  m_CorrespondingSourceObject: {fileID: 4744293511544152837, guid: 339de54742eb4aa478faeb69096b71c4, type: 3}
   m_PrefabInstance: {fileID: 5769898915466045990}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &5769898915810865759
+--- !u!114 &207814399519192991
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -8470,15 +8305,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   colliding: 0
   isCollisionDetectedRight: 0
-  Scenes:
-  - SceneBeforePuzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
-  _dominoTagTRUE: Number4
-  _dominoTagTrueZero: Number0
-  delayInSeconds: 2
-  EndingScene: EndingScene
---- !u!114 &5769898915107234745
+  _dominoTagTRUE:
+  - Number0
+  - Number4
+  delayInSeconds: 8
+  FinishedEra: FinishedEra1
+--- !u!114 &4801545062219758414
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -8492,14 +8326,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   colliding: 0
   isCollisionDetectedRight: 0
-  Scenes:
-  - SceneBeforePuzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
-  _dominoTagTRUE: Number2
-  _dominoTagTrueZero: Number0
-  delayInSeconds: 2
-  EndingScene: EndingScene
+  _dominoTagTRUE:
+  - Number0
+  - Number2
+  delayInSeconds: 8
+  FinishedEra: FinishedEra1
 --- !u!1001 &5769898915521613471
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -8581,14 +8414,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 039336d4d45701f449af5f282efcc282, type: 3}
---- !u!4 &1632654861656675143 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 5096551456837705176, guid: 039336d4d45701f449af5f282efcc282, type: 3}
-  m_PrefabInstance: {fileID: 5769898915521613471}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1632654860698018378 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 5096551457523215573, guid: 039336d4d45701f449af5f282efcc282, type: 3}
+  m_PrefabInstance: {fileID: 5769898915521613471}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &1632654861656675143 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5096551456837705176, guid: 039336d4d45701f449af5f282efcc282, type: 3}
   m_PrefabInstance: {fileID: 5769898915521613471}
   m_PrefabAsset: {fileID: 0}
 --- !u!1 &1632654860798587989 stripped
@@ -8596,7 +8429,7 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 5096551457623456458, guid: 039336d4d45701f449af5f282efcc282, type: 3}
   m_PrefabInstance: {fileID: 5769898915521613471}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &5769898916126867537
+--- !u!114 &1040966699602646810
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -8610,15 +8443,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   colliding: 0
   isCollisionDetectedRight: 0
-  Scenes:
-  - SceneBeforePuzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
-  _dominoTagTRUE: Number5
-  _dominoTagTrueZero: Number0
-  delayInSeconds: 2
-  EndingScene: EndingScene
---- !u!114 &5769898914478676363
+  _dominoTagTRUE:
+  - Number0
+  - Number5
+  delayInSeconds: 8
+  FinishedEra: FinishedEra1
+--- !u!114 &8935993922673878824
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -8632,14 +8464,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   colliding: 0
   isCollisionDetectedRight: 0
-  Scenes:
-  - SceneBeforePuzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
-  _dominoTagTRUE: Number3
-  _dominoTagTrueZero: Number0
-  delayInSeconds: 2
-  EndingScene: EndingScene
+  _dominoTagTRUE:
+  - Number0
+  - Number3
+  delayInSeconds: 8
+  FinishedEra: FinishedEra1
 --- !u!1001 &5769898915647007111
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -8721,14 +8552,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 20502322619363c4794439583cda8548, type: 3}
---- !u!1 &5911719309910756853 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 150986149484127346, guid: 20502322619363c4794439583cda8548, type: 3}
-  m_PrefabInstance: {fileID: 5769898915647007111}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &5911719309943692266 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 150986149250200173, guid: 20502322619363c4794439583cda8548, type: 3}
+  m_PrefabInstance: {fileID: 5769898915647007111}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &5911719309910756853 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 150986149484127346, guid: 20502322619363c4794439583cda8548, type: 3}
   m_PrefabInstance: {fileID: 5769898915647007111}
   m_PrefabAsset: {fileID: 0}
 --- !u!4 &5911719311141432039 stripped
@@ -8736,7 +8567,7 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 150986148065035104, guid: 20502322619363c4794439583cda8548, type: 3}
   m_PrefabInstance: {fileID: 5769898915647007111}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &5769898914374272607
+--- !u!114 &7078117115299907149
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -8750,15 +8581,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   colliding: 0
   isCollisionDetectedRight: 0
-  Scenes:
-  - SceneBeforePuzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
-  _dominoTagTRUE: Number2
-  _dominoTagTrueZero: Number0
-  delayInSeconds: 2
-  EndingScene: EndingScene
---- !u!114 &5769898914270417334
+  _dominoTagTRUE:
+  - Number0
+  - Number2
+  delayInSeconds: 8
+  FinishedEra: FinishedEra1
+--- !u!114 &6602357652579279906
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -8772,14 +8602,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   colliding: 0
   isCollisionDetectedRight: 0
-  Scenes:
-  - SceneBeforePuzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
-  _dominoTagTRUE: Number3
-  _dominoTagTrueZero: Number0
-  delayInSeconds: 2
-  EndingScene: EndingScene
+  _dominoTagTRUE:
+  - Number0
+  - Number3
+  delayInSeconds: 8
+  FinishedEra: FinishedEra1
 --- !u!1001 &5769898915656977326
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -8861,9 +8690,9 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 27c2c32850c2c1641ba57f8e5e822839, type: 3}
---- !u!4 &8006982572864294422 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 4543085582950368696, guid: 27c2c32850c2c1641ba57f8e5e822839, type: 3}
+--- !u!1 &8006982574087208731 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4543085581719090357, guid: 27c2c32850c2c1641ba57f8e5e822839, type: 3}
   m_PrefabInstance: {fileID: 5769898915656977326}
   m_PrefabAsset: {fileID: 0}
 --- !u!1 &8006982574255335684 stripped
@@ -8871,12 +8700,12 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 4543085581619307178, guid: 27c2c32850c2c1641ba57f8e5e822839, type: 3}
   m_PrefabInstance: {fileID: 5769898915656977326}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &8006982574087208731 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 4543085581719090357, guid: 27c2c32850c2c1641ba57f8e5e822839, type: 3}
+--- !u!4 &8006982572864294422 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4543085582950368696, guid: 27c2c32850c2c1641ba57f8e5e822839, type: 3}
   m_PrefabInstance: {fileID: 5769898915656977326}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &5769898914234235128
+--- !u!114 &2754775890411077860
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -8890,15 +8719,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   colliding: 0
   isCollisionDetectedRight: 0
-  Scenes:
-  - SceneBeforePuzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
-  _dominoTagTRUE: Number3
-  _dominoTagTrueZero: Number0
-  delayInSeconds: 2
-  EndingScene: EndingScene
---- !u!114 &5769898914158945484
+  _dominoTagTRUE:
+  - Number0
+  - Number3
+  delayInSeconds: 8
+  FinishedEra: FinishedEra1
+--- !u!114 &8436830167613560489
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -8912,14 +8740,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   colliding: 0
   isCollisionDetectedRight: 0
-  Scenes:
-  - SceneBeforePuzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
-  _dominoTagTRUE: Number4
-  _dominoTagTrueZero: Number0
-  delayInSeconds: 2
-  EndingScene: EndingScene
+  _dominoTagTRUE:
+  - Number0
+  - Number4
+  delayInSeconds: 8
+  FinishedEra: FinishedEra1
 --- !u!1001 &5769898915709874205
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -9001,11 +8828,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 64b4a3bcd838d714897a5776ddc9b99a, type: 3}
---- !u!1 &7069396804046880835 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 3605490554495004766, guid: 64b4a3bcd838d714897a5776ddc9b99a, type: 3}
-  m_PrefabInstance: {fileID: 5769898915709874205}
-  m_PrefabAsset: {fileID: 0}
 --- !u!4 &7069396805466040145 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3605490553105012556, guid: 64b4a3bcd838d714897a5776ddc9b99a, type: 3}
@@ -9016,7 +8838,12 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 3605490554327918145, guid: 64b4a3bcd838d714897a5776ddc9b99a, type: 3}
   m_PrefabInstance: {fileID: 5769898915709874205}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &5769898915830473535
+--- !u!1 &7069396804046880835 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3605490554495004766, guid: 64b4a3bcd838d714897a5776ddc9b99a, type: 3}
+  m_PrefabInstance: {fileID: 5769898915709874205}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &7893082811838825358
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -9030,15 +8857,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   colliding: 0
   isCollisionDetectedRight: 0
-  Scenes:
-  - SceneBeforePuzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
-  _dominoTagTRUE: Number5
-  _dominoTagTrueZero: Number0
-  delayInSeconds: 2
-  EndingScene: EndingScene
---- !u!114 &5769898914644827132
+  _dominoTagTRUE:
+  - Number0
+  - Number5
+  delayInSeconds: 8
+  FinishedEra: FinishedEra1
+--- !u!114 &5215459183615177492
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -9052,14 +8878,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   colliding: 0
   isCollisionDetectedRight: 0
-  Scenes:
-  - SceneBeforePuzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
-  _dominoTagTRUE: Number2
-  _dominoTagTrueZero: Number0
-  delayInSeconds: 2
-  EndingScene: EndingScene
+  _dominoTagTRUE:
+  - Number0
+  - Number2
+  delayInSeconds: 8
+  FinishedEra: FinishedEra1
 --- !u!1001 &5769898915752696263
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -9170,17 +8995,17 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 2281407449489852092, guid: b5c0c95751d5e1246b66986057f0553d, type: 3}
   m_PrefabInstance: {fileID: 5769898915752696263}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &5745435901135599721 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 2281407448599191982, guid: b5c0c95751d5e1246b66986057f0553d, type: 3}
-  m_PrefabInstance: {fileID: 5769898915752696263}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &5745435900900814454 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 2281407448833193905, guid: b5c0c95751d5e1246b66986057f0553d, type: 3}
   m_PrefabInstance: {fileID: 5769898915752696263}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &5769898915752696257
+--- !u!1 &5745435901135599721 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2281407448599191982, guid: b5c0c95751d5e1246b66986057f0553d, type: 3}
+  m_PrefabInstance: {fileID: 5769898915752696263}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &2929210033888910688
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -9194,15 +9019,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   colliding: 0
   isCollisionDetectedRight: 0
-  Scenes:
-  - SceneBeforePuzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
-  _dominoTagTRUE: Number6
-  _dominoTagTrueZero: Number0
-  delayInSeconds: 2
-  EndingScene: EndingScene
---- !u!114 &5769898915297080291
+  _dominoTagTRUE:
+  - Number0
+  - Number6
+  delayInSeconds: 8
+  FinishedEra: FinishedEra1
+--- !u!114 &8491986972658152929
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -9211,17 +9035,23 @@ MonoBehaviour:
   m_GameObject: {fileID: 5745435901135599721}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 83ba8948e00d9e644a0d15aad533b8f4, type: 3}
+  m_Script: {fileID: 11500000, guid: 3cb2caff77f12a4479ecbf025df4ce8f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   colliding: 0
   isCollisionDetectedRight: 0
-  Scenes:
-  - SceneBeforePuzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
-  delayInSeconds: 2
-  EndingScene: EndingScene
+  _dominoTagTRUE:
+  - Number0
+  - Number1
+  - Number2
+  - Number3
+  - Number4
+  - Number5
+  - Number6
+  delayInSeconds: 8
+  FinishedEra: FinishedEra1
 --- !u!1001 &5769898915753293828
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -9313,34 +9143,7 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 187184991675740513, guid: e776ec0f01c65d043a5f9127b74d40dc, type: 3}
   m_PrefabInstance: {fileID: 5769898915753293828}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &5948076139503529591 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 187184992604345971, guid: e776ec0f01c65d043a5f9127b74d40dc, type: 3}
-  m_PrefabInstance: {fileID: 5769898915753293828}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &5769898915805996905
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5948076139503529591}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3cb2caff77f12a4479ecbf025df4ce8f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  colliding: 0
-  isCollisionDetectedRight: 0
-  Scenes:
-  - SceneBeforePuzzle_1_A
-  areaCenter: {x: 0, y: 0, z: 0}
-  areaSize: {x: 45.28, y: 150.26, z: 0}
-  _dominoTagTRUE: Number4
-  _dominoTagTrueZero: Number0
-  delayInSeconds: 2
-  EndingScene: EndingScene
---- !u!114 &5769898914359027507
+--- !u!114 &9142525381008331658
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -9349,17 +9152,23 @@ MonoBehaviour:
   m_GameObject: {fileID: 5948076139738773608}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 83ba8948e00d9e644a0d15aad533b8f4, type: 3}
+  m_Script: {fileID: 11500000, guid: 3cb2caff77f12a4479ecbf025df4ce8f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   colliding: 0
   isCollisionDetectedRight: 0
-  Scenes:
-  - SceneBeforePuzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
-  delayInSeconds: 2
-  EndingScene: EndingScene
+  _dominoTagTRUE:
+  - Number0
+  - Number1
+  - Number2
+  - Number3
+  - Number4
+  - Number5
+  - Number6
+  delayInSeconds: 8
+  FinishedEra: FinishedEra1
 --- !u!1001 &5769898915773292520
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -9441,9 +9250,9 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ed9193480f05719489c524657e12570a, type: 3}
---- !u!1 &8673687024226838510 stripped
+--- !u!1 &8673687024394973681 stripped
 GameObject:
-  m_CorrespondingSourceObject: {fileID: 2904236934683473926, guid: ed9193480f05719489c524657e12570a, type: 3}
+  m_CorrespondingSourceObject: {fileID: 2904236934852128281, guid: ed9193480f05719489c524657e12570a, type: 3}
   m_PrefabInstance: {fileID: 5769898915773292520}
   m_PrefabAsset: {fileID: 0}
 --- !u!4 &8673687025043243260 stripped
@@ -9451,34 +9260,7 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 2904236933352398612, guid: ed9193480f05719489c524657e12570a, type: 3}
   m_PrefabInstance: {fileID: 5769898915773292520}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &8673687024394973681 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 2904236934852128281, guid: ed9193480f05719489c524657e12570a, type: 3}
-  m_PrefabInstance: {fileID: 5769898915773292520}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &5769898914740257177
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8673687024226838510}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3cb2caff77f12a4479ecbf025df4ce8f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  colliding: 0
-  isCollisionDetectedRight: 0
-  Scenes:
-  - SceneBeforePuzzle_1_A
-  areaCenter: {x: 0, y: 0, z: 0}
-  areaSize: {x: 45.28, y: 150.26, z: 0}
-  _dominoTagTRUE: Number1
-  _dominoTagTrueZero: Number0
-  delayInSeconds: 2
-  EndingScene: EndingScene
---- !u!114 &5769898915274116411
+--- !u!114 &1659421629639968304
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -9492,14 +9274,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   colliding: 0
   isCollisionDetectedRight: 0
-  Scenes:
-  - SceneBeforePuzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
-  _dominoTagTRUE: Number4
-  _dominoTagTrueZero: Number0
-  delayInSeconds: 2
-  EndingScene: EndingScene
+  _dominoTagTRUE:
+  - Number0
+  - Number4
+  delayInSeconds: 8
+  FinishedEra: FinishedEra1
 --- !u!1001 &5769898915915048461
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -9581,6 +9362,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fafb9506d3e3bbf429211ebd0b09a81f, type: 3}
+--- !u!4 &7073504768514879779 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3618905506075858734, guid: fafb9506d3e3bbf429211ebd0b09a81f, type: 3}
+  m_PrefabInstance: {fileID: 5769898915915048461}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &7073504770005680174 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 3618905505117726243, guid: fafb9506d3e3bbf429211ebd0b09a81f, type: 3}
@@ -9591,12 +9377,7 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 3618905505217507388, guid: fafb9506d3e3bbf429211ebd0b09a81f, type: 3}
   m_PrefabInstance: {fileID: 5769898915915048461}
   m_PrefabAsset: {fileID: 0}
---- !u!4 &7073504768514879779 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 3618905506075858734, guid: fafb9506d3e3bbf429211ebd0b09a81f, type: 3}
-  m_PrefabInstance: {fileID: 5769898915915048461}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &5769898915577895728
+--- !u!114 &8731212402323020097
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -9610,15 +9391,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   colliding: 0
   isCollisionDetectedRight: 0
-  Scenes:
-  - SceneBeforePuzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
-  _dominoTagTRUE: Number1
-  _dominoTagTrueZero: Number0
-  delayInSeconds: 2
-  EndingScene: EndingScene
---- !u!114 &5769898914175357326
+  _dominoTagTRUE:
+  - Number0
+  - Number1
+  delayInSeconds: 8
+  FinishedEra: FinishedEra1
+--- !u!114 &5758740268540809015
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -9632,14 +9412,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   colliding: 0
   isCollisionDetectedRight: 0
-  Scenes:
-  - SceneBeforePuzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
-  _dominoTagTRUE: Number1
-  _dominoTagTrueZero: Number0
-  delayInSeconds: 2
-  EndingScene: EndingScene
+  _dominoTagTRUE:
+  - Number0
+  - Number1
+  delayInSeconds: 8
+  FinishedEra: FinishedEra1
 --- !u!1001 &5769898915929653809
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -9725,11 +9504,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b95938687392e4f4d9c6ca2227bd7823, type: 3}
---- !u!1 &8378955779512094517 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 2619630009033182468, guid: b95938687392e4f4d9c6ca2227bd7823, type: 3}
-  m_PrefabInstance: {fileID: 5769898915929653809}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &8378955779411597610 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 2619630009201908507, guid: b95938687392e4f4d9c6ca2227bd7823, type: 3}
@@ -9740,7 +9514,12 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 2619630010386541078, guid: b95938687392e4f4d9c6ca2227bd7823, type: 3}
   m_PrefabInstance: {fileID: 5769898915929653809}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &5769898915680449269
+--- !u!1 &8378955779512094517 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2619630009033182468, guid: b95938687392e4f4d9c6ca2227bd7823, type: 3}
+  m_PrefabInstance: {fileID: 5769898915929653809}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &6847071108483461648
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -9749,18 +9528,24 @@ MonoBehaviour:
   m_GameObject: {fileID: 8378955779411597610}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 83ba8948e00d9e644a0d15aad533b8f4, type: 3}
+  m_Script: {fileID: 11500000, guid: 3cb2caff77f12a4479ecbf025df4ce8f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   colliding: 0
   isCollisionDetectedRight: 0
-  Scenes:
-  - SceneBeforePuzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
-  delayInSeconds: 2
-  EndingScene: EndingScene
---- !u!114 &5769898915929653811
+  _dominoTagTRUE:
+  - Number0
+  - Number1
+  - Number2
+  - Number3
+  - Number4
+  - Number5
+  - Number6
+  delayInSeconds: 8
+  FinishedEra: FinishedEra1
+--- !u!114 &6495234606204060354
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -9774,14 +9559,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   colliding: 0
   isCollisionDetectedRight: 0
-  Scenes:
-  - SceneBeforePuzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
-  _dominoTagTRUE: Number6
-  _dominoTagTrueZero: Number0
-  delayInSeconds: 2
-  EndingScene: EndingScene
+  _dominoTagTRUE:
+  - Number0
+  - Number6
+  delayInSeconds: 8
+  FinishedEra: FinishedEra1
 --- !u!1001 &5769898916030548516
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -9868,17 +9652,17 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 6632090952625421300, guid: be5128048e7090147bef7372e032ec87, type: 3}
   m_PrefabInstance: {fileID: 5769898916030548516}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &872334845208090306 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 6632090951768300774, guid: be5128048e7090147bef7372e032ec87, type: 3}
-  m_PrefabInstance: {fileID: 5769898916030548516}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &872334845040935133 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6632090951935707897, guid: be5128048e7090147bef7372e032ec87, type: 3}
   m_PrefabInstance: {fileID: 5769898916030548516}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &5769898915488760120
+--- !u!1 &872334845208090306 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6632090951768300774, guid: be5128048e7090147bef7372e032ec87, type: 3}
+  m_PrefabInstance: {fileID: 5769898916030548516}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &8047588366357235250
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -9892,15 +9676,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   colliding: 0
   isCollisionDetectedRight: 0
-  Scenes:
-  - SceneBeforePuzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
-  _dominoTagTRUE: Number3
-  _dominoTagTrueZero: Number0
-  delayInSeconds: 2
-  EndingScene: EndingScene
---- !u!114 &5769898915076407255
+  _dominoTagTRUE:
+  - Number0
+  - Number3
+  delayInSeconds: 8
+  FinishedEra: FinishedEra1
+--- !u!114 &491545384444305502
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -9914,14 +9697,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   colliding: 0
   isCollisionDetectedRight: 0
-  Scenes:
-  - SceneBeforePuzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
-  _dominoTagTRUE: Number1
-  _dominoTagTrueZero: Number0
-  delayInSeconds: 2
-  EndingScene: EndingScene
+  _dominoTagTRUE:
+  - Number0
+  - Number1
+  delayInSeconds: 8
+  FinishedEra: FinishedEra1
 --- !u!1001 &5769898916037069506
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -10018,7 +9800,7 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 9020465430670570408, guid: f592030a2f87583409cd97c8ceb5be94, type: 3}
   m_PrefabInstance: {fileID: 5769898916037069506}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &5769898916031360911
+--- !u!114 &6023805698852237507
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -10032,15 +9814,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   colliding: 0
   isCollisionDetectedRight: 0
-  Scenes:
-  - SceneBeforePuzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
-  _dominoTagTRUE: Number4
-  _dominoTagTrueZero: Number0
-  delayInSeconds: 2
-  EndingScene: EndingScene
---- !u!114 &5769898915979496282
+  _dominoTagTRUE:
+  - Number0
+  - Number4
+  delayInSeconds: 8
+  FinishedEra: FinishedEra1
+--- !u!114 &7918732751618494086
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -10054,14 +9835,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   colliding: 0
   isCollisionDetectedRight: 0
-  Scenes:
-  - SceneBeforePuzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
-  _dominoTagTRUE: Number3
-  _dominoTagTrueZero: Number0
-  delayInSeconds: 2
-  EndingScene: EndingScene
+  _dominoTagTRUE:
+  - Number0
+  - Number3
+  delayInSeconds: 8
+  FinishedEra: FinishedEra1
 --- !u!1001 &5769898916062911910
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -10162,7 +9942,7 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 4000552429959605449, guid: 12f1cfb18ec062d4cb43a7d21d39ad7b, type: 3}
   m_PrefabInstance: {fileID: 5769898916062911910}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &5769898914775254537
+--- !u!114 &6764628945338240124
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -10176,15 +9956,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   colliding: 0
   isCollisionDetectedRight: 0
-  Scenes:
-  - SceneBeforePuzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
-  _dominoTagTRUE: Number1
-  _dominoTagTrueZero: Number0
-  delayInSeconds: 2
-  EndingScene: EndingScene
---- !u!114 &5769898916062911904
+  _dominoTagTRUE:
+  - Number0
+  - Number1
+  delayInSeconds: 8
+  FinishedEra: FinishedEra1
+--- !u!114 &3263030872629862562
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -10198,14 +9977,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   colliding: 0
   isCollisionDetectedRight: 0
-  Scenes:
-  - SceneBeforePuzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
-  _dominoTagTRUE: Number6
-  _dominoTagTrueZero: Number0
-  delayInSeconds: 2
-  EndingScene: EndingScene
+  _dominoTagTRUE:
+  - Number0
+  - Number6
+  delayInSeconds: 8
+  FinishedEra: FinishedEra1
 --- !u!1001 &5769898916104388009
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -10287,63 +10065,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9417d0b223d1a784db2a8dc6c7683674, type: 3}
---- !u!1 &616007981731010531 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 6385738686506592842, guid: 9417d0b223d1a784db2a8dc6c7683674, type: 3}
-  m_PrefabInstance: {fileID: 5769898916104388009}
-  m_PrefabAsset: {fileID: 0}
---- !u!1 &616007981966770684 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 6385738686608145493, guid: 9417d0b223d1a784db2a8dc6c7683674, type: 3}
-  m_PrefabInstance: {fileID: 5769898916104388009}
-  m_PrefabAsset: {fileID: 0}
 --- !u!4 &616007981037119214 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 6385738687431695175, guid: 9417d0b223d1a784db2a8dc6c7683674, type: 3}
   m_PrefabInstance: {fileID: 5769898916104388009}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &5769898915136119420
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 616007981731010531}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3cb2caff77f12a4479ecbf025df4ce8f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  colliding: 0
-  isCollisionDetectedRight: 0
-  Scenes:
-  - SceneBeforePuzzle_1_A
-  areaCenter: {x: 0, y: 0, z: 0}
-  areaSize: {x: 45.28, y: 150.26, z: 0}
-  _dominoTagTRUE: Number1
-  _dominoTagTrueZero: Number0
-  delayInSeconds: 2
-  EndingScene: EndingScene
---- !u!114 &5769898916112630601
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 616007981966770684}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 83ba8948e00d9e644a0d15aad533b8f4, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  colliding: 0
-  isCollisionDetectedRight: 0
-  Scenes:
-  - SceneBeforePuzzle_1_A
-  areaCenter: {x: 0, y: 0, z: 0}
-  areaSize: {x: 45.28, y: 150.26, z: 0}
-  delayInSeconds: 2
-  EndingScene: EndingScene
 --- !u!1001 &5769898916117342939
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -10425,63 +10151,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e8f2a61ca6a69a848bf5aadd180b9d0d, type: 3}
---- !u!1 &3169247004037707390 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 8928844919413841061, guid: e8f2a61ca6a69a848bf5aadd180b9d0d, type: 3}
-  m_PrefabInstance: {fileID: 5769898916117342939}
-  m_PrefabAsset: {fileID: 0}
---- !u!1 &3169247004004835425 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 8928844919246162618, guid: e8f2a61ca6a69a848bf5aadd180b9d0d, type: 3}
-  m_PrefabInstance: {fileID: 5769898916117342939}
-  m_PrefabAsset: {fileID: 0}
 --- !u!4 &3169247002546882419 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 8928844920640417192, guid: e8f2a61ca6a69a848bf5aadd180b9d0d, type: 3}
   m_PrefabInstance: {fileID: 5769898916117342939}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &5769898916100401226
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3169247004004835425}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 83ba8948e00d9e644a0d15aad533b8f4, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  colliding: 0
-  isCollisionDetectedRight: 0
-  Scenes:
-  - SceneBeforePuzzle_1_A
-  areaCenter: {x: 0, y: 0, z: 0}
-  areaSize: {x: 45.28, y: 150.26, z: 0}
-  delayInSeconds: 2
-  EndingScene: EndingScene
---- !u!114 &5769898914816439047
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3169247004037707390}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3cb2caff77f12a4479ecbf025df4ce8f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  colliding: 0
-  isCollisionDetectedRight: 0
-  Scenes:
-  - SceneBeforePuzzle_1_A
-  areaCenter: {x: 0, y: 0, z: 0}
-  areaSize: {x: 45.28, y: 150.26, z: 0}
-  _dominoTagTRUE: Number2
-  _dominoTagTrueZero: Number0
-  delayInSeconds: 2
-  EndingScene: EndingScene
 --- !u!1001 &5769898916151867356
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -10563,9 +10237,9 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5c175dda0ee00b242a809bfbff69bc7a, type: 3}
---- !u!1 &2959976211000772255 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 8719319417167180099, guid: 5c175dda0ee00b242a809bfbff69bc7a, type: 3}
+--- !u!4 &2959976210310128013 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8719319417848125009, guid: 5c175dda0ee00b242a809bfbff69bc7a, type: 3}
   m_PrefabInstance: {fileID: 5769898916151867356}
   m_PrefabAsset: {fileID: 0}
 --- !u!1 &2959976210966270080 stripped
@@ -10573,12 +10247,12 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 8719319416931936092, guid: 5c175dda0ee00b242a809bfbff69bc7a, type: 3}
   m_PrefabInstance: {fileID: 5769898916151867356}
   m_PrefabAsset: {fileID: 0}
---- !u!4 &2959976210310128013 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 8719319417848125009, guid: 5c175dda0ee00b242a809bfbff69bc7a, type: 3}
+--- !u!1 &2959976211000772255 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8719319417167180099, guid: 5c175dda0ee00b242a809bfbff69bc7a, type: 3}
   m_PrefabInstance: {fileID: 5769898916151867356}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &5769898916244715643
+--- !u!114 &1712558951869451427
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -10592,15 +10266,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   colliding: 0
   isCollisionDetectedRight: 0
-  Scenes:
-  - SceneBeforePuzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
-  _dominoTagTRUE: Number2
-  _dominoTagTrueZero: Number0
-  delayInSeconds: 2
-  EndingScene: EndingScene
---- !u!114 &5769898915162752921
+  _dominoTagTRUE:
+  - Number0
+  - Number2
+  delayInSeconds: 8
+  FinishedEra: FinishedEra1
+--- !u!114 &6019708677615703329
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -10614,14 +10287,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   colliding: 0
   isCollisionDetectedRight: 0
-  Scenes:
-  - SceneBeforePuzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
-  _dominoTagTRUE: Number2
-  _dominoTagTrueZero: Number0
-  delayInSeconds: 2
-  EndingScene: EndingScene
+  _dominoTagTRUE:
+  - Number0
+  - Number2
+  delayInSeconds: 8
+  FinishedEra: FinishedEra1
 --- !u!1001 &5769898916239592809
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -10707,36 +10379,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 09d035287b2bbd946bc5f2f37a58f092, type: 3}
---- !u!1 &6434725374053009474 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 675101088369607979, guid: 09d035287b2bbd946bc5f2f37a58f092, type: 3}
-  m_PrefabInstance: {fileID: 5769898916239592809}
-  m_PrefabAsset: {fileID: 0}
 --- !u!4 &6434725374981798223 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 675101087411483686, guid: 09d035287b2bbd946bc5f2f37a58f092, type: 3}
   m_PrefabInstance: {fileID: 5769898916239592809}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &5769898914458351132
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6434725374053009474}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 83ba8948e00d9e644a0d15aad533b8f4, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  colliding: 0
-  isCollisionDetectedRight: 0
-  Scenes:
-  - SceneBeforePuzzle_1_A
-  areaCenter: {x: 0, y: 0, z: 0}
-  areaSize: {x: 45.28, y: 150.26, z: 0}
-  delayInSeconds: 2
-  EndingScene: EndingScene
 --- !u!1001 &5769898916245367912
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -10822,6 +10469,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3dab21c9f132f9c4a94f254e1380653d, type: 3}
+--- !u!4 &5370388951014327646 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1915639742986398006, guid: 3dab21c9f132f9c4a94f254e1380653d, type: 3}
+  m_PrefabInstance: {fileID: 5769898916245367912}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &5370388952500958291 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1915639741524940859, guid: 3dab21c9f132f9c4a94f254e1380653d, type: 3}
@@ -10832,12 +10484,7 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 1915639741558656548, guid: 3dab21c9f132f9c4a94f254e1380653d, type: 3}
   m_PrefabInstance: {fileID: 5769898916245367912}
   m_PrefabAsset: {fileID: 0}
---- !u!4 &5370388951014327646 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 1915639742986398006, guid: 3dab21c9f132f9c4a94f254e1380653d, type: 3}
-  m_PrefabInstance: {fileID: 5769898916245367912}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &5769898916106634811
+--- !u!114 &4503923662744804956
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -10851,15 +10498,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   colliding: 0
   isCollisionDetectedRight: 0
-  Scenes:
-  - SceneBeforePuzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
-  _dominoTagTRUE: Number5
-  _dominoTagTrueZero: Number0
-  delayInSeconds: 2
-  EndingScene: EndingScene
---- !u!114 &5769898915810867992
+  _dominoTagTRUE:
+  - Number0
+  - Number5
+  delayInSeconds: 8
+  FinishedEra: FinishedEra1
+--- !u!114 &7537205628799337321
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -10868,17 +10514,23 @@ MonoBehaviour:
   m_GameObject: {fileID: 5370388952500958291}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 83ba8948e00d9e644a0d15aad533b8f4, type: 3}
+  m_Script: {fileID: 11500000, guid: 3cb2caff77f12a4479ecbf025df4ce8f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   colliding: 0
   isCollisionDetectedRight: 0
-  Scenes:
-  - SceneBeforePuzzle_1_A
   areaCenter: {x: 0, y: 0, z: 0}
   areaSize: {x: 45.28, y: 150.26, z: 0}
-  delayInSeconds: 2
-  EndingScene: EndingScene
+  _dominoTagTRUE:
+  - Number0
+  - Number1
+  - Number2
+  - Number3
+  - Number4
+  - Number5
+  - Number6
+  delayInSeconds: 8
+  FinishedEra: FinishedEra1
 --- !u!1001 &5846376696052270205
 PrefabInstance:
   m_ObjectHideFlags: 0

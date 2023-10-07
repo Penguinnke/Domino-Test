@@ -30,12 +30,75 @@ EditorBuildSettings:
     path: Assets/Scenes/Puzzels/Area1/Puzzle1/SceneAfterPuzzle_1_A.unity
     guid: 9c0e25dd5e1795d4fa1b2cba1d585790
   - enabled: 1
+    path: Assets/Scenes/Puzzels/Area1/Puzzle2/SceneBeforePuzzle2.unity
+    guid: 143c3b99ba3ea814190fdfa9a581bb75
+  - enabled: 1
     path: Assets/Scenes/Puzzels/Area1/Puzzle2/Game2.unity
     guid: dd9e99a6cdf50954cbe8aa39ff4acb39
   - enabled: 1
     path: Assets/Scenes/Puzzels/Area1/Puzzle2/SceneAfterGame2.unity
     guid: f846443ee6e04bb4d93e3b16c9bdeded
   - enabled: 1
-    path: Assets/Scenes/Puzzels/Area1/Puzzle2/SceneBeforePuzzle2.unity
+    path: Assets/Scenes/Puzzels/Area1/Puzzle3/SceneBeforePuzzle3.unity
+    guid: 7fa8d1c41cfec494fbd5e29ed1458d0c
+  - enabled: 1
+    path: Assets/Scenes/Puzzels/Area1/Puzzle3/SceneBeforePuzzle3_2.unity
+    guid: f03611d8c59ce5449a991b957e9cc092
+  - enabled: 1
+    path: Assets/Scenes/Puzzels/Area1/Puzzle3/SceneBeforePuzzle3_3.unity
+    guid: b56aade0ad1792946b302b7795f05b48
+  - enabled: 1
+    path: Assets/Scenes/Puzzels/Area1/Puzzle3/Centaur/AreYouSure_CENTAUR.unity
+    guid: fde1a5bf2e52f494a907e65833669380
+  - enabled: 1
+    path: Assets/Scenes/Puzzels/Area1/Puzzle3/Centaur/SceneBeforePuzzle3_3CENTAUR.unity
+    guid: 4bf88b83129aee54fb65136300093131
+  - enabled: 1
+    path: Assets/Scenes/Puzzels/Area1/Puzzle3/Centaur/SceneBeforePuzzle3CENTAURANSWER.unity
+    guid: f9d3c9fe2429def4bb665575a65aae2f
+  - enabled: 1
+    path: Assets/Scenes/Puzzels/Area1/Puzzle3/Centaur/YesNoCENTAUR.unity
+    guid: b5f70c611f0ca294eb876ce54a203ff6
+  - enabled: 1
+    path: Assets/Scenes/Puzzels/Area1/Puzzle3/Dog/AreYouSure_DOG.unity
+    guid: babea5b672ea3cf488107c3dea47eb62
+  - enabled: 1
+    path: Assets/Scenes/Puzzels/Area1/Puzzle3/Dog/SceneBeforePuzzle3_3CDOG.unity
+    guid: afa38c88499aedf4a8c5d5e099454e2d
+  - enabled: 1
+    path: Assets/Scenes/Puzzels/Area1/Puzzle3/Dog/SceneBeforePuzzle3DOGANSWER.unity
+    guid: 095267ba3a495ca4ba996626f38f144b
+  - enabled: 1
+    path: Assets/Scenes/Puzzels/Area1/Puzzle3/Dog/YesNoDOG.unity
+    guid: 0de55867e1cdd2348833627ae9c59b5c
+  - enabled: 1
+    path: Assets/Scenes/Puzzels/Area1/Puzzle3/Snake/AreYouSure_SNAKE.unity
+    guid: 5d7b92c4ab993d24792cbc6fb483a1dd
+  - enabled: 1
+    path: Assets/Scenes/Puzzels/Area1/Puzzle3/Snake/SceneBeforePuzzle3_3SNAKE.unity
+    guid: 69461f1359f4f9b4492ce08d032c578e
+  - enabled: 1
+    path: Assets/Scenes/Puzzels/Area1/Puzzle3/Snake/SceneBeforePuzzle3SNAKEANSWER.unity
+    guid: ffe7d159d1c54c14c90e5b7ae660fdc3
+  - enabled: 1
+    path: Assets/Scenes/Puzzels/Area1/Puzzle3/Snake/YesNoSNAKE.unity
+    guid: 069f1f571d43ef343abe35ea6c45f95b
+  - enabled: 1
+    path: Assets/Scenes/Puzzels/Area1/Puzzle4/SceneBeforePuzzle4.unity
     guid: bd4af5a25e24a9e4ebf0f9a3f36fabba
+  - enabled: 1
+    path: Assets/Scenes/Puzzels/Area1/Puzzle4/Puzzle_1_D.unity
+    guid: f89ed6dd56a4b2146956b9630edb7b89
+  - enabled: 1
+    path: Assets/Scenes/Puzzels/Area1/Puzzle4/SceneAfterPuzzle4.unity
+    guid: 002096005a7c2a24fa1bb6baa81eeaca
+  - enabled: 1
+    path: Assets/Scenes/Puzzels/FinishedEra1.unity
+    guid: af2fae906be61074dbd9351dc0c22ecf
+  - enabled: 1
+    path: Assets/Scenes/Puzzels/FinishedEra2.unity
+    guid: b8ea1630a75ff284f9378e5055ec32e5
+  - enabled: 1
+    path: Assets/Scenes/Puzzels/FinishedEra3.unity
+    guid: 99f557fe335527a4aa840524167c83db
   m_configObjects: {}

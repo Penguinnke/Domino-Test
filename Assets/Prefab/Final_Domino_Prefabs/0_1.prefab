@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 6385738686506592844}
   - component: {fileID: 7390165304571875463}
   - component: {fileID: 6385738686506592841}
+  - component: {fileID: 3963197016208864713}
   m_Layer: 6
   m_Name: Z_1
   m_TagString: Untagged
@@ -144,6 +145,27 @@ MonoBehaviour:
   wrongCollisionColor: {r: 1, g: 0, b: 0.039215688, a: 1}
   exitColor: {r: 1, g: 1, b: 1, a: 1}
   delay: 2
+--- !u!114 &3963197016208864713
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6385738686506592842}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3cb2caff77f12a4479ecbf025df4ce8f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  colliding: 0
+  isCollisionDetectedRight: 0
+  areaCenter: {x: 0, y: 0, z: 0}
+  areaSize: {x: 45.28, y: 150.26, z: 0}
+  _dominoTagTRUE:
+  - Number1
+  - Number0
+  delayInSeconds: 8
+  FinishedEra: FinishedEra1
 --- !u!1 &6385738686608145493
 GameObject:
   m_ObjectHideFlags: 0
@@ -157,6 +179,7 @@ GameObject:
   - component: {fileID: 6385738686608145455}
   - component: {fileID: 7941407635929724327}
   - component: {fileID: 6385738686608145490}
+  - component: {fileID: 8002118670856461484}
   m_Layer: 6
   m_Name: W_0
   m_TagString: Untagged
@@ -285,6 +308,32 @@ MonoBehaviour:
   collisionColor: {r: 0, g: 1, b: 0.15294118, a: 1}
   exitColor: {r: 1, g: 1, b: 1, a: 1}
   delay: 2
+--- !u!114 &8002118670856461484
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6385738686608145493}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3cb2caff77f12a4479ecbf025df4ce8f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  colliding: 0
+  isCollisionDetectedRight: 0
+  areaCenter: {x: 0, y: 0, z: 0}
+  areaSize: {x: 45.28, y: 150.26, z: 0}
+  _dominoTagTRUE:
+  - Number0
+  - Number1
+  - Number2
+  - Number3
+  - Number4
+  - Number5
+  - Number6
+  delayInSeconds: 8
+  FinishedEra: FinishedEra1
 --- !u!1 &6385738687431695174
 GameObject:
   m_ObjectHideFlags: 0

@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 2511969313971547907}
   - component: {fileID: 2075554113548522952}
   - component: {fileID: 2511969313971547911}
+  - component: {fileID: 485662930909051055}
   m_Layer: 6
   m_Name: Z_0
   m_TagString: Untagged
@@ -141,6 +142,32 @@ MonoBehaviour:
   collisionColor: {r: 0, g: 1, b: 0.15294118, a: 1}
   exitColor: {r: 1, g: 1, b: 1, a: 1}
   delay: 2
+--- !u!114 &485662930909051055
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2511969313971547909}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3cb2caff77f12a4479ecbf025df4ce8f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  colliding: 0
+  isCollisionDetectedRight: 0
+  areaCenter: {x: 0, y: 0, z: 0}
+  areaSize: {x: 45.28, y: 150.26, z: 0}
+  _dominoTagTRUE:
+  - Number0
+  - Number1
+  - Number2
+  - Number3
+  - Number4
+  - Number5
+  - Number6
+  delayInSeconds: 8
+  FinishedEra: FinishedEra1
 --- !u!1 &2511969314072574234
 GameObject:
   m_ObjectHideFlags: 0
