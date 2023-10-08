@@ -31,6 +31,7 @@ TagManager:
   - Number4REV
   - Number5REV
   - Number6REV
+  - Enemy
   layers:
   - Default
   - TransparentFX
