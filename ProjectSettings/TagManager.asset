@@ -32,6 +32,11 @@ TagManager:
   - Number5REV
   - Number6REV
   - Enemy
+  - Pot
+  - Yellow
+  - Red
+  - Blue
+  - Purple
   layers:
   - Default
   - TransparentFX
