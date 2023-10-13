@@ -128,4 +128,28 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Puzzels/Era2/Puzzle2/WinScreenPuzzle2Era2.unity
     guid: 9eb7f1c7385e80d4cbea5f1a62cd87a2
+  - enabled: 1
+    path: Assets/Scenes/Puzzels/Era2/Puzzle3/BeginScreenGame3Era2.unity
+    guid: 60a64e13d39d2b94192bfb066ad26011
+  - enabled: 1
+    path: Assets/Scenes/Puzzels/Era2/Puzzle3/EndSceneGame3Era2.unity
+    guid: 72cfaf551a677344f98dbb014991615b
+  - enabled: 1
+    path: Assets/Scenes/Puzzels/Era2/Puzzle3/Game3Era2.unity
+    guid: 1e2540858e68d0f4ea015239870bb271
+  - enabled: 1
+    path: Assets/Scenes/Puzzels/Era2/Puzzle4/BeginningSceneGame4Era2.unity
+    guid: c4946147ffe7a654eb636a9d28435232
+  - enabled: 1
+    path: Assets/Scenes/Puzzels/Era2/Puzzle4/EndSceneGame4Era2.unity
+    guid: adee4417b549d5443a526d3444e56cc1
+  - enabled: 1
+    path: Assets/Scenes/Puzzels/Era2/Puzzle4/Game4_Era2.unity
+    guid: 767daf730c6fda94fa378ac575e274e4
+  - enabled: 1
+    path: Assets/Scenes/Puzzels/Era3/Game1/BeginningSceneEra3Game1.unity
+    guid: 9a4034dcab64ab0418816011f53f3f31
+  - enabled: 1
+    path: Assets/Scenes/Puzzels/Era3/Game1/Game1Era3.unity
+    guid: 6efae22e09a4a004aba9b2d4ec31edcf
   m_configObjects: {}

@@ -37,6 +37,7 @@ TagManager:
   - Red
   - Blue
   - Purple
+  - Slot
   layers:
   - Default
   - TransparentFX
