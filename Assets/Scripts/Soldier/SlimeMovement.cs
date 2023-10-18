@@ -7,10 +7,10 @@ public class SlimeMovement : MonoBehaviour
 {
     public float minMoveSpeed = 6.0f; // Minimum move speed
     public float maxMoveSpeed = 8.0f; // Maximum move speed
-    public int score = 10; // Public integer to keep track of the score
+    public int score = 10; 
     private Rigidbody2D rb;
-    private float moveSpeed; // Declare moveSpeed here
-    public TextMeshProUGUI scoreText; // Reference to the TextMeshPro object in the Inspector
+    private float moveSpeed; 
+    public TextMeshProUGUI scoreText; 
     public Animator animator;
     public ScoringSystem scoringSystem;
 
@@ -22,12 +22,8 @@ public class SlimeMovement : MonoBehaviour
         moveSpeed = Random.Range(minMoveSpeed, maxMoveSpeed);
 
         rb.velocity = new Vector2(-moveSpeed, 0);
-
-        // Initialize the score text (assuming you've assigned the ScoringSystem GameObject in the Inspector)
         scoringSystem = FindObjectOfType<ScoringSystem>();
     }
-
-    // You can add other functionality here as needed
 
     private void Update()
     {
@@ -36,7 +32,7 @@ public class SlimeMovement : MonoBehaviour
         // Check if the object is off-screen
         if (transform.position.x < Camera.main.transform.position.x - cameraWidth)
         {
-            // Increment the score by 10
+            // Increment the score by 1
             scoringSystem.DecreaseScore(1);
 
             // Calculate the new position based on the camera width
@@ -52,6 +48,7 @@ public class SlimeMovement : MonoBehaviour
     {
     animator.SetBool("Death", true);
     StartCoroutine(DestroyAfterAnimation());
+    
     }
 
     private IEnumerator DestroyAfterAnimation()

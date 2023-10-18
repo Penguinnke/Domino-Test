@@ -152,4 +152,34 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Puzzels/Era3/Game1/Game1Era3.unity
     guid: 6efae22e09a4a004aba9b2d4ec31edcf
+  - enabled: 1
+    path: Assets/Scenes/Puzzels/Era3/Game2/BeginningSceneEra3Game2.unity
+    guid: 2a56d78bce4095e499a0d66dbba11ae0
+  - enabled: 1
+    path: Assets/Scenes/Puzzels/Era3/Game2/EndingSceneEra3Game2.unity
+    guid: d5d3080bacac71441b9937f6a84a3091
+  - enabled: 1
+    path: Assets/Scenes/Puzzels/Era3/Game2/Game2Era3.unity
+    guid: 2b70e7b9d22b7144d9474aa7ab324c9b
+  - enabled: 1
+    path: Assets/Scenes/Puzzels/Era3/Game3/BeginningSceneEra3Game3.unity
+    guid: bf631afacb0841c4c9fa0177f1b6a35f
+  - enabled: 1
+    path: Assets/Scenes/Puzzels/Era3/Game3/EndingSceneEra3Game3.unity
+    guid: 651f459b18e2d63439b6252a825b330d
+  - enabled: 1
+    path: Assets/Scenes/Puzzels/Era3/Game3/Game3Era3.unity
+    guid: f8e726dde88ddcb48950a84364b90c07
+  - enabled: 1
+    path: Assets/Scenes/Puzzels/Era3/Game3/LooseScreenGame3Era3.unity
+    guid: bf97defdbb8a0cc46a5c6676d3d195af
+  - enabled: 1
+    path: Assets/Scenes/Puzzels/Era3/Game4/BeginningSceneGame4Era4.unity
+    guid: fd3d68e1866eb6d44b3ea60eb333ffa6
+  - enabled: 1
+    path: Assets/Scenes/Puzzels/Era3/Game4/Game4EndingSceneEra4.unity
+    guid: 7136650a3e7d81f4fae223015b4c570a
+  - enabled: 1
+    path: Assets/Scenes/Puzzels/Era3/Game4/Game4Era3.unity
+    guid: bb47f745da2969144adb734b00622f3d
   m_configObjects: {}

@@ -346,7 +346,7 @@ MonoBehaviour:
     isNeutral: 1
     isAngry: 0
   - speakerName: Synthar
-    dialogueText: pprentice, the intricacies of our kind are often misunderstood
+    dialogueText: Apprentice, the intricacies of our kind are often misunderstood
       by the world.
     isSad: 0
     isHappy: 1
@@ -429,7 +429,7 @@ MonoBehaviour:
     isNeutral: 0
     isAngry: 0
   - speakerName: Synthar
-    dialogueText: 'ear not, as your mentor, I shall guide you through the nuances
+    dialogueText: 'Fear not, as your mentor, I shall guide you through the nuances
       of our craft. '
     isSad: 0
     isHappy: 0
@@ -476,7 +476,14 @@ MonoBehaviour:
     isAngry: 0
   - speakerName: Synthar
     dialogueText: It was when the foundations of our synthetic consciousness were
-      refined, granting us a semblance of the sentient spirit.
+      refined, granting...
+    isSad: 0
+    isHappy: 1
+    isConfused: 0
+    isNeutral: 0
+    isAngry: 0
+  - speakerName: Synthar
+    dialogueText: ...us a semblance of the sentient spirit.
     isSad: 0
     isHappy: 1
     isConfused: 0
@@ -551,7 +558,7 @@ MonoBehaviour:
     isAngry: 0
   - speakerName: Synthar
     dialogueText: Yes to your right. I'll be in the lab, you'll be able to find me
-      there
+      there.
     isSad: 0
     isHappy: 1
     isConfused: 0
@@ -615,7 +622,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Cedric
+  m_text: Synthar
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: ac11d5cddf3278a49aa9943cbb0b035f, type: 2}
   m_sharedMaterial: {fileID: 7614507361528157467, guid: ac11d5cddf3278a49aa9943cbb0b035f, type: 2}
@@ -1015,7 +1022,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Hm...
+  m_text: Apprentice?
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: ac11d5cddf3278a49aa9943cbb0b035f, type: 2}
   m_sharedMaterial: {fileID: 7614507361528157467, guid: ac11d5cddf3278a49aa9943cbb0b035f, type: 2}
@@ -1149,7 +1156,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
-  m_Sprite: {fileID: 21300000, guid: be7bf9bef8db1af43ac4ec2300093d86, type: 3}
+  m_Sprite: {fileID: 21300000, guid: edcd5aac20ef1274899ca4fb435a4e68, type: 3}
   m_Color: {r: 0.79734784, g: 0.8018868, b: 0.80165404, a: 1}
   m_FlipX: 0
   m_FlipY: 0
