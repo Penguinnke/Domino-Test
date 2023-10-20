@@ -11,9 +11,24 @@ public class EndingSceneDetection : MonoBehaviour
     public bool era1Finished = false;
     public bool era2Finished = false;
 
+    void Start()
+    {
+        DontDestroyOnLoad(gameObject);
+    }
+
     private void Update()
     {
         if (SharedSceneList.Instance != null && SharedSceneList.Instance.Scenes.Count == 0)
+        {
+            EndingCount += 1;
+        }
+
+        if (SharedSceneListEra2.Instance != null && SharedSceneListEra2.Instance.Scenes.Count == 0)
+        {
+            EndingCount += 1;
+        }
+
+        if (SharedSceneListEra3.Instance != null && SharedSceneListEra3.Instance.Scenes.Count == 0)
         {
             EndingCount += 1;
         }

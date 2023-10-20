@@ -10,8 +10,6 @@ public class CopyAndEnableObject : MonoBehaviour
 
     public float minX = -10f; // Minimum X-axis value
     public float maxX = 10f; // Maximum X-axis value
-    public float minY = -5f; // Minimum Y-axis value
-    public float maxY = 5f; // Maximum Y-axis value
 
     private string savePath = "savedPositions.json"; // Path to the saved data file
 
@@ -77,12 +75,14 @@ public class CopyAndEnableObject : MonoBehaviour
         GameObject randomObject = objectsToCopy[randomIndex]; // Get the randomly selected object
 
         GameObject copiedObject = Instantiate(randomObject, objectContainer);
-        
+
         float randomX = Random.Range(minX, maxX);
-        float randomY = Random.Range(minY, maxY);
+
+        // Get the y-coordinate of the camera's position
+        float cameraY = Camera.main.transform.position.y;
 
         float zPos = randomObject.transform.position.z;
-        copiedObject.transform.position = new Vector3(randomX, randomY, zPos);
+        copiedObject.transform.position = new Vector3(randomX, cameraY, zPos);
 
         if (SceneManager.GetActiveScene().name == "TEST_f")
         {
