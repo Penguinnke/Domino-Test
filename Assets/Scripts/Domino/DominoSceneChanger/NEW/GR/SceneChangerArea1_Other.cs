@@ -76,7 +76,7 @@ public class SceneChangerArea1_Other : MonoBehaviour
 
     private void ChangeSceneAfterDelay()
     {
-        // Access the shared list from the SharedSceneList script
+        // Access the shared list from the SharedSceneList for this era script
         List<string> scenes = SharedSceneList.Instance.Scenes;
 
         if (scenes.Count > 0)
