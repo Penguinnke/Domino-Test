@@ -9,12 +9,6 @@ EditorBuildSettings:
     path: Assets/Scenes/Scenes/Menu.unity
     guid: e414fbe5a6a7c5d44b0dd15b3bd9101f
   - enabled: 1
-    path: Assets/Scenes/Scenes/Tutorial_1.unity
-    guid: 6f995ed49be68cf47ba57aa7676ddcef
-  - enabled: 1
-    path: Assets/Scenes/Scenes/Tutorial_2.unity
-    guid: 9c414b8c3308bdf449c05716ac95c425
-  - enabled: 1
     path: Assets/Scenes/Scenes/TEST_f.unity
     guid: 7074d1ada5b6395459e489a846b9c133
   - enabled: 1
@@ -194,4 +188,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Puzzels/Era3/Game4/Game4Era3.unity
     guid: bb47f745da2969144adb734b00622f3d
+  - enabled: 1
+    path: Assets/Scenes/Scenes/EndGame.unity
+    guid: 360167ca8f25bd94c91adee62f14b522
   m_configObjects: {}

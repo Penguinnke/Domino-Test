@@ -101,7 +101,7 @@ Rigidbody2D:
   m_Simulated: 1
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 1
-  m_Mass: 11.135916
+  m_Mass: 4.392112
   m_LinearDrag: 0
   m_AngularDrag: 0.05
   m_GravityScale: 0
@@ -344,6 +344,7 @@ MonoBehaviour:
   - Number6
   delayInSeconds: 8
   FinishedEra: FinishedEra1
+  Crit: {fileID: 7126523554372990346, guid: c6be1938daa6f9c40b907ac07a56dcd9, type: 3}
 --- !u!1 &675101088369607979
 GameObject:
   m_ObjectHideFlags: 0
@@ -512,3 +513,4 @@ MonoBehaviour:
   - Number6
   delayInSeconds: 8
   FinishedEra: FinishedEra1
+  Crit: {fileID: 7126523554372990346, guid: c6be1938daa6f9c40b907ac07a56dcd9, type: 3}

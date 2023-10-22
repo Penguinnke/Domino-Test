@@ -11,6 +11,8 @@ public class EndingSceneDetection : MonoBehaviour
     public bool era1Finished = false;
     public bool era2Finished = false;
 
+    public string EndGame;
+
     void Start()
     {
         DontDestroyOnLoad(gameObject);
@@ -53,7 +55,7 @@ public class EndingSceneDetection : MonoBehaviour
 
         if (EndingCount == 3 && era1Finished && era2Finished && era3Finished)
         {
-            Debug.Log("End game");
+            SceneManager.LoadScene(EndGame);
         }
     }
 }

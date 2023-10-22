@@ -12,6 +12,7 @@ public class Lever : MonoBehaviour
     private bool isPlayerNear = false;
     private bool isLeverOn = false; 
     private bool isFloorOn = true;
+    public AudioSource audioSource;
 
     private void Update()
     {
@@ -25,6 +26,7 @@ public class Lever : MonoBehaviour
                 Bridge.SetActive(isLeverOn);
                 isFloorOn = !isFloorOn; 
                 Floor.SetActive(isFloorOn);
+                 audioSource.Play();
             }
         }
     }

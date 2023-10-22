@@ -81,8 +81,7 @@ public class CopyAndEnableObject : MonoBehaviour
         // Get the y-coordinate of the camera's position
         float cameraY = Camera.main.transform.position.y;
 
-        float zPos = randomObject.transform.position.z;
-        copiedObject.transform.position = new Vector3(randomX, cameraY, zPos);
+        copiedObject.transform.position = new Vector3(randomX, cameraY, 0f);
 
         if (SceneManager.GetActiveScene().name == "TEST_f")
         {
@@ -118,8 +117,7 @@ public class CopyAndEnableObject : MonoBehaviour
                 GameObject copiedObject = Instantiate(randomObject, objectContainer);
                 copiedObject.SetActive(true);
 
-                float zPos = randomObject.transform.position.z;
-                copiedObject.transform.position = new Vector3(position.x, position.y, zPos);
+                copiedObject.transform.position = new Vector3(position.x, position.y, 0f);
 
                 Debug.Log("Position loaded: " + position);
             }

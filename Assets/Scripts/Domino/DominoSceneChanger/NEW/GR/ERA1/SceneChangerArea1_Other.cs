@@ -13,9 +13,11 @@ public class SceneChangerArea1_Other : MonoBehaviour
 
     public string[] _dominoTagTRUE;
 
-    public float delayInSeconds = 8f; // Public delay time in seconds
+    private float delayInSeconds = 1f; 
 
     public string FinishedEra = "FinishedEra"; //You finished that era!! :D
+
+    public GameObject Crit;
 
     private void Start()
     {
@@ -55,6 +57,15 @@ public class SceneChangerArea1_Other : MonoBehaviour
 
                         if (Random.value <= 0.05f && isInsideArea && isCollisionDetectedRight)
                         {
+                            if (Crit != null)
+                            {
+                                Vector3 collisionPoint = _collision.contacts[0].point; // Get the collision point
+                                collisionPoint.y += 1f;
+                                GameObject objectToShow = Instantiate(Crit, collisionPoint, Quaternion.identity);
+                                // Destroy the object after 5 seconds
+                                Destroy(objectToShow, 5.0f);
+                            }
+
                             Debug.Log("5% chance Area1");
 
                             // Add a delay before changing the scene
@@ -81,10 +92,10 @@ public class SceneChangerArea1_Other : MonoBehaviour
 
         if (scenes.Count > 0)
         {
-            int randomIndex = Random.Range(0, scenes.Count);
-            string randomSceneName = scenes[randomIndex];
-            scenes.RemoveAt(randomIndex);
-            SceneManager.LoadScene(randomSceneName);
+            int currentIndex = 0; // Initialize the current index
+            string nextSceneName = scenes[currentIndex];
+            scenes.RemoveAt(currentIndex); // Remove the scene from the list
+            SceneManager.LoadScene(nextSceneName);
         }
         else
         {

@@ -7,6 +7,7 @@ public class PickAndDrop : MonoBehaviour
     private bool isDragging = false;
     private Vector3 offset;
     private Renderer spriteRenderer;
+    public AudioSource audioSource; 
 
     void Start()
     {
@@ -17,6 +18,11 @@ public class PickAndDrop : MonoBehaviour
     {
         isDragging = true;
         offset = transform.position - Camera.main.ScreenToWorldPoint(Input.mousePosition);
+
+        if (audioSource != null)
+        {
+            audioSource.Play();
+        }
     }
 
     private void OnMouseUp()

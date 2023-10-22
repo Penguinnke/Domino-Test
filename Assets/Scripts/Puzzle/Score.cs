@@ -13,14 +13,15 @@ public class Score : MonoBehaviour
     public GameObject Vaas4;
 
     public string Score4Scene;
-
     public TextMeshProUGUI scoreText;
+    public AudioSource audioSource;
+    public AudioClip collisionSound;
 
     private void Update()
     {
-        scoreText.text = "Score: " + score +"/4";
+        scoreText.text = "Score: " + score + "/4";
 
-        if(score == 4)
+        if (score == 4)
         {
             Debug.Log("Finished");
             Invoke("ChangeSceneAfterDelay", 2.0f);
@@ -28,48 +29,47 @@ public class Score : MonoBehaviour
         }
     }
 
-     private void ChangeSceneAfterDelay()
+    private void ChangeSceneAfterDelay()
     {
         SceneManager.LoadScene(Score4Scene);
+    }
+
+    private void PlayCollisionSound()
+    {
+        if (audioSource != null && collisionSound != null)
+        {
+            audioSource.PlayOneShot(collisionSound);
+        }
     }
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
         if (collision.gameObject.CompareTag("Vaas1"))
         {
-            // Increase the score by one
             score++;
-
-            // Turn off the object that this script is attached to
             Vaas1.SetActive(false);
+            PlayCollisionSound();
         }
 
         if (collision.gameObject.CompareTag("Vaas2"))
         {
-            // Increase the score by one
             score++;
-
-            // Turn off the object that this script is attached to
             Vaas2.SetActive(false);
+            PlayCollisionSound();
         }
 
         if (collision.gameObject.CompareTag("Vaas3"))
         {
-            // Increase the score by one
             score++;
-
-            // Turn off the object that this script is attached to
             Vaas3.SetActive(false);
+            PlayCollisionSound();
         }
 
         if (collision.gameObject.CompareTag("Vaas4"))
         {
-            // Increase the score by one
             score++;
-
-            // Turn off the object that this script is attached to
             Vaas4.SetActive(false);
+            PlayCollisionSound();
         }
     }
-    
 }
