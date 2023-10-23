@@ -69,6 +69,9 @@ EditorBuildSettings:
     path: Assets/Scenes/Puzzels/Area1/Puzzle3/Snake/AreYouSure_SNAKE.unity
     guid: 5d7b92c4ab993d24792cbc6fb483a1dd
   - enabled: 1
+    path: Assets/Scenes/Puzzels/Era3/Game1/EndingSceneGame1Era4.unity
+    guid: d3fe95937447265419a9ecd654dc93fd
+  - enabled: 1
     path: Assets/Scenes/Puzzels/Area1/Puzzle3/Snake/SceneBeforePuzzle3_3SNAKE.unity
     guid: 69461f1359f4f9b4492ce08d032c578e
   - enabled: 1

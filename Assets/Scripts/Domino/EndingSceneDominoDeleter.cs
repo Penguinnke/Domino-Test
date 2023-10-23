@@ -12,7 +12,6 @@ public class EndingSceneDominoDeleter : MonoBehaviour
 
     private void Start()
     {
-        // Mark this GameObject as "Don't Destroy On Load"
         DontDestroyOnLoad(gameObject);
 
         SceneManager.sceneLoaded += OnSceneLoaded;
@@ -36,7 +35,14 @@ public class EndingSceneDominoDeleter : MonoBehaviour
         if (sceneLoaded)
         {
             // Check if the objects in the list still exist in the scene
-            DestroyObjectsInList();
+            if (AreObjectsDestroyed())
+            {
+                Destroy(gameObject); 
+            }
+            else
+            {
+                DestroyObjectsInList();
+            }
         }
     }
 
@@ -49,5 +55,17 @@ public class EndingSceneDominoDeleter : MonoBehaviour
                 Destroy(obj);
             }
         }
+    }
+
+    private bool AreObjectsDestroyed()
+    {
+        foreach (GameObject obj in objectsToDestroy)
+        {
+            if (obj != null)
+            {
+                return false; // At least one object is not destroyed
+            }
+        }
+        return true; // All objects are destroyed
     }
 }

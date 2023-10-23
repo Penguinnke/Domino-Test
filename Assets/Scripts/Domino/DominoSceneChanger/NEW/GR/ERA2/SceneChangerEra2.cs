@@ -66,19 +66,19 @@ public class SceneChangerEra2 : MonoBehaviour
                                 Destroy(objectToShow, 5.0f);
                             }
 
-                            Debug.Log("5% chance Area1");
+                            Debug.Log("5% chance Area2");
 
                             // Add a delay before changing the scene
                             Invoke("ChangeSceneAfterDelay", delayInSeconds);
                         }
                         else
                         {
-                            Debug.Log("95% Scene not changed Area1");
+                            Debug.Log("95% Scene not changed Area2");
                         }
 
                         if (!isInsideArea)
                         {
-                            Debug.Log("Outside Area Area1");
+                            Debug.Log("Outside Area Area2");
                         }
                     }
             }

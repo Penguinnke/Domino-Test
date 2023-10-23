@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using TMPro;
+using UnityEngine.SceneManagement; 
 
 public class KeyPad : MonoBehaviour
 {
@@ -10,6 +11,7 @@ public class KeyPad : MonoBehaviour
     public string Answer = "123456789";
     private bool isCodeCorrect = false;
     private bool isCodeIncorrect = false;
+    private float endTime = 0f; 
 
     public void Number(int number)
     {
@@ -32,13 +34,27 @@ public class KeyPad : MonoBehaviour
         {
             Ans.text = "CORRECT";
             isCodeCorrect = true;
+            endTime = Time.time + 2f;
         }
         else
         {
             Ans.text = "INCORRECT";
             isCodeIncorrect = true;
-            StartCoroutine(ResetCodeAfterDelay(2f)); 
+            StartCoroutine(ResetCodeAfterDelay(2f));
         }
+    }
+
+    private void Update()
+    {
+        if (isCodeCorrect && Time.time >= endTime)
+        {
+            SwitchToEndingScene();
+        }
+    }
+
+    private void SwitchToEndingScene()
+    {
+        SceneManager.LoadScene("EndingSceneGame1Era4");
     }
 
     private IEnumerator ResetCodeAfterDelay(float delay)
